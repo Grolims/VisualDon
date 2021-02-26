@@ -5,8 +5,8 @@
    
     <circle cx="130" cy="70" r="25" />
     <circle cx="170" cy="70" r="25" />
-    <circle cx="130" cy="70" r="10" fill ="orange" />
-    <circle cx="170" cy="70" r="10" fill ="orange" />
+    <circle cx="130" cy="70" r="10" fill ="#219ebc" />
+    <circle cx="170" cy="70" r="10" fill ="#219ebc" />
      <path d="M110 110 C 120 140, 180 140, 190 110" stroke="black" />
  
 </svg>
