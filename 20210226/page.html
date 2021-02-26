@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <style>
+
+.tete:hover {
+    fill: green;
+}
+    </style>
+  <body>
+    <svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+
+        <circle id = "y" class = "tete" cx="150" cy="100" r="70"  fill="#ffb703" opacity="0.6" />
+          
+           <circle cx="130" cy="70" r="25" />
+         <circle  cx="170" cy="70" r="25" />
+          <circle id ='t' class ="yeux" cx="135" cy="70" r="10" fill ="orange" />
+        <circle  class ="yeux" cx="160" cy="70" r="10" fill ="orange" />
+            <path id ="bouche" d="M110 110 C 120 140, 180 140, 190 110" stroke="black" />
+       </svg>
+    <script>
+
+const circle = document.getElementById('y');
+const bouche = document.getElementById('bouche');
+let isBlue = true;
+
+circle.addEventListener('click', () => {
+  isBlue = !isBlue
+  bouche.setAttribute('fill', isBlue ? 'black' : 'white')
+  
+})
+    </script>
+  </body>
+</html>
