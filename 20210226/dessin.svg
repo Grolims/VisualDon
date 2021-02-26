@@ -1,7 +1,7 @@
 
 <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
 
- <circle cx="150" cy="100" r="70"  fill="yellow" opacity="0.6" />
+ <circle cx="150" cy="100" r="70"  fill="yellow" />
    
     <circle cx="130" cy="70" r="25" />
     <circle cx="170" cy="70" r="25" />
