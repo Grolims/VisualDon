@@ -16,7 +16,7 @@ Pornhub year in review
 
 - décrivez quelle est l'intention des auteurs
 
-  Monter les tendances en consommation de site pornographique / et la grandeur de l'entreprise et le nombre hallucinant de consommateurs
+  Monter les tendances en consommation de site pornographique / et la grandeur de l'entreprise et le nombre hallucinant de consommateurs, banalisation du porno
 
 - en quoi les choix, de données ou de type de visualisation, aident à faire passer le message souhaité?
 
