@@ -24,4 +24,4 @@ Pornhub year in review
 
 - qu'est ce qui est omis?
 
-  beaucou de stats
+  pertinences des données
