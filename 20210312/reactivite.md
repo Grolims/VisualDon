@@ -4,10 +4,8 @@
 
 - Comment l'utiliser en javascript?
 
-  il faut utiliser un bibliothèque par exemple pour Svelt avec un bind pour lier les valeur ( et dollar pour indiquer les valeurs dynamiques)
-
-  et D
+  il faut utiliser un bibliothèque par exemple par exemple Svelt, pour Svelt avec un bind pour lier les valeurs ( et dollar pour indiquer les valeurss dynamiques)
 
 - Quelle est l'alternative
 
-  Simuler un pseudo réactivité avec D3 et JavaScript avec un changement de variable
+  Simuler une pseudo réactivité avec D3 et JavaScript avec un changement de variables en fonctions des valeurs précédentes lorsque l'on change ces dernières
