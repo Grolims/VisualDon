@@ -8,4 +8,4 @@
 
 - Quelle est l'alternative
 
-  Simuler une pseudo réactivité avec D3 et JavaScript avec un changement de variables en fonctions des valeurs précédentes lorsque l'on change ces dernières
+  Simuler une pseudo réactivité avec D3 et JavaScript avec une mise à jour des variables
