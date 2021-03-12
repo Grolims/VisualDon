@@ -1,6 +1,6 @@
 - Décrivez ce qu'est la programmation réactivité?
 
-  c'est la manière d'utiliser un structure de données ou chaque modification d'une source est répercuté sur les autres élément qui dépende de cette source
+  c'est la manière d'utiliser un structure de données ou chaque modification d'une source est répercuté sur les autres élément qui dépende de cette source. Comme sur observable ou les cellules dans excel
 
 - Comment l'utiliser en javascript?
 
