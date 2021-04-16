@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link rel="stylesheet" href="https://unpkg.com/billboard.js@3.0.2/dist/billboard.min.css" />
+    <script src="https://unpkg.com/billboard.js@3.0.2/dist/billboard.pkgd.min.js"></script>
+  </head>
+  <body>
+    <div id="graph"></div>
+    <script>
+[
+  { nom: 'Aarau', dtv: 37900 },
+  { nom: 'Aathal', dtv: 740 },
+  { nom: 'Aarburg-Oftringen', dtv: 2500 },
+  { nom: 'Acla da Fontauna', dtv: 90 }
+]
+
+bb.generate({
+	data: {
+		columns: [
+			["Aarau", 37900],
+			["Aathal", 740],
+			["Aarburg-Oftringen", 2500]
+		],
+		type: "pie"
+	}
+});
+    </script>
+  </body>
+</html>
