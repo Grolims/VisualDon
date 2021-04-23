@@ -1,0 +1,138 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+    {
+      "type": "Feature",
+      "id": "node/2765365322",
+      "properties": {
+        "amenity": "pharmacy",
+        "name": "Cattin-gare",
+        "id": "node/2765365322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3499873,
+          47.3624271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2765365332",
+      "properties": {
+        "amenity": "pharmacy",
+        "name": "Cattin-ville",
+        "id": "node/2765365332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3452662,
+          47.3650622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2765365490",
+      "properties": {
+        "amenity": "pharmacy",
+        "name": "Sun Store",
+        "wheelchair": "yes",
+        "id": "node/2765365490"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3465988,
+          47.3635608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2765365506",
+      "properties": {
+        "amenity": "pharmacy",
+        "name": "Amavita",
+        "id": "node/2765365506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.347604,
+          47.3646043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2765365537",
+      "properties": {
+        "amenity": "pharmacy",
+        "wheelchair": "yes",
+        "id": "node/2765365537"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3461437,
+          47.3656422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4057151966",
+      "properties": {
+        "amenity": "pharmacy",
+        "name": "Riat",
+        "wheelchair": "yes",
+        "id": "node/4057151966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.349365,
+          47.363519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4368461742",
+      "properties": {
+        "amenity": "pharmacy",
+        "name": "Docteur G. Riat",
+        "name:fr": "Dr. G.Riat",
+        "id": "node/4368461742"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.344478,
+          47.3654364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4368586891",
+      "properties": {
+        "amenity": "pharmacy",
+        "name": "Pharmacie du Tilleul",
+        "name:fr": "Pharmacie du Tilleul",
+        "id": "node/4368586891"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3436188,
+          47.3652784
+        ]
+      }
+    }
+    ]
+    }
+    

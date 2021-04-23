@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-04-23T13:49:13Z"/>
+
+  <node id="2765365322" lat="47.3624271" lon="7.3499873">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name" v="Cattin-gare"/>
+  </node>
+  <node id="2765365332" lat="47.3650622" lon="7.3452662">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name" v="Cattin-ville"/>
+  </node>
+  <node id="2765365490" lat="47.3635608" lon="7.3465988">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name" v="Sun Store"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2765365506" lat="47.3646043" lon="7.3476040">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name" v="Amavita"/>
+  </node>
+  <node id="2765365537" lat="47.3656422" lon="7.3461437">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4057151966" lat="47.3635190" lon="7.3493650">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name" v="Riat"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4368461742" lat="47.3654364" lon="7.3444780">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name" v="Docteur G. Riat"/>
+    <tag k="name:fr" v="Dr. G.Riat"/>
+  </node>
+  <node id="4368586891" lat="47.3652784" lon="7.3436188">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name" v="Pharmacie du Tilleul"/>
+    <tag k="name:fr" v="Pharmacie du Tilleul"/>
+  </node>
+
+</osm>

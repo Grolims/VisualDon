@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-04-23T12:58:28Z"/>
+
+  <node id="1761245886" lat="47.3655902" lon="7.3442414">
+    <tag k="addr:housename" v="Shannon's Irish Bar"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="2800"/>
+    <tag k="addr:street" v="Rue de la Préfecture"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/shannons.irishbar"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Shannon's Irish Bar"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="8140001966" lat="47.3618841" lon="7.3760893">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Brasserie Black Pig"/>
+  </node>
+
+</osm>
