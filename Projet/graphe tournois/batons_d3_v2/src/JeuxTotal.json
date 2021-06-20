@@ -1,0 +1,4342 @@
+[
+   {
+      "Name": "Fortnite",
+      "Earnings": 71598122,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Dota 2",
+      "Earnings": 47043515,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Dota 2",
+      "Earnings": 41457363,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Dota 2",
+      "Earnings": 38074593,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Dota 2",
+      "Earnings": 37464413,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Dota 2",
+      "Earnings": 31050782,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Counter-Strike: Global Offensive",
+      "Earnings": 23306924,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Counter-Strike: Global Offensive",
+      "Earnings": 21988683,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Fortnite",
+      "Earnings": 19880331,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Counter-Strike: Global Offensive",
+      "Earnings": 19270075,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Counter-Strike: Global Offensive",
+      "Earnings": 17266126,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Dota 2",
+      "Earnings": 16608025,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Counter-Strike: Global Offensive",
+      "Earnings": 15858061,
+      "Annee": "2020"
+   },
+   {
+      "Name": "League of Legends",
+      "Earnings": 14573292,
+      "Annee": "2018"
+   },
+   {
+      "Name": "League of Legends",
+      "Earnings": 12232814,
+      "Annee": "2017"
+   },
+   {
+      "Name": "PLAYERUNKNOWN�S BATTLEGROUNDS",
+      "Earnings": 11327216,
+      "Annee": "2019"
+   },
+   {
+      "Name": "League of Legends",
+      "Earnings": 10529055,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Overwatch",
+      "Earnings": 9587033,
+      "Annee": "2019"
+   },
+   {
+      "Name": "League of Legends",
+      "Earnings": 9542077,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Arena of Valor",
+      "Earnings": 9500995,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Dota 2",
+      "Earnings": 9323850,
+      "Annee": "2020"
+   },
+   {
+      "Name": "PLAYERUNKNOWN�S BATTLEGROUNDS",
+      "Earnings": 8319220,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Fortnite",
+      "Earnings": 8208642,
+      "Annee": "2020"
+   },
+   {
+      "Name": "League of Legends",
+      "Earnings": 8163203,
+      "Annee": "2020"
+   },
+   {
+      "Name": "League of Legends",
+      "Earnings": 8057284,
+      "Annee": "2014"
+   },
+   {
+      "Name": "League of Legends",
+      "Earnings": 7717800,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Arena of Valor",
+      "Earnings": 7321270,
+      "Annee": "2019"
+   },
+   {
+      "Name": "PLAYERUNKNOWN�S BATTLEGROUNDS",
+      "Earnings": 7128071,
+      "Annee": "2021"
+   },
+   {
+      "Name": "Overwatch",
+      "Earnings": 6615788,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Counter-Strike: Global Offensive",
+      "Earnings": 6284964,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Call of Duty: Modern Warfare",
+      "Earnings": 6228173,
+      "Annee": "2020"
+   },
+   {
+      "Name": "League of Legends",
+      "Earnings": 6226154,
+      "Annee": "2013"
+   },
+   {
+      "Name": "PLAYERUNKNOWN'S BATTLEGROUNDS Mobile",
+      "Earnings": 6187727,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Call of Duty: Black Ops 4",
+      "Earnings": 5983193,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Heroes of the Storm",
+      "Earnings": 5144450,
+      "Annee": "2017"
+   },
+   {
+      "Name": "PLAYERUNKNOWN�S BATTLEGROUNDS",
+      "Earnings": 5071124,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Rainbow Six Siege",
+      "Earnings": 5018245,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Rainbow Six Siege",
+      "Earnings": 5015761,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Hearthstone",
+      "Earnings": 4717846,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Dota 2",
+      "Earnings": 4543136,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Hearthstone",
+      "Earnings": 4392025,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Heroes of the Storm",
+      "Earnings": 4363151,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Call of Duty: World War II",
+      "Earnings": 4287915,
+      "Annee": "2018"
+   },
+   {
+      "Name": "League of Legends",
+      "Earnings": 4287202,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Heroes of the Storm",
+      "Earnings": 4277279,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Counter-Strike",
+      "Earnings": 4263188,
+      "Annee": "2006"
+   },
+   {
+      "Name": "Overwatch",
+      "Earnings": 4259004,
+      "Annee": "2020"
+   },
+   {
+      "Name": "StarCraft II",
+      "Earnings": 4200051,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Arena of Valor",
+      "Earnings": 4190956,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Call of Duty: Infinite Warfare",
+      "Earnings": 4031181,
+      "Annee": "2017"
+   },
+   {
+      "Name": "StarCraft II",
+      "Earnings": 4025573,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Hearthstone",
+      "Earnings": 3972560,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Rocket League",
+      "Earnings": 3895277,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Call of Duty: Black Ops III",
+      "Earnings": 3862182,
+      "Annee": "2016"
+   },
+   {
+      "Name": "StarCraft II",
+      "Earnings": 3847459,
+      "Annee": "2013"
+   },
+   {
+      "Name": "SMITE",
+      "Earnings": 3709086,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Counter-Strike: Global Offensive",
+      "Earnings": 3614617,
+      "Annee": "2021"
+   },
+   {
+      "Name": "Overwatch",
+      "Earnings": 3488224,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Hearthstone",
+      "Earnings": 3476619,
+      "Annee": "2017"
+   },
+   {
+      "Name": "StarCraft II",
+      "Earnings": 3473751,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Hearthstone",
+      "Earnings": 3455120,
+      "Annee": "2016"
+   },
+   {
+      "Name": "StarCraft II",
+      "Earnings": 3413349,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Halo 5: Guardians",
+      "Earnings": 3411238,
+      "Annee": "2016"
+   },
+   {
+      "Name": "StarCraft II",
+      "Earnings": 3182914,
+      "Annee": "2016"
+   },
+   {
+      "Name": "PLAYERUNKNOWN'S BATTLEGROUNDS Mobile",
+      "Earnings": 3181636,
+      "Annee": "2019"
+   },
+   {
+      "Name": "StarCraft II",
+      "Earnings": 3179858,
+      "Annee": "2011"
+   },
+   {
+      "Name": "StarCraft II",
+      "Earnings": 3126996,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Rocket League",
+      "Earnings": 3084581,
+      "Annee": "2019"
+   },
+   {
+      "Name": "StarCraft II",
+      "Earnings": 3017753,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Magic: The Gathering Arena",
+      "Earnings": 2902006,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Apex Legends",
+      "Earnings": 2861380,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Call of Duty: Warzone",
+      "Earnings": 2825406,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Fortnite",
+      "Earnings": 2556366,
+      "Annee": "2021"
+   },
+   {
+      "Name": "Call of Duty: Advanced Warfare",
+      "Earnings": 2481855,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Heroes of the Storm",
+      "Earnings": 2470682,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Rocket League",
+      "Earnings": 2375804,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Hearthstone",
+      "Earnings": 2372579,
+      "Annee": "2015"
+   },
+   {
+      "Name": "VALORANT",
+      "Earnings": 2310373,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Apex Legends",
+      "Earnings": 2217389,
+      "Annee": "2020"
+   },
+   {
+      "Name": "FIFA 19",
+      "Earnings": 2190914,
+      "Annee": "2019"
+   },
+   {
+      "Name": "StarCraft II",
+      "Earnings": 2100571,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Dota 2",
+      "Earnings": 2087090,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Dota 2",
+      "Earnings": 2010152,
+      "Annee": "2021"
+   },
+   {
+      "Name": "Rainbow Six Siege",
+      "Earnings": 2005269,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Overwatch",
+      "Earnings": 1996936,
+      "Annee": "2016"
+   },
+   {
+      "Name": "FIFA 18",
+      "Earnings": 1989151,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Counter-Strike: Global Offensive",
+      "Earnings": 1962508,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Shadowverse",
+      "Earnings": 1761474,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Counter-Strike",
+      "Earnings": 1681702,
+      "Annee": "2008"
+   },
+   {
+      "Name": "Dota 2",
+      "Earnings": 1672268,
+      "Annee": "2011"
+   },
+   {
+      "Name": "FIFA 20",
+      "Earnings": 1642028,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Counter-Strike",
+      "Earnings": 1630998,
+      "Annee": "2007"
+   },
+   {
+      "Name": "StarCraft: Brood War",
+      "Earnings": 1618052,
+      "Annee": "2006"
+   },
+   {
+      "Name": "Magic: The Gathering Arena",
+      "Earnings": 1600000,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Call of Duty: Ghosts",
+      "Earnings": 1525432,
+      "Annee": "2014"
+   },
+   {
+      "Name": "CrossFire",
+      "Earnings": 1519051,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Rocket League",
+      "Earnings": 1511295,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Quake Champions",
+      "Earnings": 1482850,
+      "Annee": "2017"
+   },
+   {
+      "Name": "FIFA 17",
+      "Earnings": 1452303,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Counter-Strike",
+      "Earnings": 1449651,
+      "Annee": "2010"
+   },
+   {
+      "Name": "Call of Duty: Black Ops 2",
+      "Earnings": 1432136,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Clash of Clans",
+      "Earnings": 1420525,
+      "Annee": "2019"
+   },
+   {
+      "Name": "SMITE",
+      "Earnings": 1367902,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Counter-Strike",
+      "Earnings": 1353437,
+      "Annee": "2005"
+   },
+   {
+      "Name": "Counter-Strike",
+      "Earnings": 1353396,
+      "Annee": "2009"
+   },
+   {
+      "Name": "Halo 5: Guardians",
+      "Earnings": 1348004,
+      "Annee": "2017"
+   },
+   {
+      "Name": "SMITE",
+      "Earnings": 1338244,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Street Fighter V",
+      "Earnings": 1317765,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Shadowverse",
+      "Earnings": 1310000,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Halo 2",
+      "Earnings": 1236100,
+      "Annee": "2006"
+   },
+   {
+      "Name": "Gears 5",
+      "Earnings": 1223000,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Counter-Strike: Global Offensive",
+      "Earnings": 1211864,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Clash of Clans",
+      "Earnings": 1208961,
+      "Annee": "2020"
+   },
+   {
+      "Name": "PLAYERUNKNOWN'S BATTLEGROUNDS Mobile",
+      "Earnings": 1207137,
+      "Annee": "2021"
+   },
+   {
+      "Name": "SMITE",
+      "Earnings": 1183500,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Street Fighter V: Arcade Edition",
+      "Earnings": 1155682,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Lichess",
+      "Earnings": 1140686,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Hearthstone",
+      "Earnings": 1123239,
+      "Annee": "2014"
+   },
+   {
+      "Name": "World of Tanks",
+      "Earnings": 1103052,
+      "Annee": "2015"
+   },
+   {
+      "Name": "chess24",
+      "Earnings": 1084696,
+      "Annee": "2020"
+   },
+   {
+      "Name": "CrossFire",
+      "Earnings": 1074639,
+      "Annee": "2018"
+   },
+   {
+      "Name": "StarCraft: Brood War",
+      "Earnings": 1050522,
+      "Annee": "2008"
+   },
+   {
+      "Name": "StarCraft: Brood War",
+      "Earnings": 1049959,
+      "Annee": "2007"
+   },
+   {
+      "Name": "Super Smash Bros. Ultimate",
+      "Earnings": 1043161,
+      "Annee": "2019"
+   },
+   {
+      "Name": "WarCraft III",
+      "Earnings": 1035148,
+      "Annee": "2006"
+   },
+   {
+      "Name": "CrossFire",
+      "Earnings": 1014147,
+      "Annee": "2019"
+   },
+   {
+      "Name": "PLAYERUNKNOWN�S BATTLEGROUNDS",
+      "Earnings": 1007803,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Turbo Racing League",
+      "Earnings": 1000000,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Clash Royale",
+      "Earnings": 986260,
+      "Annee": "2018"
+   },
+   {
+      "Name": "H1Z1",
+      "Earnings": 951553,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Rocket League",
+      "Earnings": 935509,
+      "Annee": "2021"
+   },
+   {
+      "Name": "Counter-Strike",
+      "Earnings": 899644,
+      "Annee": "2004"
+   },
+   {
+      "Name": "Counter-Strike",
+      "Earnings": 879909,
+      "Annee": "2011"
+   },
+   {
+      "Name": "Clash Royale",
+      "Earnings": 876494,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Counter-Strike: Source",
+      "Earnings": 871996,
+      "Annee": "2008"
+   },
+   {
+      "Name": "Street Fighter V",
+      "Earnings": 869955,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Painkiller",
+      "Earnings": 860001,
+      "Annee": "2005"
+   },
+   {
+      "Name": "Street Fighter V: Arcade Edition",
+      "Earnings": 841159,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Counter-Strike: Source",
+      "Earnings": 840892,
+      "Annee": "2007"
+   },
+   {
+      "Name": "StarCraft II",
+      "Earnings": 820835,
+      "Annee": "2010"
+   },
+   {
+      "Name": "Counter-Strike",
+      "Earnings": 819373,
+      "Annee": "2003"
+   },
+   {
+      "Name": "Heroes of Newerth",
+      "Earnings": 810833,
+      "Annee": "2015"
+   },
+   {
+      "Name": "WarCraft III",
+      "Earnings": 810502,
+      "Annee": "2007"
+   },
+   {
+      "Name": "Halo 3",
+      "Earnings": 798113,
+      "Annee": "2010"
+   },
+   {
+      "Name": "Chess.com",
+      "Earnings": 780279,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Tekken 7",
+      "Earnings": 765781,
+      "Annee": "2019"
+   },
+   {
+      "Name": "F1 2020",
+      "Earnings": 751947,
+      "Annee": "2020"
+   },
+   {
+      "Name": "CrossFire",
+      "Earnings": 718986,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Arena of Valor",
+      "Earnings": 716852,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Quake 4",
+      "Earnings": 716672,
+      "Annee": "2006"
+   },
+   {
+      "Name": "Call of Duty: Warzone",
+      "Earnings": 715591,
+      "Annee": "2021"
+   },
+   {
+      "Name": "StarCraft: Brood War",
+      "Earnings": 708770,
+      "Annee": "2009"
+   },
+   {
+      "Name": "Free Fire",
+      "Earnings": 707611,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Halo 3",
+      "Earnings": 688924,
+      "Annee": "2008"
+   },
+   {
+      "Name": "CrossFire",
+      "Earnings": 687160,
+      "Annee": "2016"
+   },
+   {
+      "Name": "WarCraft III",
+      "Earnings": 681491,
+      "Annee": "2008"
+   },
+   {
+      "Name": "Super Smash Bros. Melee",
+      "Earnings": 674494,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Injustice 2",
+      "Earnings": 673484,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Halo 2",
+      "Earnings": 673462,
+      "Annee": "2007"
+   },
+   {
+      "Name": "Rainbow Six Siege",
+      "Earnings": 663555,
+      "Annee": "2017"
+   },
+   {
+      "Name": "iRacing.com",
+      "Earnings": 661661,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Quake Champions",
+      "Earnings": 651248,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Heroes of Newerth",
+      "Earnings": 649866,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Clash Royale",
+      "Earnings": 647134,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Ultra Street Fighter IV",
+      "Earnings": 642573,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Super Smash Bros. Melee",
+      "Earnings": 631753,
+      "Annee": "2017"
+   },
+   {
+      "Name": "StarCraft: Brood War",
+      "Earnings": 628498,
+      "Annee": "2010"
+   },
+   {
+      "Name": "PLAYERUNKNOWN'S BATTLEGROUNDS Mobile",
+      "Earnings": 617069,
+      "Annee": "2018"
+   },
+   {
+      "Name": "SMITE",
+      "Earnings": 610000,
+      "Annee": "2021"
+   },
+   {
+      "Name": "Halo: Reach",
+      "Earnings": 593520,
+      "Annee": "2011"
+   },
+   {
+      "Name": "StarCraft: Brood War",
+      "Earnings": 592754,
+      "Annee": "2005"
+   },
+   {
+      "Name": "VALORANT",
+      "Earnings": 579667,
+      "Annee": "2021"
+   },
+   {
+      "Name": "Halo 5: Guardians",
+      "Earnings": 573754,
+      "Annee": "2018"
+   },
+   {
+      "Name": "FIFA 19",
+      "Earnings": 551730,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Counter-Strike",
+      "Earnings": 547579,
+      "Annee": "2012"
+   },
+   {
+      "Name": "WarCraft III: Reforged",
+      "Earnings": 541101,
+      "Annee": "2020"
+   },
+   {
+      "Name": "World of WarCraft",
+      "Earnings": 540002,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Arena of Valor",
+      "Earnings": 530400,
+      "Annee": "2021"
+   },
+   {
+      "Name": "League of Legends",
+      "Earnings": 526568,
+      "Annee": "2011"
+   },
+   {
+      "Name": "World of WarCraft",
+      "Earnings": 526002,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Brawlhalla",
+      "Earnings": 523238,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Gears of War 4",
+      "Earnings": 522005,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Super Smash Bros. for Wii U",
+      "Earnings": 515412,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Super Smash Bros. Melee",
+      "Earnings": 514700,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Pro Evolution Soccer 2017",
+      "Earnings": 510000,
+      "Annee": "2017"
+   },
+   {
+      "Name": "CrossFire",
+      "Earnings": 506343,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Gears of War 4",
+      "Earnings": 501285,
+      "Annee": "2016"
+   },
+   {
+      "Name": "CrossFire",
+      "Earnings": 500707,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Paladins",
+      "Earnings": 499104,
+      "Annee": "2018"
+   },
+   {
+      "Name": "StarCraft: Brood War",
+      "Earnings": 498429,
+      "Annee": "2004"
+   },
+   {
+      "Name": "Heroes of Newerth",
+      "Earnings": 486104,
+      "Annee": "2014"
+   },
+   {
+      "Name": "FIFA 20",
+      "Earnings": 476371,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Attack on Titan Tribute Game",
+      "Earnings": 475450,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Brawlhalla",
+      "Earnings": 474840,
+      "Annee": "2020"
+   },
+   {
+      "Name": "TEPPEN",
+      "Earnings": 456721,
+      "Annee": "2019"
+   },
+   {
+      "Name": "World of WarCraft",
+      "Earnings": 450500,
+      "Annee": "2008"
+   },
+   {
+      "Name": "Teamfight Tactics",
+      "Earnings": 449284,
+      "Annee": "2019"
+   },
+   {
+      "Name": "FIFA 13",
+      "Earnings": 441302,
+      "Annee": "2013"
+   },
+   {
+      "Name": "WarCraft III",
+      "Earnings": 438645,
+      "Annee": "2005"
+   },
+   {
+      "Name": "Rocket League",
+      "Earnings": 437196,
+      "Annee": "2016"
+   },
+   {
+      "Name": "FIFA Online 4",
+      "Earnings": 437000,
+      "Annee": "2019"
+   },
+   {
+      "Name": "StarCraft: Brood War",
+      "Earnings": 434886,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Super Smash Bros. for Wii U",
+      "Earnings": 429996,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Vainglory",
+      "Earnings": 424628,
+      "Annee": "2016"
+   },
+   {
+      "Name": "StarCraft: Brood War",
+      "Earnings": 423061,
+      "Annee": "2011"
+   },
+   {
+      "Name": "WarCraft III",
+      "Earnings": 419959,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Quake III Arena",
+      "Earnings": 415236,
+      "Annee": "2000"
+   },
+   {
+      "Name": "Madden NFL 2017",
+      "Earnings": 404005,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Counter-Strike",
+      "Earnings": 400993,
+      "Annee": "2002"
+   },
+   {
+      "Name": "iRacing.com",
+      "Earnings": 399642,
+      "Annee": "2019"
+   },
+   {
+      "Name": "SMITE",
+      "Earnings": 397910,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Paladins",
+      "Earnings": 393629,
+      "Annee": "2020"
+   },
+   {
+      "Name": "WarCraft III",
+      "Earnings": 392573,
+      "Annee": "2019"
+   },
+   {
+      "Name": "WarCraft III",
+      "Earnings": 387344,
+      "Annee": "2009"
+   },
+   {
+      "Name": "World of Tanks",
+      "Earnings": 382441,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Age of Empires II",
+      "Earnings": 379522,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Call of Duty: Black Ops",
+      "Earnings": 376551,
+      "Annee": "2011"
+   },
+   {
+      "Name": "League of Legends",
+      "Earnings": 371700,
+      "Annee": "2021"
+   },
+   {
+      "Name": "World of WarCraft",
+      "Earnings": 370948,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Teamfight Tactics",
+      "Earnings": 370029,
+      "Annee": "2020"
+   },
+   {
+      "Name": "StarCraft: Brood War",
+      "Earnings": 369059,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Super Smash Bros. Melee",
+      "Earnings": 365219,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Gears of War 4",
+      "Earnings": 364007,
+      "Annee": "2017"
+   },
+   {
+      "Name": "WarCraft III",
+      "Earnings": 362762,
+      "Annee": "2010"
+   },
+   {
+      "Name": "Gears 5",
+      "Earnings": 360002,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Counter-Strike: Source",
+      "Earnings": 355410,
+      "Annee": "2006"
+   },
+   {
+      "Name": "WarCraft III",
+      "Earnings": 353385,
+      "Annee": "2004"
+   },
+   {
+      "Name": "Counter-Strike: Source",
+      "Earnings": 351444,
+      "Annee": "2010"
+   },
+   {
+      "Name": "World of WarCraft",
+      "Earnings": 350138,
+      "Annee": "2009"
+   },
+   {
+      "Name": "World of WarCraft",
+      "Earnings": 350001,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Call of Duty: Modern Warfare",
+      "Earnings": 348612,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Counter-Strike",
+      "Earnings": 346590,
+      "Annee": "2001"
+   },
+   {
+      "Name": "StarCraft II",
+      "Earnings": 345900,
+      "Annee": "2021"
+   },
+   {
+      "Name": "FIFA Online 3",
+      "Earnings": 342023,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Heroes of Newerth",
+      "Earnings": 341958,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Tekken 7",
+      "Earnings": 339252,
+      "Annee": "2018"
+   },
+   {
+      "Name": "FIFA Online 3",
+      "Earnings": 335087,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Tekken 7",
+      "Earnings": 325936,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Halo 3",
+      "Earnings": 325200,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Call of Duty: Black Ops 4",
+      "Earnings": 321249,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Call of Duty: Blackout",
+      "Earnings": 315000,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Heroes of the Storm",
+      "Earnings": 311913,
+      "Annee": "2019"
+   },
+   {
+      "Name": "StarCraft: Brood War",
+      "Earnings": 309591,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Paladins",
+      "Earnings": 307824,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Gwent",
+      "Earnings": 302986,
+      "Annee": "2017"
+   },
+   {
+      "Name": "NBA 2K18",
+      "Earnings": 300007,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Hyper Scape",
+      "Earnings": 299000,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Free Fire",
+      "Earnings": 298781,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Mobile Legends: Bang Bang",
+      "Earnings": 297000,
+      "Annee": "2021"
+   },
+   {
+      "Name": "Call of Duty: Blackout",
+      "Earnings": 296608,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Rainbow Six Siege",
+      "Earnings": 295677,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Minecraft",
+      "Earnings": 294700,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Super Smash Bros. Ultimate",
+      "Earnings": 294096,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Brawlhalla",
+      "Earnings": 293603,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Mortal Kombat 11",
+      "Earnings": 291619,
+      "Annee": "2019"
+   },
+   {
+      "Name": "World of WarCraft",
+      "Earnings": 291250,
+      "Annee": "2010"
+   },
+   {
+      "Name": "Halo 2 Anniversary",
+      "Earnings": 278667,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Apex Legends",
+      "Earnings": 277380,
+      "Annee": "2021"
+   },
+   {
+      "Name": "StarCraft: Brood War",
+      "Earnings": 276836,
+      "Annee": "2003"
+   },
+   {
+      "Name": "Super Smash Bros. for Wii U",
+      "Earnings": 276005,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Super Smash Bros. for Wii U",
+      "Earnings": 274694,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Call of Duty: World War II",
+      "Earnings": 271354,
+      "Annee": "2017"
+   },
+   {
+      "Name": "CrossFire",
+      "Earnings": 270613,
+      "Annee": "2013"
+   },
+   {
+      "Name": "H1Z1",
+      "Earnings": 267244,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Forza Motorsport 7",
+      "Earnings": 266201,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Realm Royale",
+      "Earnings": 263000,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Counter-Strike: Source",
+      "Earnings": 261939,
+      "Annee": "2011"
+   },
+   {
+      "Name": "Madden NFL 2018",
+      "Earnings": 259000,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Dead or Alive 4",
+      "Earnings": 254986,
+      "Annee": "2007"
+   },
+   {
+      "Name": "World of WarCraft",
+      "Earnings": 253002,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Hearthstone",
+      "Earnings": 251000,
+      "Annee": "2021"
+   },
+   {
+      "Name": "Paladins",
+      "Earnings": 250003,
+      "Annee": "2019"
+   },
+   {
+      "Name": "World of WarCraft",
+      "Earnings": 250000,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Pro Evolution Soccer 2018",
+      "Earnings": 250000,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Counter-Strike: Source",
+      "Earnings": 247035,
+      "Annee": "2009"
+   },
+   {
+      "Name": "Heroes of Newerth",
+      "Earnings": 246428,
+      "Annee": "2016"
+   },
+   {
+      "Name": "StarCraft: Brood War",
+      "Earnings": 246095,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Defense of the Ancients",
+      "Earnings": 244078,
+      "Annee": "2011"
+   },
+   {
+      "Name": "Call of Duty: Black Ops Cold War",
+      "Earnings": 243000,
+      "Annee": "2020"
+   },
+   {
+      "Name": "WarCraft III",
+      "Earnings": 242948,
+      "Annee": "2017"
+   },
+   {
+      "Name": "FIFA Online 4",
+      "Earnings": 240000,
+      "Annee": "2018"
+   },
+   {
+      "Name": "FIFA Online 3",
+      "Earnings": 237112,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Assetto Corsa",
+      "Earnings": 235632,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Halo 3",
+      "Earnings": 234899,
+      "Annee": "2009"
+   },
+   {
+      "Name": "Mortal Kombat X",
+      "Earnings": 232918,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Super Smash Bros. Melee",
+      "Earnings": 232068,
+      "Annee": "2006"
+   },
+   {
+      "Name": "Super Smash Bros. Melee",
+      "Earnings": 229653,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Clash Royale",
+      "Earnings": 228859,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Project Gotham Racing 3",
+      "Earnings": 224986,
+      "Annee": "2007"
+   },
+   {
+      "Name": "Clash Royale",
+      "Earnings": 224600,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Counter-Strike: Global Offensive",
+      "Earnings": 222535,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Attack on Titan Tribute Game",
+      "Earnings": 220200,
+      "Annee": "2015"
+   },
+   {
+      "Name": "chess24",
+      "Earnings": 220003,
+      "Annee": "2021"
+   },
+   {
+      "Name": "WarCraft III",
+      "Earnings": 219594,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Call of Duty 4: Modern Warfare",
+      "Earnings": 218904,
+      "Annee": "2008"
+   },
+   {
+      "Name": "Pro Evolution Soccer 2019",
+      "Earnings": 216000,
+      "Annee": "2019"
+   },
+   {
+      "Name": "WarCraft III",
+      "Earnings": 215176,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Counter-Strike: Source",
+      "Earnings": 214633,
+      "Annee": "2012"
+   },
+   {
+      "Name": "World of WarCraft",
+      "Earnings": 213500,
+      "Annee": "2007"
+   },
+   {
+      "Name": "FIFA 07",
+      "Earnings": 210510,
+      "Annee": "2007"
+   },
+   {
+      "Name": "World of WarCraft",
+      "Earnings": 208500,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Doom 3",
+      "Earnings": 207748,
+      "Annee": "2004"
+   },
+   {
+      "Name": "Forza Motorsport 2",
+      "Earnings": 207000,
+      "Annee": "2008"
+   },
+   {
+      "Name": "Defense of the Ancients",
+      "Earnings": 205435,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Age of Empires II",
+      "Earnings": 203606,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Quake Champions",
+      "Earnings": 202899,
+      "Annee": "2020"
+   },
+   {
+      "Name": "FIFA 08",
+      "Earnings": 201432,
+      "Annee": "2008"
+   },
+   {
+      "Name": "NASCAR Heat 4",
+      "Earnings": 200500,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Forza Motorsport 7",
+      "Earnings": 199000,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Halo 2",
+      "Earnings": 197850,
+      "Annee": "2005"
+   },
+   {
+      "Name": "Vainglory",
+      "Earnings": 193392,
+      "Annee": "2015"
+   },
+   {
+      "Name": "WarCraft III",
+      "Earnings": 191629,
+      "Annee": "2003"
+   },
+   {
+      "Name": "Dead or Alive 4",
+      "Earnings": 189708,
+      "Annee": "2008"
+   },
+   {
+      "Name": "Farming Simulator 19",
+      "Earnings": 189250,
+      "Annee": "2020"
+   },
+   {
+      "Name": "World of WarCraft",
+      "Earnings": 189000,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Gwent",
+      "Earnings": 186720,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Fall Guys",
+      "Earnings": 184274,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Halo: Combat Evolved",
+      "Earnings": 183456,
+      "Annee": "2004"
+   },
+   {
+      "Name": "Attack on Titan Tribute Game",
+      "Earnings": 180002,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Vainglory",
+      "Earnings": 179400,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Quake Live",
+      "Earnings": 177406,
+      "Annee": "2010"
+   },
+   {
+      "Name": "Rainbow Six: Vegas",
+      "Earnings": 176400,
+      "Annee": "2007"
+   },
+   {
+      "Name": "WarCraft III",
+      "Earnings": 176125,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Age of Empires II",
+      "Earnings": 174684,
+      "Annee": "2021"
+   },
+   {
+      "Name": "H1Z1",
+      "Earnings": 173328,
+      "Annee": "2015"
+   },
+   {
+      "Name": "FIFA 06",
+      "Earnings": 171538,
+      "Annee": "2006"
+   },
+   {
+      "Name": "Gears of War",
+      "Earnings": 170900,
+      "Annee": "2007"
+   },
+   {
+      "Name": "Gears of War: Ultimate Edition",
+      "Earnings": 170000,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Brawlhalla",
+      "Earnings": 168167,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Quake III Arena",
+      "Earnings": 167624,
+      "Annee": "2006"
+   },
+   {
+      "Name": "Super Smash Bros. Melee",
+      "Earnings": 167338,
+      "Annee": "2014"
+   },
+   {
+      "Name": "World of WarCraft",
+      "Earnings": 165000,
+      "Annee": "2011"
+   },
+   {
+      "Name": "Ultra Street Fighter IV",
+      "Earnings": 162629,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Counter-Strike: Condition Zero",
+      "Earnings": 162150,
+      "Annee": "2004"
+   },
+   {
+      "Name": "Age of Empires II",
+      "Earnings": 160541,
+      "Annee": "2001"
+   },
+   {
+      "Name": "Defense of the Ancients",
+      "Earnings": 158303,
+      "Annee": "2010"
+   },
+   {
+      "Name": "Battlefield 2",
+      "Earnings": 158148,
+      "Annee": "2006"
+   },
+   {
+      "Name": "Super Smash Bros. Melee",
+      "Earnings": 157499,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Old School Runescape",
+      "Earnings": 156500,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Blade & Soul",
+      "Earnings": 156182,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Forza Motorsport 7",
+      "Earnings": 155001,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Call of Duty: Modern Warfare 3",
+      "Earnings": 154798,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Heroes of Newerth",
+      "Earnings": 153837,
+      "Annee": "2011"
+   },
+   {
+      "Name": "StarCraft: Brood War",
+      "Earnings": 153779,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Counter-Strike: Source",
+      "Earnings": 150544,
+      "Annee": "2005"
+   },
+   {
+      "Name": "Blade & Soul",
+      "Earnings": 149772,
+      "Annee": "2017"
+   },
+   {
+      "Name": "WarCraft III",
+      "Earnings": 149522,
+      "Annee": "2011"
+   },
+   {
+      "Name": "Quake III Arena",
+      "Earnings": 147734,
+      "Annee": "2001"
+   },
+   {
+      "Name": "Quake 4",
+      "Earnings": 146558,
+      "Annee": "2007"
+   },
+   {
+      "Name": "rFactor 2",
+      "Earnings": 144823,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Project Gotham Racing 3",
+      "Earnings": 144600,
+      "Annee": "2006"
+   },
+   {
+      "Name": "KartRider",
+      "Earnings": 144234,
+      "Annee": "2016"
+   },
+   {
+      "Name": "TrackMania Nations",
+      "Earnings": 144000,
+      "Annee": "2006"
+   },
+   {
+      "Name": "MechWarrior Online",
+      "Earnings": 143490,
+      "Annee": "2016"
+   },
+   {
+      "Name": "iRacing.com",
+      "Earnings": 143340,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Point Blank",
+      "Earnings": 143097,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Counter-Strike Online",
+      "Earnings": 142193,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Gwent",
+      "Earnings": 141571,
+      "Annee": "2018"
+   },
+   {
+      "Name": "StarCraft: Brood War",
+      "Earnings": 139552,
+      "Annee": "1999"
+   },
+   {
+      "Name": "Attack on Titan Tribute Game",
+      "Earnings": 139063,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Age of Empires II",
+      "Earnings": 137697,
+      "Annee": "2019"
+   },
+   {
+      "Name": "StarCraft: Brood War",
+      "Earnings": 133036,
+      "Annee": "2000"
+   },
+   {
+      "Name": "StarCraft: Brood War",
+      "Earnings": 132943,
+      "Annee": "2002"
+   },
+   {
+      "Name": "Forza Motorsport 6",
+      "Earnings": 132750,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Dragon Ball FighterZ",
+      "Earnings": 132738,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Evolve",
+      "Earnings": 131506,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Minecraft",
+      "Earnings": 130000,
+      "Annee": "2019"
+   },
+   {
+      "Name": "ShootMania Storm",
+      "Earnings": 129654,
+      "Annee": "2013"
+   },
+   {
+      "Name": "FIFA 15",
+      "Earnings": 129559,
+      "Annee": "2015"
+   },
+   {
+      "Name": "World of Tanks",
+      "Earnings": 129002,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Battlefield 4",
+      "Earnings": 128317,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Super Street Fighter IV Arcade Edition",
+      "Earnings": 126975,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Call of Duty: Advanced Warfare",
+      "Earnings": 126947,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Tekken 7",
+      "Earnings": 125860,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Quake Live",
+      "Earnings": 125262,
+      "Annee": "2011"
+   },
+   {
+      "Name": "Call of Duty: Infinite Warfare",
+      "Earnings": 125020,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Defense of the Ancients",
+      "Earnings": 124526,
+      "Annee": "2009"
+   },
+   {
+      "Name": "World of Tanks",
+      "Earnings": 123501,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Dragon Ball FighterZ",
+      "Earnings": 123181,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Old School Runescape",
+      "Earnings": 122000,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Point Blank",
+      "Earnings": 121570,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Chess.com",
+      "Earnings": 120423,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Shadowverse",
+      "Earnings": 120000,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Radical Heights",
+      "Earnings": 120000,
+      "Annee": "2018"
+   },
+   {
+      "Name": "FIFA 09",
+      "Earnings": 118882,
+      "Annee": "2009"
+   },
+   {
+      "Name": "Heroes of Newerth",
+      "Earnings": 117046,
+      "Annee": "2017"
+   },
+   {
+      "Name": "FIFA 10",
+      "Earnings": 117022,
+      "Annee": "2010"
+   },
+   {
+      "Name": "Magic: The Gathering Online",
+      "Earnings": 116000,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Magic: The Gathering Online",
+      "Earnings": 116000,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Magic: The Gathering Online",
+      "Earnings": 116000,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Magic: The Gathering Online",
+      "Earnings": 116000,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Guild Wars 2",
+      "Earnings": 115928,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Escape from Tarkov",
+      "Earnings": 114600,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Age of Empires II",
+      "Earnings": 113766,
+      "Annee": "2000"
+   },
+   {
+      "Name": "Pok<U+00E9>mon VGC",
+      "Earnings": 113000,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Unreal Tournament 2003",
+      "Earnings": 111773,
+      "Annee": "2003"
+   },
+   {
+      "Name": "Quake III Arena",
+      "Earnings": 111500,
+      "Annee": "2004"
+   },
+   {
+      "Name": "Assetto Corsa",
+      "Earnings": 110000,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Call of Duty 4: Modern Warfare",
+      "Earnings": 109720,
+      "Annee": "2009"
+   },
+   {
+      "Name": "Warface",
+      "Earnings": 109555,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Super Street Fighter IV Arcade Edition",
+      "Earnings": 107586,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Halo: Combat Evolved",
+      "Earnings": 107150,
+      "Annee": "2003"
+   },
+   {
+      "Name": "Battalion 1944",
+      "Earnings": 107077,
+      "Annee": "2019"
+   },
+   {
+      "Name": "StarCraft: Brood War",
+      "Earnings": 106812,
+      "Annee": "2012"
+   },
+   {
+      "Name": "KartRider",
+      "Earnings": 106712,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Unreal Tournament 2004",
+      "Earnings": 106512,
+      "Annee": "2004"
+   },
+   {
+      "Name": "Farming Simulator 19",
+      "Earnings": 106131,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Counter-Strike Online",
+      "Earnings": 106108,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Dead or Alive 4",
+      "Earnings": 106100,
+      "Annee": "2006"
+   },
+   {
+      "Name": "Unreal Tournament 3",
+      "Earnings": 104812,
+      "Annee": "2008"
+   },
+   {
+      "Name": "FIFA Online 4",
+      "Earnings": 104123,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Magic: The Gathering Online",
+      "Earnings": 104000,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Diabotical",
+      "Earnings": 103858,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Blade & Soul",
+      "Earnings": 103401,
+      "Annee": "2015"
+   },
+   {
+      "Name": "NHL 18",
+      "Earnings": 102700,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Quake III Arena",
+      "Earnings": 102206,
+      "Annee": "2002"
+   },
+   {
+      "Name": "Mortal Kombat 9",
+      "Earnings": 101300,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Mortal Kombat XL",
+      "Earnings": 100941,
+      "Annee": "2016"
+   },
+   {
+      "Name": "ShootMania Storm",
+      "Earnings": 100000,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Madden NFL 19",
+      "Earnings": 100000,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Chess.com",
+      "Earnings": 99857,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Point Blank",
+      "Earnings": 99000,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Age of Empires II",
+      "Earnings": 98653,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Pok<U+00E9>mon VGC",
+      "Earnings": 98500,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Tekken 7",
+      "Earnings": 97214,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Old School Runescape",
+      "Earnings": 97000,
+      "Annee": "2019"
+   },
+   {
+      "Name": "FIFA 16",
+      "Earnings": 95691,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Quake III Arena",
+      "Earnings": 95463,
+      "Annee": "2003"
+   },
+   {
+      "Name": "Call of Duty: Modern Warfare 2",
+      "Earnings": 95448,
+      "Annee": "2010"
+   },
+   {
+      "Name": "Age of Empires II",
+      "Earnings": 92866,
+      "Annee": "2002"
+   },
+   {
+      "Name": "Team Fortress 2",
+      "Earnings": 92840,
+      "Annee": "2018"
+   },
+   {
+      "Name": "rFactor 2",
+      "Earnings": 92698,
+      "Annee": "2019"
+   },
+   {
+      "Name": "StarCraft: Brood War",
+      "Earnings": 91892,
+      "Annee": "2001"
+   },
+   {
+      "Name": "S.K.I.L.L. - Special Force 2",
+      "Earnings": 91545,
+      "Annee": "2015"
+   },
+   {
+      "Name": "FIFA 11",
+      "Earnings": 90176,
+      "Annee": "2011"
+   },
+   {
+      "Name": "Mortal Kombat X",
+      "Earnings": 90131,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Halo 2 Anniversary",
+      "Earnings": 90037,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Multigaming",
+      "Earnings": 89273,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Chess.com",
+      "Earnings": 89000,
+      "Annee": "2021"
+   },
+   {
+      "Name": "Warhammer 40,000: Dawn of War",
+      "Earnings": 86000,
+      "Annee": "2006"
+   },
+   {
+      "Name": "Special Force",
+      "Earnings": 85600,
+      "Annee": "2010"
+   },
+   {
+      "Name": "Soul Calibur VI",
+      "Earnings": 83851,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Battlefield 4",
+      "Earnings": 83378,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Killer Instinct (2013)",
+      "Earnings": 83227,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Team Fortress 2",
+      "Earnings": 82890,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Team Fortress 2",
+      "Earnings": 82719,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Dragon Ball FighterZ",
+      "Earnings": 82056,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Attack on Titan Tribute Game",
+      "Earnings": 82000,
+      "Annee": "2016"
+   },
+   {
+      "Name": "WarCraft III",
+      "Earnings": 81556,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Defense of the Ancients",
+      "Earnings": 81554,
+      "Annee": "2008"
+   },
+   {
+      "Name": "Quake Live",
+      "Earnings": 79945,
+      "Annee": "2009"
+   },
+   {
+      "Name": "Brawlhalla",
+      "Earnings": 78928,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Team Fortress 2",
+      "Earnings": 78896,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Counter-Strike Online",
+      "Earnings": 78688,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Tekken 7",
+      "Earnings": 78597,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Battalion 1944",
+      "Earnings": 78575,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Point Blank",
+      "Earnings": 78000,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Call of Duty: Black Ops III",
+      "Earnings": 77597,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Tekken 6",
+      "Earnings": 76417,
+      "Annee": "2010"
+   },
+   {
+      "Name": "Auto Chess",
+      "Earnings": 76323,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Big Buck Hunter Arcade",
+      "Earnings": 76200,
+      "Annee": "2019"
+   },
+   {
+      "Name": "KartRider",
+      "Earnings": 76160,
+      "Annee": "2017"
+   },
+   {
+      "Name": "RaceRoom Racing Experience",
+      "Earnings": 76035,
+      "Annee": "2020"
+   },
+   {
+      "Name": "StarCraft: Brood War",
+      "Earnings": 75765,
+      "Annee": "2016"
+   },
+   {
+      "Name": "H1Z1",
+      "Earnings": 75000,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Gears of War 2",
+      "Earnings": 75000,
+      "Annee": "2010"
+   },
+   {
+      "Name": "Super Smash Bros. Brawl",
+      "Earnings": 74804,
+      "Annee": "2010"
+   },
+   {
+      "Name": "Super Smash Bros. Melee",
+      "Earnings": 74730,
+      "Annee": "2007"
+   },
+   {
+      "Name": "Super Smash Bros. Ultimate",
+      "Earnings": 74587,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Hearthstone Battlegrounds",
+      "Earnings": 74000,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Team Fortress 2",
+      "Earnings": 72946,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Wolfenstein: Enemy Territory",
+      "Earnings": 72700,
+      "Annee": "2006"
+   },
+   {
+      "Name": "WarCraft III",
+      "Earnings": 72425,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Quake Champions",
+      "Earnings": 72185,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Dead or Alive 6",
+      "Earnings": 72005,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Halo 4",
+      "Earnings": 71801,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Quake Live",
+      "Earnings": 71280,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Ring of Elysium",
+      "Earnings": 70000,
+      "Annee": "2019"
+   },
+   {
+      "Name": "NHL 13",
+      "Earnings": 70000,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Need for Speed: Most Wanted",
+      "Earnings": 70000,
+      "Annee": "2006"
+   },
+   {
+      "Name": "Rise of Nations: Rise of Legends",
+      "Earnings": 69600,
+      "Annee": "2007"
+   },
+   {
+      "Name": "Artifact Classic",
+      "Earnings": 69270,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Call of Duty: Ghosts",
+      "Earnings": 68749,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Age of Empires II",
+      "Earnings": 68539,
+      "Annee": "2018"
+   },
+   {
+      "Name": "FIFA 14",
+      "Earnings": 67656,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Return to Castle Wolfenstein",
+      "Earnings": 67424,
+      "Annee": "2002"
+   },
+   {
+      "Name": "Gears of War",
+      "Earnings": 66974,
+      "Annee": "2008"
+   },
+   {
+      "Name": "WarCraft III",
+      "Earnings": 66899,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Tekken Tag Tournament 2",
+      "Earnings": 66720,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Quake II",
+      "Earnings": 66200,
+      "Annee": "1998"
+   },
+   {
+      "Name": "Street Fighter X Tekken",
+      "Earnings": 66015,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Among Us",
+      "Earnings": 66000,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Quake III Arena",
+      "Earnings": 65618,
+      "Annee": "2008"
+   },
+   {
+      "Name": "StarCraft: Brood War",
+      "Earnings": 65255,
+      "Annee": "2013"
+   },
+   {
+      "Name": "World in Conflict",
+      "Earnings": 65227,
+      "Annee": "2007"
+   },
+   {
+      "Name": "Guns of Boom",
+      "Earnings": 64800,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Halo: Reach",
+      "Earnings": 64566,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Quake Live",
+      "Earnings": 64559,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Point Blank",
+      "Earnings": 64500,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Samurai Shodown (2019)",
+      "Earnings": 64147,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Heroes of Newerth",
+      "Earnings": 64039,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Rainbow Six: Vegas 2",
+      "Earnings": 64000,
+      "Annee": "2008"
+   },
+   {
+      "Name": "Gran Turismo 4",
+      "Earnings": 64000,
+      "Annee": "2006"
+   },
+   {
+      "Name": "Pro Evolution Soccer 5",
+      "Earnings": 64000,
+      "Annee": "2006"
+   },
+   {
+      "Name": "Call of Duty 2",
+      "Earnings": 62492,
+      "Annee": "2006"
+   },
+   {
+      "Name": "Age of Empires",
+      "Earnings": 62321,
+      "Annee": "2016"
+   },
+   {
+      "Name": "BlazBlue: Cross Tag Battle",
+      "Earnings": 62135,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Diabotical",
+      "Earnings": 61223,
+      "Annee": "2021"
+   },
+   {
+      "Name": "CrossFire",
+      "Earnings": 60772,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Injustice 2",
+      "Earnings": 60647,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Guilty Gear Xrd REV 2",
+      "Earnings": 60440,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Guild Wars 2",
+      "Earnings": 60074,
+      "Annee": "2014"
+   },
+   {
+      "Name": "FIFA 21",
+      "Earnings": 60000,
+      "Annee": "2021"
+   },
+   {
+      "Name": "Gears of War 2",
+      "Earnings": 60000,
+      "Annee": "2009"
+   },
+   {
+      "Name": "F.E.A.R.",
+      "Earnings": 60000,
+      "Annee": "2007"
+   },
+   {
+      "Name": "Trackmania (2020)",
+      "Earnings": 59916,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Team Fortress 2",
+      "Earnings": 59637,
+      "Annee": "2008"
+   },
+   {
+      "Name": "Multigaming",
+      "Earnings": 59109,
+      "Annee": "2020"
+   },
+   {
+      "Name": "FIFA 05",
+      "Earnings": 57727,
+      "Annee": "2005"
+   },
+   {
+      "Name": "Soul Calibur V",
+      "Earnings": 57500,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Project M",
+      "Earnings": 57230,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Super Smash Bros. Melee",
+      "Earnings": 56924,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Quake III Arena",
+      "Earnings": 56672,
+      "Annee": "2005"
+   },
+   {
+      "Name": "Super Street Fighter IV Arcade Edition",
+      "Earnings": 56551,
+      "Annee": "2011"
+   },
+   {
+      "Name": "Enemy Territory: Quake Wars",
+      "Earnings": 56273,
+      "Annee": "2007"
+   },
+   {
+      "Name": "Brawl Stars",
+      "Earnings": 56250,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Killer Instinct (2013)",
+      "Earnings": 55479,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Painkiller",
+      "Earnings": 55000,
+      "Annee": "2004"
+   },
+   {
+      "Name": "FIFA 07",
+      "Earnings": 54600,
+      "Annee": "2006"
+   },
+   {
+      "Name": "Age of Empires II",
+      "Earnings": 54444,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Stardew Valley",
+      "Earnings": 54250,
+      "Annee": "2019"
+   },
+   {
+      "Name": "KartRider",
+      "Earnings": 54188,
+      "Annee": "2015"
+   },
+   {
+      "Name": "KartRider",
+      "Earnings": 54123,
+      "Annee": "2011"
+   },
+   {
+      "Name": "FIFA 03",
+      "Earnings": 54066,
+      "Annee": "2003"
+   },
+   {
+      "Name": "TrackMania 2: Stadium",
+      "Earnings": 54043,
+      "Annee": "2019"
+   },
+   {
+      "Name": "StarCraft: Brood War",
+      "Earnings": 53597,
+      "Annee": "2014"
+   },
+   {
+      "Name": "RaceRoom Racing Experience",
+      "Earnings": 53160,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Project M",
+      "Earnings": 53148,
+      "Annee": "2014"
+   },
+   {
+      "Name": "KartRider",
+      "Earnings": 53139,
+      "Annee": "2012"
+   },
+   {
+      "Name": "FIFA 12",
+      "Earnings": 52665,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Age of Empires II",
+      "Earnings": 52280,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Super Smash Bros. Melee",
+      "Earnings": 51997,
+      "Annee": "2009"
+   },
+   {
+      "Name": "Quake 4",
+      "Earnings": 51779,
+      "Annee": "2005"
+   },
+   {
+      "Name": "Asphalt 9: Legends",
+      "Earnings": 51520,
+      "Annee": "2019"
+   },
+   {
+      "Name": "KartRider",
+      "Earnings": 51240,
+      "Annee": "2010"
+   },
+   {
+      "Name": "iRacing.com",
+      "Earnings": 50889,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Quake Live",
+      "Earnings": 50730,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Age of Empires II",
+      "Earnings": 50664,
+      "Annee": "2006"
+   },
+   {
+      "Name": "Spellbreak",
+      "Earnings": 50000,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Rogue Company",
+      "Earnings": 50000,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Hand of the Gods",
+      "Earnings": 50000,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Magic: The Gathering Online",
+      "Earnings": 50000,
+      "Annee": "2009"
+   },
+   {
+      "Name": "Splitgate: Arena Warfare",
+      "Earnings": 50000,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Wolfenstein: Enemy Territory",
+      "Earnings": 50000,
+      "Annee": "2005"
+   },
+   {
+      "Name": "Borderlands 3",
+      "Earnings": 50000,
+      "Annee": "2019"
+   },
+   {
+      "Name": "WWE 2K20",
+      "Earnings": 50000,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Halo: Reach",
+      "Earnings": 50000,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Madden NFL 2016",
+      "Earnings": 50000,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Doom 3",
+      "Earnings": 50000,
+      "Annee": "2005"
+   },
+   {
+      "Name": "Call of Duty",
+      "Earnings": 50000,
+      "Annee": "2004"
+   },
+   {
+      "Name": "FIFA 2000",
+      "Earnings": 50000,
+      "Annee": "2000"
+   },
+   {
+      "Name": "Descent 3",
+      "Earnings": 50000,
+      "Annee": "1999"
+   },
+   {
+      "Name": "Super Smash Bros. Ultimate",
+      "Earnings": 49535,
+      "Annee": "2021"
+   },
+   {
+      "Name": "Quake Live",
+      "Earnings": 49090,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Age of Mythology",
+      "Earnings": 49000,
+      "Annee": "2003"
+   },
+   {
+      "Name": "iRacing.com",
+      "Earnings": 48900,
+      "Annee": "2011"
+   },
+   {
+      "Name": "Artifact Classic",
+      "Earnings": 48666,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Super Smash Bros. Brawl",
+      "Earnings": 48300,
+      "Annee": "2009"
+   },
+   {
+      "Name": "Point Blank",
+      "Earnings": 48000,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Ghost Recon Advanced Warfighter",
+      "Earnings": 48000,
+      "Annee": "2006"
+   },
+   {
+      "Name": "iRacing.com",
+      "Earnings": 47319,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Uncharted 4: A Thief's End",
+      "Earnings": 46235,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Unreal Tournament",
+      "Earnings": 46000,
+      "Annee": "2001"
+   },
+   {
+      "Name": "FIFA 2001",
+      "Earnings": 46000,
+      "Annee": "2001"
+   },
+   {
+      "Name": "Age of Empires II",
+      "Earnings": 45565,
+      "Annee": "2004"
+   },
+   {
+      "Name": "Team Fortress 2",
+      "Earnings": 45488,
+      "Annee": "2011"
+   },
+   {
+      "Name": "Heroes of Newerth",
+      "Earnings": 45063,
+      "Annee": "2010"
+   },
+   {
+      "Name": "Point Blank",
+      "Earnings": 45001,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Dead By Daylight",
+      "Earnings": 45000,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Special Force",
+      "Earnings": 44650,
+      "Annee": "2011"
+   },
+   {
+      "Name": "Super Smash Bros. Melee",
+      "Earnings": 44592,
+      "Annee": "2011"
+   },
+   {
+      "Name": "FIFA 18",
+      "Earnings": 44545,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Hand of the Gods",
+      "Earnings": 44400,
+      "Annee": "2017"
+   },
+   {
+      "Name": "TrackMania Nations Forever",
+      "Earnings": 44160,
+      "Annee": "2010"
+   },
+   {
+      "Name": "Team Fortress 2",
+      "Earnings": 44140,
+      "Annee": "2010"
+   },
+   {
+      "Name": "Killer Instinct (2013)",
+      "Earnings": 44040,
+      "Annee": "2017"
+   },
+   {
+      "Name": "QuakeWorld",
+      "Earnings": 43500,
+      "Annee": "1998"
+   },
+   {
+      "Name": "SMITE",
+      "Earnings": 43472,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Quake III Arena",
+      "Earnings": 43200,
+      "Annee": "1999"
+   },
+   {
+      "Name": "FIFA 2002 World Cup",
+      "Earnings": 43000,
+      "Annee": "2002"
+   },
+   {
+      "Name": "Unreal Tournament",
+      "Earnings": 43000,
+      "Annee": "2002"
+   },
+   {
+      "Name": "Quake II",
+      "Earnings": 42400,
+      "Annee": "1999"
+   },
+   {
+      "Name": "Age of Empires",
+      "Earnings": 41425,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Age of Empires II",
+      "Earnings": 40816,
+      "Annee": "2005"
+   },
+   {
+      "Name": "Pro Evolution Soccer 4",
+      "Earnings": 40550,
+      "Annee": "2005"
+   },
+   {
+      "Name": "Pokk<U+00E9>n Tournament",
+      "Earnings": 40381,
+      "Annee": "2016"
+   },
+   {
+      "Name": "TrackMania 2: Stadium",
+      "Earnings": 40156,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Team Fortress 2",
+      "Earnings": 40005,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Old School Runescape",
+      "Earnings": 40000,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Counter-Strike Online",
+      "Earnings": 40000,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Counter-Strike Online",
+      "Earnings": 40000,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Halo 4",
+      "Earnings": 40000,
+      "Annee": "2012"
+   },
+   {
+      "Name": "FIFA 04",
+      "Earnings": 40000,
+      "Annee": "2004"
+   },
+   {
+      "Name": "Aliens versus Predator 2",
+      "Earnings": 40000,
+      "Annee": "2001"
+   },
+   {
+      "Name": "Forza Motorsport 6",
+      "Earnings": 39850,
+      "Annee": "2016"
+   },
+   {
+      "Name": "BlazBlue: Central Fiction",
+      "Earnings": 39752,
+      "Annee": "2019"
+   },
+   {
+      "Name": "iRacing.com",
+      "Earnings": 39694,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Call of Duty 4: Modern Warfare",
+      "Earnings": 39662,
+      "Annee": "2010"
+   },
+   {
+      "Name": "Super Street Fighter IV Arcade Edition",
+      "Earnings": 39044,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Tekken 6",
+      "Earnings": 38913,
+      "Annee": "2011"
+   },
+   {
+      "Name": "Brawl Stars",
+      "Earnings": 38700,
+      "Annee": "2019"
+   },
+   {
+      "Name": "F1 2019",
+      "Earnings": 38047,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Project M",
+      "Earnings": 38045,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Ultimate Marvel vs. Capcom 3",
+      "Earnings": 37763,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Brawlhalla",
+      "Earnings": 37500,
+      "Annee": "2021"
+   },
+   {
+      "Name": "Team Fortress 2",
+      "Earnings": 37432,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Pokk<U+00E9>n Tournament",
+      "Earnings": 36635,
+      "Annee": "2017"
+   },
+   {
+      "Name": "BlazBlue: Chronophantasma",
+      "Earnings": 36535,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Farming Simulator 19",
+      "Earnings": 36441,
+      "Annee": "2021"
+   },
+   {
+      "Name": "Need for Speed Carbon",
+      "Earnings": 36322,
+      "Annee": "2007"
+   },
+   {
+      "Name": "TrackMania Nations Forever",
+      "Earnings": 36278,
+      "Annee": "2011"
+   },
+   {
+      "Name": "iRacing.com",
+      "Earnings": 36130,
+      "Annee": "2021"
+   },
+   {
+      "Name": "Super Smash Bros. Melee",
+      "Earnings": 36071,
+      "Annee": "2005"
+   },
+   {
+      "Name": "S.K.I.L.L. - Special Force 2",
+      "Earnings": 35929,
+      "Annee": "2014"
+   },
+   {
+      "Name": "TrackMania Nations Forever",
+      "Earnings": 35763,
+      "Annee": "2009"
+   },
+   {
+      "Name": "Need for Speed: Underground 2",
+      "Earnings": 35629,
+      "Annee": "2005"
+   },
+   {
+      "Name": "Yu-Gi-Oh! Duel Links",
+      "Earnings": 35369,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Defense of the Ancients",
+      "Earnings": 35075,
+      "Annee": "2007"
+   },
+   {
+      "Name": "Warhammer 40,000: Dawn of War",
+      "Earnings": 35000,
+      "Annee": "2005"
+   },
+   {
+      "Name": "Red Stone",
+      "Earnings": 35000,
+      "Annee": "2008"
+   },
+   {
+      "Name": "Project Gotham Racing 2",
+      "Earnings": 35000,
+      "Annee": "2004"
+   },
+   {
+      "Name": "Need for Speed: Underground",
+      "Earnings": 35000,
+      "Annee": "2004"
+   },
+   {
+      "Name": "Marvel vs. Capcom: Infinite",
+      "Earnings": 34120,
+      "Annee": "2017"
+   },
+   {
+      "Name": "CrossFire",
+      "Earnings": 34000,
+      "Annee": "2011"
+   },
+   {
+      "Name": "Unreal Tournament 2003",
+      "Earnings": 34000,
+      "Annee": "2002"
+   },
+   {
+      "Name": "Guns of Boom",
+      "Earnings": 33951,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Zwift",
+      "Earnings": 33827,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Project Cars 2",
+      "Earnings": 33750,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Street Fighter V: Champion Edition",
+      "Earnings": 33628,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Project Cars",
+      "Earnings": 33454,
+      "Annee": "2016"
+   },
+   {
+      "Name": "World of Tanks Blitz",
+      "Earnings": 33330,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Age of Empires II",
+      "Earnings": 33280,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Playchess.com",
+      "Earnings": 32865,
+      "Annee": "2020"
+   },
+   {
+      "Name": "iRacing.com",
+      "Earnings": 32500,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Team Fortress 2",
+      "Earnings": 32477,
+      "Annee": "2009"
+   },
+   {
+      "Name": "Under Night In-Birth EXE: Late[st]",
+      "Earnings": 32428,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Project Cars 2",
+      "Earnings": 32400,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Project Cars",
+      "Earnings": 32322,
+      "Annee": "2017"
+   },
+   {
+      "Name": "King of Fighters XIV",
+      "Earnings": 32274,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Need for Speed: ProStreet",
+      "Earnings": 32208,
+      "Annee": "2008"
+   },
+   {
+      "Name": "iRacing.com",
+      "Earnings": 32000,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Identity V",
+      "Earnings": 31911,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Super Smash Bros. Melee",
+      "Earnings": 31742,
+      "Annee": "2010"
+   },
+   {
+      "Name": "Team Fortress 2",
+      "Earnings": 31663,
+      "Annee": "2013"
+   },
+   {
+      "Name": "WarCraft III",
+      "Earnings": 31285,
+      "Annee": "2002"
+   },
+   {
+      "Name": "TrackMania Nations Forever",
+      "Earnings": 30945,
+      "Annee": "2008"
+   },
+   {
+      "Name": "Super Smash Bros. Melee",
+      "Earnings": 30776,
+      "Annee": "2012"
+   },
+   {
+      "Name": "iRacing.com",
+      "Earnings": 30500,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Grey Goo",
+      "Earnings": 30400,
+      "Annee": "2016"
+   },
+   {
+      "Name": "WarCraft III: Reforged",
+      "Earnings": 30360,
+      "Annee": "2021"
+   },
+   {
+      "Name": "Guilty Gear Xrd -SIGN-",
+      "Earnings": 30333,
+      "Annee": "2015"
+   },
+   {
+      "Name": "FIFA 17",
+      "Earnings": 30305,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Call of Duty: Black Ops 4",
+      "Earnings": 30000,
+      "Annee": "2020"
+   },
+   {
+      "Name": "World of Tanks Blitz",
+      "Earnings": 30000,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Forza Motorsport 2",
+      "Earnings": 30000,
+      "Annee": "2006"
+   },
+   {
+      "Name": "Day of Defeat",
+      "Earnings": 30000,
+      "Annee": "2005"
+   },
+   {
+      "Name": "Dead or Alive Ultimate",
+      "Earnings": 30000,
+      "Annee": "2005"
+   },
+   {
+      "Name": "Call of Duty: Black Ops 2",
+      "Earnings": 29997,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Mortal Kombat 9",
+      "Earnings": 29501,
+      "Annee": "2011"
+   },
+   {
+      "Name": "Pro Evolution Soccer 2014",
+      "Earnings": 29410,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Guilty Gear Xrd REV 2",
+      "Earnings": 29180,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Call of Duty 2",
+      "Earnings": 29088,
+      "Annee": "2007"
+   },
+   {
+      "Name": "Guilty Gear Xrd -REVELATOR-",
+      "Earnings": 28899,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Battlerite",
+      "Earnings": 28750,
+      "Annee": "2018"
+   },
+   {
+      "Name": "FIFA 14",
+      "Earnings": 28686,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Halo 5: Guardians",
+      "Earnings": 28490,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Command & Conquer 3",
+      "Earnings": 28185,
+      "Annee": "2008"
+   },
+   {
+      "Name": "Super Smash Bros. Brawl",
+      "Earnings": 28151,
+      "Annee": "2011"
+   },
+   {
+      "Name": "Trackmania (2020)",
+      "Earnings": 28127,
+      "Annee": "2021"
+   },
+   {
+      "Name": "World in Conflict",
+      "Earnings": 28112,
+      "Annee": "2008"
+   },
+   {
+      "Name": "iRacing.com",
+      "Earnings": 28000,
+      "Annee": "2010"
+   },
+   {
+      "Name": "Quake Live",
+      "Earnings": 27999,
+      "Annee": "2016"
+   },
+   {
+      "Name": "League of Legends",
+      "Earnings": 27940,
+      "Annee": "2010"
+   },
+   {
+      "Name": "BlazBlue: Central Fiction",
+      "Earnings": 27870,
+      "Annee": "2017"
+   },
+   {
+      "Name": "RaceRoom Racing Experience",
+      "Earnings": 27768,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Age of Empires II",
+      "Earnings": 27697,
+      "Annee": "2003"
+   },
+   {
+      "Name": "Age of Empires",
+      "Earnings": 27588,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Tekken Tag Tournament 2",
+      "Earnings": 27583,
+      "Annee": "2014"
+   },
+   {
+      "Name": "KartRider",
+      "Earnings": 27570,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Unreal Tournament 2004",
+      "Earnings": 27455,
+      "Annee": "2005"
+   },
+   {
+      "Name": "The Division 2",
+      "Earnings": 27250,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Pro Evolution Soccer 2016",
+      "Earnings": 27241,
+      "Annee": "2016"
+   },
+   {
+      "Name": "FIFA 06",
+      "Earnings": 26694,
+      "Annee": "2005"
+   },
+   {
+      "Name": "Pro Evolution Soccer 2015",
+      "Earnings": 26544,
+      "Annee": "2015"
+   },
+   {
+      "Name": "TrackMania 2: Stadium",
+      "Earnings": 26322,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Project M",
+      "Earnings": 25888,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Battlefield 3",
+      "Earnings": 25406,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Project Gotham Racing 4",
+      "Earnings": 25208,
+      "Annee": "2008"
+   },
+   {
+      "Name": "Gwent",
+      "Earnings": 25000,
+      "Annee": "2019"
+   },
+   {
+      "Name": "QuakeWorld",
+      "Earnings": 25000,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Madden NFL 19",
+      "Earnings": 25000,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Quake Live",
+      "Earnings": 25000,
+      "Annee": "2008"
+   },
+   {
+      "Name": "Pro Evolution Soccer 3",
+      "Earnings": 25000,
+      "Annee": "2004"
+   },
+   {
+      "Name": "Command & Conquer 3",
+      "Earnings": 24901,
+      "Annee": "2007"
+   },
+   {
+      "Name": "Age of Empires II",
+      "Earnings": 24642,
+      "Annee": "2012"
+   },
+   {
+      "Name": "TrackMania 2: Stadium",
+      "Earnings": 24263,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Tekken Tag Tournament 2",
+      "Earnings": 24225,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Mortal Kombat XL",
+      "Earnings": 24002,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Shadowrun",
+      "Earnings": 24000,
+      "Annee": "2007"
+   },
+   {
+      "Name": "Rocket League",
+      "Earnings": 23974,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Chess.com",
+      "Earnings": 23859,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Counter-Strike",
+      "Earnings": 23763,
+      "Annee": "2000"
+   },
+   {
+      "Name": "King of Fighters XIV",
+      "Earnings": 23568,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Battlerite",
+      "Earnings": 23539,
+      "Annee": "2017"
+   },
+   {
+      "Name": "CrossFire",
+      "Earnings": 23000,
+      "Annee": "2010"
+   },
+   {
+      "Name": "Red Stone",
+      "Earnings": 23000,
+      "Annee": "2009"
+   },
+   {
+      "Name": "Super Smash Bros. Melee",
+      "Earnings": 22934,
+      "Annee": "2008"
+   },
+   {
+      "Name": "Chess.com",
+      "Earnings": 22701,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Dota Underlords",
+      "Earnings": 22633,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Guilty Gear Xrd REV 2",
+      "Earnings": 22557,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Killer Instinct (2013)",
+      "Earnings": 22399,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Marvel vs. Capcom 3",
+      "Earnings": 22144,
+      "Annee": "2011"
+   },
+   {
+      "Name": "FIFA 16",
+      "Earnings": 22133,
+      "Annee": "2015"
+   },
+   {
+      "Name": "King of Fighters XIII",
+      "Earnings": 21995,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Ultimate Marvel vs. Capcom 3",
+      "Earnings": 21642,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Bloodline Champions",
+      "Earnings": 21450,
+      "Annee": "2012"
+   },
+   {
+      "Name": "TrackMania Nations",
+      "Earnings": 21381,
+      "Annee": "2007"
+   },
+   {
+      "Name": "Age of Empires II",
+      "Earnings": 21077,
+      "Annee": "2007"
+   },
+   {
+      "Name": "Chess.com",
+      "Earnings": 20854,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Rivals of Aether",
+      "Earnings": 20833,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Madden NFL 2018",
+      "Earnings": 20676,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Day of Defeat",
+      "Earnings": 20600,
+      "Annee": "2006"
+   },
+   {
+      "Name": "Street Fighter III: 3rd Strike",
+      "Earnings": 20500,
+      "Annee": "2006"
+   },
+   {
+      "Name": "Capcom vs. SNK 2",
+      "Earnings": 20500,
+      "Annee": "2006"
+   },
+   {
+      "Name": "Marvel vs. Capcom 2",
+      "Earnings": 20500,
+      "Annee": "2006"
+   },
+   {
+      "Name": "Guilty Gear XX Slash",
+      "Earnings": 20500,
+      "Annee": "2006"
+   },
+   {
+      "Name": "Hyper Street Fighter II",
+      "Earnings": 20500,
+      "Annee": "2006"
+   },
+   {
+      "Name": "Tekken 5",
+      "Earnings": 20500,
+      "Annee": "2006"
+   },
+   {
+      "Name": "Street Fighter V: Arcade Edition",
+      "Earnings": 20285,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Pro Evolution Soccer 6",
+      "Earnings": 20216,
+      "Annee": "2007"
+   },
+   {
+      "Name": "Mad Skills Motocross 2",
+      "Earnings": 20163,
+      "Annee": "2017"
+   },
+   {
+      "Name": "FIFA Online 3",
+      "Earnings": 20124,
+      "Annee": "2015"
+   },
+   {
+      "Name": "StarCraft: Brood War",
+      "Earnings": 20000,
+      "Annee": "1998"
+   },
+   {
+      "Name": "UNO",
+      "Earnings": 20000,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Age of Empires III",
+      "Earnings": 20000,
+      "Annee": "2007"
+   },
+   {
+      "Name": "Quake II",
+      "Earnings": 20000,
+      "Annee": "2005"
+   },
+   {
+      "Name": "Bloodline Champions",
+      "Earnings": 20000,
+      "Annee": "2011"
+   },
+   {
+      "Name": "Carom 3D",
+      "Earnings": 20000,
+      "Annee": "2007"
+   },
+   {
+      "Name": "Shadowverse",
+      "Earnings": 19700,
+      "Annee": "2020"
+   },
+   {
+      "Name": "NHL 19",
+      "Earnings": 19700,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Sekiro: Shadows Die Twice",
+      "Earnings": 19596,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Super Street Fighter IV",
+      "Earnings": 19170,
+      "Annee": "2010"
+   },
+   {
+      "Name": "Wolfenstein: Enemy Territory",
+      "Earnings": 19155,
+      "Annee": "2007"
+   },
+   {
+      "Name": "BlazBlue: Cross Tag Battle",
+      "Earnings": 19143,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Guitar Hero III: Legends of Rock",
+      "Earnings": 19000,
+      "Annee": "2008"
+   },
+   {
+      "Name": "Halo 4",
+      "Earnings": 18950,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Injustice: Gods Among Us",
+      "Earnings": 18906,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Super Smash Bros. Brawl",
+      "Earnings": 18589,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Age of Empires II",
+      "Earnings": 18559,
+      "Annee": "2010"
+   },
+   {
+      "Name": "Battlefield 2142",
+      "Earnings": 18546,
+      "Annee": "2007"
+   },
+   {
+      "Name": "World of Tanks",
+      "Earnings": 18503,
+      "Annee": "2011"
+   },
+   {
+      "Name": "Ultimate Marvel vs. Capcom 3",
+      "Earnings": 18500,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Legends of Runeterra",
+      "Earnings": 18481,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Super Smash Bros. Brawl",
+      "Earnings": 18423,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Super Smash Bros.",
+      "Earnings": 18198,
+      "Annee": "2016"
+   },
+   {
+      "Name": "TrackMania Nations Forever",
+      "Earnings": 18047,
+      "Annee": "2012"
+   },
+   {
+      "Name": "F.E.A.R.",
+      "Earnings": 18001,
+      "Annee": "2008"
+   },
+   {
+      "Name": "Killer Instinct (2013)",
+      "Earnings": 17770,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Ultimate Marvel vs. Capcom 3",
+      "Earnings": 17570,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Age of Empires III",
+      "Earnings": 17500,
+      "Annee": "2008"
+   },
+   {
+      "Name": "Virtua Fighter 5",
+      "Earnings": 17500,
+      "Annee": "2008"
+   },
+   {
+      "Name": "Carom 3D",
+      "Earnings": 17500,
+      "Annee": "2008"
+   },
+   {
+      "Name": "Asphalt 4",
+      "Earnings": 17500,
+      "Annee": "2008"
+   },
+   {
+      "Name": "FIFA 13",
+      "Earnings": 17121,
+      "Annee": "2012"
+   },
+   {
+      "Name": "ShootMania Storm",
+      "Earnings": 17028,
+      "Annee": "2015"
+   },
+   {
+      "Name": "BlazBlue: Continuum Shift II",
+      "Earnings": 16999,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Super Smash Bros. Brawl",
+      "Earnings": 16628,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Mordhau",
+      "Earnings": 16623,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Persona 4 Arena Ultimax",
+      "Earnings": 16528,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Call of Duty 4: Modern Warfare",
+      "Earnings": 16522,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Super Smash Bros. Brawl",
+      "Earnings": 16501,
+      "Annee": "2008"
+   },
+   {
+      "Name": "TrackMania 2: Stadium",
+      "Earnings": 16407,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Super Street Fighter II Turbo HD Remix",
+      "Earnings": 16200,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Soul Calibur VI",
+      "Earnings": 16150,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Street Fighter III: 3rd Strike",
+      "Earnings": 15780,
+      "Annee": "2012"
+   },
+   {
+      "Name": "StarCraft: Brood War",
+      "Earnings": 15666,
+      "Annee": "2021"
+   },
+   {
+      "Name": "Super Smash Bros. Melee",
+      "Earnings": 15550,
+      "Annee": "2003"
+   },
+   {
+      "Name": "Street Fighter X Tekken",
+      "Earnings": 15425,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Age of Empires II",
+      "Earnings": 15424,
+      "Annee": "2008"
+   },
+   {
+      "Name": "Battlefield 4",
+      "Earnings": 15408,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Lichess",
+      "Earnings": 15325,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Assetto Corsa",
+      "Earnings": 15000,
+      "Annee": "2018"
+   },
+   {
+      "Name": "ShootMania Storm",
+      "Earnings": 15000,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Marvel vs. Capcom 2",
+      "Earnings": 15000,
+      "Annee": "2011"
+   },
+   {
+      "Name": "QuakeWorld",
+      "Earnings": 15000,
+      "Annee": "2001"
+   },
+   {
+      "Name": "Dead By Daylight",
+      "Earnings": 15000,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Street Fighter V",
+      "Earnings": 15000,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Rainbow Six: Vegas 2",
+      "Earnings": 15000,
+      "Annee": "2009"
+   },
+   {
+      "Name": "Injustice: Gods Among Us",
+      "Earnings": 14900,
+      "Annee": "2014"
+   },
+   {
+      "Name": "FIFA 15",
+      "Earnings": 14807,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Call of Duty 4: Modern Warfare",
+      "Earnings": 14652,
+      "Annee": "2011"
+   },
+   {
+      "Name": "King of Fighters XIII",
+      "Earnings": 14444,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Heroes of the Storm",
+      "Earnings": 14257,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Rivals of Aether",
+      "Earnings": 14100,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Gran Turismo Sport",
+      "Earnings": 14100,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Halo: Reach",
+      "Earnings": 14001,
+      "Annee": "2010"
+   },
+   {
+      "Name": "Super Smash Bros.",
+      "Earnings": 13924,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Super Street Fighter IV Arcade Edition",
+      "Earnings": 13712,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Lichess",
+      "Earnings": 13600,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Battlefield Hardline",
+      "Earnings": 13463,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Yu-Gi-Oh! Duel Links",
+      "Earnings": 13348,
+      "Annee": "2017"
+   },
+   {
+      "Name": "ARMS",
+      "Earnings": 13294,
+      "Annee": "2018"
+   },
+   {
+      "Name": "TrackMania 2: Canyon",
+      "Earnings": 13233,
+      "Annee": "2012"
+   },
+   {
+      "Name": "rFactor 2",
+      "Earnings": 13111,
+      "Annee": "2021"
+   },
+   {
+      "Name": "Project M",
+      "Earnings": 13052,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Ultimate Marvel vs. Capcom 3",
+      "Earnings": 13045,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Prophecy",
+      "Earnings": 13000,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Age of Empires",
+      "Earnings": 12939,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Battlerite",
+      "Earnings": 12880,
+      "Annee": "2016"
+   },
+   {
+      "Name": "TrackMania 2: Stadium",
+      "Earnings": 12563,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Tekken 4",
+      "Earnings": 12500,
+      "Annee": "2003"
+   },
+   {
+      "Name": "TrackMania 2: Stadium",
+      "Earnings": 12384,
+      "Annee": "2016"
+   },
+   {
+      "Name": "osu!",
+      "Earnings": 12360,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Heavy Metal Machines",
+      "Earnings": 12339,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Wolfenstein: Enemy Territory",
+      "Earnings": 12014,
+      "Annee": "2008"
+   },
+   {
+      "Name": "TrackMania 2: Stadium",
+      "Earnings": 12006,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Virtua Fighter 5",
+      "Earnings": 12000,
+      "Annee": "2009"
+   },
+   {
+      "Name": "Carom 3D",
+      "Earnings": 12000,
+      "Annee": "2009"
+   },
+   {
+      "Name": "Asphalt 4",
+      "Earnings": 12000,
+      "Annee": "2009"
+   },
+   {
+      "Name": "Wise Star 2",
+      "Earnings": 12000,
+      "Annee": "2009"
+   },
+   {
+      "Name": "Gran Turismo 4",
+      "Earnings": 12000,
+      "Annee": "2005"
+   },
+   {
+      "Name": "Age of Empires",
+      "Earnings": 11954,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Super Smash Bros.",
+      "Earnings": 11915,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Team Fortress 2",
+      "Earnings": 11403,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Carom 3D",
+      "Earnings": 11000,
+      "Annee": "2010"
+   },
+   {
+      "Name": "Forza Motorsport 3",
+      "Earnings": 11000,
+      "Annee": "2010"
+   },
+   {
+      "Name": "Age of Empires",
+      "Earnings": 10960,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Tetris",
+      "Earnings": 10926,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Super Smash Bros.",
+      "Earnings": 10747,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Super Smash Bros. Melee",
+      "Earnings": 10644,
+      "Annee": "2004"
+   },
+   {
+      "Name": "Quake III Arena",
+      "Earnings": 10589,
+      "Annee": "2009"
+   },
+   {
+      "Name": "Guitar Hero 5",
+      "Earnings": 10500,
+      "Annee": "2010"
+   },
+   {
+      "Name": "Need for Speed: Shift",
+      "Earnings": 10500,
+      "Annee": "2010"
+   },
+   {
+      "Name": "Quake Live",
+      "Earnings": 10490,
+      "Annee": "2017"
+   },
+   {
+      "Name": "King of Fighters XIV",
+      "Earnings": 10469,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Age of Empires II",
+      "Earnings": 10458,
+      "Annee": "2011"
+   },
+   {
+      "Name": "Battlefield 4",
+      "Earnings": 10274,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Street Fighter III: 3rd Strike",
+      "Earnings": 10250,
+      "Annee": "2007"
+   },
+   {
+      "Name": "Super Street Fighter II Turbo",
+      "Earnings": 10250,
+      "Annee": "2007"
+   },
+   {
+      "Name": "Capcom vs. SNK 2",
+      "Earnings": 10250,
+      "Annee": "2007"
+   },
+   {
+      "Name": "Marvel vs. Capcom 2",
+      "Earnings": 10250,
+      "Annee": "2007"
+   },
+   {
+      "Name": "Virtua Fighter 5",
+      "Earnings": 10250,
+      "Annee": "2007"
+   },
+   {
+      "Name": "Tekken 5: Dark Resurrection",
+      "Earnings": 10250,
+      "Annee": "2007"
+   },
+   {
+      "Name": "Guilty Gear XX Accent Core",
+      "Earnings": 10250,
+      "Annee": "2007"
+   },
+   {
+      "Name": "Gears of War",
+      "Earnings": 10193,
+      "Annee": "2010"
+   },
+   {
+      "Name": "Halo 3",
+      "Earnings": 10139,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Age of Empires II",
+      "Earnings": 10134,
+      "Annee": "2009"
+   },
+   {
+      "Name": "Critical Ops",
+      "Earnings": 10106,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Gran Turismo Sport",
+      "Earnings": 10080,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Counter-Strike",
+      "Earnings": 10080,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Tetris",
+      "Earnings": 10000,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Among Us",
+      "Earnings": 10000,
+      "Annee": "2021"
+   },
+   {
+      "Name": "Dirt Rally 2.0",
+      "Earnings": 10000,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Magic: The Gathering Arena",
+      "Earnings": 10000,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Internet Chess Club",
+      "Earnings": 10000,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Quake II",
+      "Earnings": 10000,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Call of Duty: Modern Warfare 2",
+      "Earnings": 10000,
+      "Annee": "2011"
+   },
+   {
+      "Name": "Day of Defeat",
+      "Earnings": 10000,
+      "Annee": "2004"
+   }
+]

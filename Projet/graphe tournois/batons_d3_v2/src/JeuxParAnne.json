@@ -1,0 +1,650 @@
+{
+   "1998": [
+      {
+         "Name": "Quake II",
+         "Earnings": 66200,
+         "Annee": "1998"
+      },
+      {
+         "Name": "QuakeWorld",
+         "Earnings": 43500,
+         "Annee": "1998"
+      },
+      {
+         "Name": "StarCraft: Brood War",
+         "Earnings": 20000,
+         "Annee": "1998"
+      },
+      {
+         "Name": "Age of Empires",
+         "Earnings": 2000,
+         "Annee": "1998"
+      },
+      {
+         "Name": "",
+         "Earnings": 0,
+         "Annee": "1998"
+      }
+   ],
+   "1999": [
+      {
+         "Name": "StarCraft: Brood War",
+         "Earnings": 139552,
+         "Annee": "1999"
+      },
+      {
+         "Name": "Descent 3",
+         "Earnings": 50000,
+         "Annee": "1999"
+      },
+      {
+         "Name": "Quake III Arena",
+         "Earnings": 43200,
+         "Annee": "1999"
+      },
+      {
+         "Name": "Quake II",
+         "Earnings": 42400,
+         "Annee": "1999"
+      },
+      {
+         "Name": "",
+         "Earnings": 0,
+         "Annee": "1998"
+      }
+   ],
+   "2000": [
+      {
+         "Name": "Quake III Arena",
+         "Earnings": 415236,
+         "Annee": "2000"
+      },
+      {
+         "Name": "StarCraft: Brood War",
+         "Earnings": 133036,
+         "Annee": "2000"
+      },
+      {
+         "Name": "Age of Empires II",
+         "Earnings": 113766,
+         "Annee": "2000"
+      },
+      {
+         "Name": "FIFA 2000",
+         "Earnings": 50000,
+         "Annee": "2000"
+      },
+      {
+         "Name": "Counter-Strike",
+         "Earnings": 23763,
+         "Annee": "2000"
+      }
+   ],
+   "2001": [
+      {
+         "Name": "Counter-Strike",
+         "Earnings": 346590,
+         "Annee": "2001"
+      },
+      {
+         "Name": "Age of Empires II",
+         "Earnings": 160541,
+         "Annee": "2001"
+      },
+      {
+         "Name": "Quake III Arena",
+         "Earnings": 147734,
+         "Annee": "2001"
+      },
+      {
+         "Name": "StarCraft: Brood War",
+         "Earnings": 91892,
+         "Annee": "2001"
+      },
+      {
+         "Name": "Unreal Tournament",
+         "Earnings": 46000,
+         "Annee": "2001"
+      }
+   ],
+   "2002": [
+      {
+         "Name": "Counter-Strike",
+         "Earnings": 400993,
+         "Annee": "2002"
+      },
+      {
+         "Name": "StarCraft: Brood War",
+         "Earnings": 132943,
+         "Annee": "2002"
+      },
+      {
+         "Name": "Quake III Arena",
+         "Earnings": 102206,
+         "Annee": "2002"
+      },
+      {
+         "Name": "Age of Empires II",
+         "Earnings": 92866,
+         "Annee": "2002"
+      },
+      {
+         "Name": "Return to Castle Wolfenstein",
+         "Earnings": 67424,
+         "Annee": "2002"
+      }
+   ],
+   "2003": [
+      {
+         "Name": "Counter-Strike",
+         "Earnings": 819373,
+         "Annee": "2003"
+      },
+      {
+         "Name": "StarCraft: Brood War",
+         "Earnings": 276836,
+         "Annee": "2003"
+      },
+      {
+         "Name": "WarCraft III",
+         "Earnings": 191629,
+         "Annee": "2003"
+      },
+      {
+         "Name": "Unreal Tournament 2003",
+         "Earnings": 111773,
+         "Annee": "2003"
+      },
+      {
+         "Name": "Halo: Combat Evolved",
+         "Earnings": 107150,
+         "Annee": "2003"
+      }
+   ],
+   "2004": [
+      {
+         "Name": "Counter-Strike",
+         "Earnings": 899644,
+         "Annee": "2004"
+      },
+      {
+         "Name": "StarCraft: Brood War",
+         "Earnings": 498429,
+         "Annee": "2004"
+      },
+      {
+         "Name": "WarCraft III",
+         "Earnings": 353385,
+         "Annee": "2004"
+      },
+      {
+         "Name": "Doom 3",
+         "Earnings": 207748,
+         "Annee": "2004"
+      },
+      {
+         "Name": "Halo: Combat Evolved",
+         "Earnings": 183456,
+         "Annee": "2004"
+      }
+   ],
+   "2005": [
+      {
+         "Name": "Counter-Strike",
+         "Earnings": 1353437,
+         "Annee": "2005"
+      },
+      {
+         "Name": "Painkiller",
+         "Earnings": 860001,
+         "Annee": "2005"
+      },
+      {
+         "Name": "StarCraft: Brood War",
+         "Earnings": 592754,
+         "Annee": "2005"
+      },
+      {
+         "Name": "WarCraft III",
+         "Earnings": 438645,
+         "Annee": "2005"
+      },
+      {
+         "Name": "Halo 2",
+         "Earnings": 197850,
+         "Annee": "2005"
+      }
+   ],
+   "2006": [
+      {
+         "Name": "Counter-Strike",
+         "Earnings": 4263188,
+         "Annee": "2006"
+      },
+      {
+         "Name": "StarCraft: Brood War",
+         "Earnings": 1618052,
+         "Annee": "2006"
+      },
+      {
+         "Name": "Halo 2",
+         "Earnings": 1236100,
+         "Annee": "2006"
+      },
+      {
+         "Name": "WarCraft III",
+         "Earnings": 1035148,
+         "Annee": "2006"
+      },
+      {
+         "Name": "Quake 4",
+         "Earnings": 716672,
+         "Annee": "2006"
+      }
+   ],
+   "2007": [
+      {
+         "Name": "Counter-Strike",
+         "Earnings": 1630998,
+         "Annee": "2007"
+      },
+      {
+         "Name": "StarCraft: Brood War",
+         "Earnings": 1049959,
+         "Annee": "2007"
+      },
+      {
+         "Name": "Counter-Strike: Source",
+         "Earnings": 840892,
+         "Annee": "2007"
+      },
+      {
+         "Name": "WarCraft III",
+         "Earnings": 810502,
+         "Annee": "2007"
+      },
+      {
+         "Name": "Halo 2",
+         "Earnings": 673462,
+         "Annee": "2007"
+      }
+   ],
+   "2008": [
+      {
+         "Name": "Counter-Strike",
+         "Earnings": 1681702,
+         "Annee": "2008"
+      },
+      {
+         "Name": "StarCraft: Brood War",
+         "Earnings": 1050522,
+         "Annee": "2008"
+      },
+      {
+         "Name": "Counter-Strike: Source",
+         "Earnings": 871996,
+         "Annee": "2008"
+      },
+      {
+         "Name": "Halo 3",
+         "Earnings": 688924,
+         "Annee": "2008"
+      },
+      {
+         "Name": "WarCraft III",
+         "Earnings": 681491,
+         "Annee": "2008"
+      }
+   ],
+   "2009": [
+      {
+         "Name": "Counter-Strike",
+         "Earnings": 1353396,
+         "Annee": "2009"
+      },
+      {
+         "Name": "StarCraft: Brood War",
+         "Earnings": 708770,
+         "Annee": "2009"
+      },
+      {
+         "Name": "WarCraft III",
+         "Earnings": 387344,
+         "Annee": "2009"
+      },
+      {
+         "Name": "World of WarCraft",
+         "Earnings": 350138,
+         "Annee": "2009"
+      },
+      {
+         "Name": "Counter-Strike: Source",
+         "Earnings": 247035,
+         "Annee": "2009"
+      }
+   ],
+   "2010": [
+      {
+         "Name": "Counter-Strike",
+         "Earnings": 1449651,
+         "Annee": "2010"
+      },
+      {
+         "Name": "StarCraft II",
+         "Earnings": 820835,
+         "Annee": "2010"
+      },
+      {
+         "Name": "Halo 3",
+         "Earnings": 798113,
+         "Annee": "2010"
+      },
+      {
+         "Name": "StarCraft: Brood War",
+         "Earnings": 628498,
+         "Annee": "2010"
+      },
+      {
+         "Name": "WarCraft III",
+         "Earnings": 362762,
+         "Annee": "2010"
+      }
+   ],
+   "2011": [
+      {
+         "Name": "StarCraft II",
+         "Earnings": 3179858,
+         "Annee": "2011"
+      },
+      {
+         "Name": "Dota 2",
+         "Earnings": 1672268,
+         "Annee": "2011"
+      },
+      {
+         "Name": "Counter-Strike",
+         "Earnings": 879909,
+         "Annee": "2011"
+      },
+      {
+         "Name": "Halo: Reach",
+         "Earnings": 593520,
+         "Annee": "2011"
+      },
+      {
+         "Name": "League of Legends",
+         "Earnings": 526568,
+         "Annee": "2011"
+      }
+   ],
+   "2012": [
+      {
+         "Name": "League of Legends",
+         "Earnings": 4287202,
+         "Annee": "2012"
+      },
+      {
+         "Name": "StarCraft II",
+         "Earnings": 4200051,
+         "Annee": "2012"
+      },
+      {
+         "Name": "Dota 2",
+         "Earnings": 2087090,
+         "Annee": "2012"
+      },
+      {
+         "Name": "Counter-Strike",
+         "Earnings": 547579,
+         "Annee": "2012"
+      },
+      {
+         "Name": "Heroes of Newerth",
+         "Earnings": 341958,
+         "Annee": "2012"
+      }
+   ],
+   "2013": [
+      {
+         "Name": "League of Legends",
+         "Earnings": 6226154,
+         "Annee": "2013"
+      },
+      {
+         "Name": "Dota 2",
+         "Earnings": 4543136,
+         "Annee": "2013"
+      },
+      {
+         "Name": "StarCraft II",
+         "Earnings": 3847459,
+         "Annee": "2013"
+      },
+      {
+         "Name": "Call of Duty: Black Ops 2",
+         "Earnings": 1432136,
+         "Annee": "2013"
+      },
+      {
+         "Name": "Counter-Strike: Global Offensive",
+         "Earnings": 1211864,
+         "Annee": "2013"
+      }
+   ],
+   "2014": [
+      {
+         "Name": "Dota 2",
+         "Earnings": 16608025,
+         "Annee": "2014"
+      },
+      {
+         "Name": "League of Legends",
+         "Earnings": 8057284,
+         "Annee": "2014"
+      },
+      {
+         "Name": "StarCraft II",
+         "Earnings": 3473751,
+         "Annee": "2014"
+      },
+      {
+         "Name": "Counter-Strike: Global Offensive",
+         "Earnings": 1962508,
+         "Annee": "2014"
+      },
+      {
+         "Name": "Call of Duty: Ghosts",
+         "Earnings": 1525432,
+         "Annee": "2014"
+      }
+   ],
+   "2015": [
+      {
+         "Name": "Dota 2",
+         "Earnings": 31050782,
+         "Annee": "2015"
+      },
+      {
+         "Name": "League of Legends",
+         "Earnings": 7717800,
+         "Annee": "2015"
+      },
+      {
+         "Name": "Counter-Strike: Global Offensive",
+         "Earnings": 6284964,
+         "Annee": "2015"
+      },
+      {
+         "Name": "SMITE",
+         "Earnings": 3709086,
+         "Annee": "2015"
+      },
+      {
+         "Name": "StarCraft II",
+         "Earnings": 3017753,
+         "Annee": "2015"
+      }
+   ],
+   "2016": [
+      {
+         "Name": "Dota 2",
+         "Earnings": 37464413,
+         "Annee": "2016"
+      },
+      {
+         "Name": "Counter-Strike: Global Offensive",
+         "Earnings": 17266126,
+         "Annee": "2016"
+      },
+      {
+         "Name": "League of Legends",
+         "Earnings": 10529055,
+         "Annee": "2016"
+      },
+      {
+         "Name": "Heroes of the Storm",
+         "Earnings": 4363151,
+         "Annee": "2016"
+      },
+      {
+         "Name": "Call of Duty: Black Ops III",
+         "Earnings": 3862182,
+         "Annee": "2016"
+      }
+   ],
+   "2017": [
+      {
+         "Name": "Dota 2",
+         "Earnings": 38074593,
+         "Annee": "2017"
+      },
+      {
+         "Name": "Counter-Strike: Global Offensive",
+         "Earnings": 19270075,
+         "Annee": "2017"
+      },
+      {
+         "Name": "League of Legends",
+         "Earnings": 12232814,
+         "Annee": "2017"
+      },
+      {
+         "Name": "Heroes of the Storm",
+         "Earnings": 5144450,
+         "Annee": "2017"
+      },
+      {
+         "Name": "Call of Duty: Infinite Warfare",
+         "Earnings": 4031181,
+         "Annee": "2017"
+      }
+   ],
+   "2018": [
+      {
+         "Name": "Dota 2",
+         "Earnings": 41457363,
+         "Annee": "2018"
+      },
+      {
+         "Name": "Counter-Strike: Global Offensive",
+         "Earnings": 23306924,
+         "Annee": "2018"
+      },
+      {
+         "Name": "Fortnite",
+         "Earnings": 19880331,
+         "Annee": "2018"
+      },
+      {
+         "Name": "League of Legends",
+         "Earnings": 14573292,
+         "Annee": "2018"
+      },
+      {
+         "Name": "PUBG",
+         "Earnings": 8319220,
+         "Annee": "2018"
+      }
+   ],
+   "2019": [
+      {
+         "Name": "Fortnite",
+         "Earnings": 71598122,
+         "Annee": "2019"
+      },
+      {
+         "Name": "Dota 2",
+         "Earnings": 47043515,
+         "Annee": "2019"
+      },
+      {
+         "Name": "Counter-Strike: Global Offensive",
+         "Earnings": 21988683,
+         "Annee": "2019"
+      },
+      {
+         "Name": "PUBG",
+         "Earnings": 11327216,
+         "Annee": "2019"
+      },
+      {
+         "Name": "Overwatch",
+         "Earnings": 9587033,
+         "Annee": "2019"
+      }
+   ],
+   "2020": [
+      {
+         "Name": "Counter-Strike: Global Offensive",
+         "Earnings": 15858061,
+         "Annee": "2020"
+      },
+      {
+         "Name": "Arena of Valor",
+         "Earnings": 9500995,
+         "Annee": "2020"
+      },
+      {
+         "Name": "Dota 2",
+         "Earnings": 9323850,
+         "Annee": "2020"
+      },
+      {
+         "Name": "Fortnite",
+         "Earnings": 8208642,
+         "Annee": "2020"
+      },
+      {
+         "Name": "League of Legends",
+         "Earnings": 8163203,
+         "Annee": "2020"
+      }
+   ],
+   "2021": [
+      {
+         "Name": "PUBG",
+         "Earnings": 7128071,
+         "Annee": "2021"
+      },
+      {
+         "Name": "Counter-Strike: Global Offensive",
+         "Earnings": 3614617,
+         "Annee": "2021"
+      },
+      {
+         "Name": "Fortnite",
+         "Earnings": 2556366,
+         "Annee": "2021"
+      },
+      {
+         "Name": "Dota 2",
+         "Earnings": 2010152,
+         "Annee": "2021"
+      },
+      {
+         "Name": "PUBG mobile",
+         "Earnings": 1207137,
+         "Annee": "2021"
+      }
+   ]
+}

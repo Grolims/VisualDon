@@ -1,20 +1,25 @@
+//preparer les tournois 
+
 const fs = require('fs')
 const d3 = require('d3')
 
-const file = fs.readFileSync('GeneralEsportData.csv', 'utf-8')
+const file2 = fs.readFileSync('HistoricalEsportData.csv', 'utf-8')
 
-const { parse } = d3.dsvFormat(';')
+//const { parse } = d3.dsvFormat(';')
+const { parse } = d3.dsvFormat(',')
 
 
 
-const data =(
-  parse(file)
+const data2 =(
+  parse(file2)
 
     .map(d => ({
-      num:d.TotalEarnings.split(",").map(Number),
-      jeux: d.Game,
-      tournois:d.TotalEarnings.split(",").map(Number)[3]
+      date:d.Date.substring(5),
+      jeu: d.Game,
+      totaldesGains:d.Earnings,
+      player:d.Players,
     }))
 )
 
-fs.writeFileSync("tournois.json",JSON.stringify(data,null,2), "utf-8")
+
+fs.writeFileSync("barrace.json",JSON.stringify(data2,null,2), "utf-8")

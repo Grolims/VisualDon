@@ -1,0 +1,24 @@
+:root {
+    --main-bg-color: #6441a5;
+    --main-fg-color: black;
+    --highlight-color: tomato;
+    --border-color: white;
+    --text-color: white;
+    --font-size-xs: 0.7rem;
+    --font-size-s: 0.9rem;
+    --font-size-n: 1rem;
+    --font-size-l: 1.2rem;
+    --font-size-xl: 1.5rem;
+    --font-size-xxl: 2rem;
+    --break-point-mobile: 32rem;
+  }
+  #wrapper > header {
+    --main-bg-color: black;
+    --main-fg-color: white;
+  }
+  #wrapper > nav, #wrapper > footer {
+    --main-bg-color: #6441a5;
+  }
+  button {
+    --main-bg-color: #6441a5;
+  }

@@ -1,5202 +1,2602 @@
 [
   {
-    "num": [
-      190262.81,
-      156839.89,
-      255,
-      96
-    ],
+    "genre": "Strategy",
     "jeux": "Age of Empires",
-    "tournois": 96
+    "totaldesGains": 190262.81
   },
   {
-    "num": [
-      1815535.12,
-      619037.87,
-      1172,
-      815
-    ],
+    "genre": "Strategy",
     "jeux": "Age of Empires II",
-    "tournois": 815
+    "totaldesGains": 1815535.12
   },
   {
-    "num": [
-      68113.85,
-      41500,
-      106,
-      76
-    ],
+    "genre": "Strategy",
     "jeux": "Age of Empires III",
-    "tournois": 76
+    "totaldesGains": 68113.85
   },
   {
-    "num": [
-      3778.56,
-      0,
-      17,
-      10
-    ],
+    "genre": "Strategy",
     "jeux": "Age of Empires Online",
-    "tournois": 10
+    "totaldesGains": 3778.56
   },
   {
-    "num": [
-      52360,
-      52000,
-      22,
-      6
-    ],
+    "genre": "Strategy",
     "jeux": "Age of Mythology",
-    "tournois": 6
+    "totaldesGains": 52360
   },
   {
-    "num": [
-      76000,
-      0,
-      12,
-      7
-    ],
+    "genre": "Strategy",
     "jeux": "Among Us",
-    "tournois": 7
+    "totaldesGains": 76000
   },
   {
-    "num": [
-      1076322.28,
-      1035522.28,
-      72,
-      6
-    ],
+    "genre": "Strategy",
     "jeux": "Auto Chess",
-    "tournois": 6
+    "totaldesGains": 1076322.28
   },
   {
-    "num": [
-      94950,
-      86250,
-      51,
-      10
-    ],
+    "genre": "Strategy",
     "jeux": "Brawl Stars",
-    "tournois": 10
+    "totaldesGains": 94950
   },
   {
-    "num": [
-      1190988.94,
-      0,
-      661,
-      205
-    ],
+    "genre": "Strategy",
     "jeux": "Chess.com",
-    "tournois": 205
+    "totaldesGains": 1190988.94
   },
   {
-    "num": [
-      1704696.09,
-      0,
-      65,
-      13
-    ],
+    "genre": "Strategy",
     "jeux": "chess24",
-    "tournois": 13
+    "totaldesGains": 1704696.09
   },
   {
-    "num": [
-      2631062.87,
-      1127101.87,
-      191,
-      35
-    ],
+    "genre": "Strategy",
     "jeux": "Clash of Clans",
-    "tournois": 35
+    "totaldesGains": 2631062.87
   },
   {
-    "num": [
-      3363348.27,
-      3149638.98,
-      290,
-      51
-    ],
+    "genre": "Strategy",
     "jeux": "Clash Royale",
-    "tournois": 51
+    "totaldesGains": 3363348.27
   },
   {
-    "num": [
-      53086.67,
-      53086.67,
-      9,
-      8
-    ],
+    "genre": "Strategy",
     "jeux": "Command & Conquer 3",
-    "tournois": 8
+    "totaldesGains": 53086.67
   },
   {
-    "num": [
-      8561.22,
-      7956.22,
-      11,
-      6
-    ],
+    "genre": "Strategy",
     "jeux": "Company of Heroes 2",
-    "tournois": 6
+    "totaldesGains": 8561.22
   },
   {
-    "num": [
-      2000,
-      0,
-      50,
-      1
-    ],
+    "genre": "Strategy",
     "jeux": "ComPet",
-    "tournois": 1
+    "totaldesGains": 2000
   },
   {
-    "num": [
-      60000,
-      0,
-      35,
-      9
-    ],
+    "genre": "Strategy",
     "jeux": "Dead By Daylight",
-    "tournois": 9
+    "totaldesGains": 60000
   },
   {
-    "num": [
-      26024.18,
-      0,
-      62,
-      36
-    ],
+    "genre": "Strategy",
     "jeux": "Dota Underlords",
-    "tournois": 36
+    "totaldesGains": 26024.18
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "Strategy",
     "jeux": "Endgods",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      331828.88,
-      119445.81,
-      97,
-      16
-    ],
+    "genre": "Strategy",
     "jeux": "Farming Simulator 19",
-    "tournois": 16
+    "totaldesGains": 331828.88
   },
   {
-    "num": [
-      36400,
-      30400,
-      18,
-      5
-    ],
+    "genre": "Strategy",
     "jeux": "Grey Goo",
-    "tournois": 5
+    "totaldesGains": 36400
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "Strategy",
     "jeux": "Heroes of Might and Magic III",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      31911.1,
-      31911.1,
-      6,
-      1
-    ],
+    "genre": "Strategy",
     "jeux": "Identity V",
-    "tournois": 1
+    "totaldesGains": 31911.1
   },
   {
-    "num": [
-      10000,
-      0,
-      6,
-      1
-    ],
+    "genre": "Strategy",
     "jeux": "Internet Chess Club",
-    "tournois": 1
+    "totaldesGains": 10000
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "Strategy",
     "jeux": "Iron Harvest",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      1178011.93,
-      0,
-      315,
-      109
-    ],
+    "genre": "Strategy",
     "jeux": "Lichess",
-    "tournois": 109
+    "totaldesGains": 1178011.93
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "Strategy",
     "jeux": "Men of War: Assault Squad 2",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      148384.33,
-      148384.33,
-      19,
-      3
-    ],
+    "genre": "Strategy",
     "jeux": "Multigaming",
-    "tournois": 3
+    "totaldesGains": 148384.33
   },
   {
-    "num": [
-      38460,
-      200,
-      1090,
-      12
-    ],
+    "genre": "Strategy",
     "jeux": "osu!",
-    "tournois": 12
+    "totaldesGains": 38460
   },
   {
-    "num": [
-      32866.58,
-      0,
-      116,
-      9
-    ],
+    "genre": "Strategy",
     "jeux": "Playchess.com",
-    "tournois": 9
+    "totaldesGains": 32866.58
   },
   {
-    "num": [
-      211500,
-      211500,
-      170,
-      24
-    ],
+    "genre": "Strategy",
     "jeux": "Pok<U+00E9>mon VGC",
-    "tournois": 24
+    "totaldesGains": 211500
   },
   {
-    "num": [
-      13000,
-      0,
-      27,
-      4
-    ],
+    "genre": "Strategy",
     "jeux": "Prophecy",
-    "tournois": 4
+    "totaldesGains": 13000
   },
   {
-    "num": [
-      69600,
-      69600,
-      8,
-      1
-    ],
+    "genre": "Strategy",
     "jeux": "Rise of Nations: Rise of Legends",
-    "tournois": 1
+    "totaldesGains": 69600
   },
   {
-    "num": [
-      100000,
-      0,
-      67,
-      4
-    ],
+    "genre": "Strategy",
     "jeux": "Sea of Thieves",
-    "tournois": 4
+    "totaldesGains": 100000
   },
   {
-    "num": [
-      800,
-      0,
-      4,
-      1
-    ],
+    "genre": "Strategy",
     "jeux": "Star Wars: Squadrons",
-    "tournois": 1
+    "totaldesGains": 800
   },
   {
-    "num": [
-      34734474.78,
-      29074484.73,
-      2087,
-      6066
-    ],
+    "genre": "Strategy",
     "jeux": "StarCraft II",
-    "tournois": 6066
+    "totaldesGains": 34734474.78
   },
   {
-    "num": [
-      8430170.61,
-      8002899.32,
-      682,
-      681
-    ],
+    "genre": "Strategy",
     "jeux": "StarCraft: Brood War",
-    "tournois": 681
+    "totaldesGains": 8430170.61
   },
   {
-    "num": [
-      220,
-      220,
-      4,
-      1
-    ],
+    "genre": "Strategy",
     "jeux": "Super Mario Party",
-    "tournois": 1
+    "totaldesGains": 220
   },
   {
-    "num": [
-      4901.26,
-      4901.26,
-      0,
-      1
-    ],
+    "genre": "Strategy",
     "jeux": "Supreme Commander",
-    "tournois": 1
+    "totaldesGains": 4901.26
   },
   {
-    "num": [
-      1290.01,
-      1290.01,
-      0,
-      1
-    ],
+    "genre": "Strategy",
     "jeux": "Supreme Commander: Forged Alliance",
-    "tournois": 1
+    "totaldesGains": 1290.01
   },
   {
-    "num": [
-      1069313.65,
-      235250,
-      181,
-      16
-    ],
+    "genre": "Strategy",
     "jeux": "Teamfight Tactics",
-    "tournois": 16
+    "totaldesGains": 1069313.65
   },
   {
-    "num": [
-      456721.47,
-      456721.47,
-      12,
-      1
-    ],
+    "genre": "Strategy",
     "jeux": "TEPPEN",
-    "tournois": 1
+    "totaldesGains": 456721.47
   },
   {
-    "num": [
-      20000,
-      0,
-      16,
-      2
-    ],
+    "genre": "Strategy",
     "jeux": "UNO",
-    "tournois": 2
+    "totaldesGains": 20000
   },
   {
-    "num": [
-      5811479.73,
-      5038870.86,
-      558,
-      1335
-    ],
+    "genre": "Strategy",
     "jeux": "WarCraft III",
-    "tournois": 1335
+    "totaldesGains": 5811479.73
   },
   {
-    "num": [
-      571463.84,
-      295883.84,
-      91,
-      116
-    ],
+    "genre": "Strategy",
     "jeux": "WarCraft III: Reforged",
-    "tournois": 116
+    "totaldesGains": 571463.84
   },
   {
-    "num": [
-      79816.5,
-      79816.5,
-      7,
-      3
-    ],
+    "genre": "Strategy",
     "jeux": "Warhammer 40,000: Dawn of War",
-    "tournois": 3
+    "totaldesGains": 79816.5
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "Strategy",
     "jeux": "Warhammer 40,000: Dawn of War II",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      1175,
-      0,
-      6,
-      2
-    ],
+    "genre": "Strategy",
     "jeux": "Warparty",
-    "tournois": 2
+    "totaldesGains": 1175
   },
   {
-    "num": [
-      4172.16,
-      4132.16,
-      32,
-      11
-    ],
+    "genre": "Strategy",
     "jeux": "Windjammers",
-    "tournois": 11
+    "totaldesGains": 4172.16
   },
   {
-    "num": [
-      293338.23,
-      293338.23,
-      38,
-      11
-    ],
+    "genre": "Strategy",
     "jeux": "World in Conflict",
-    "tournois": 11
+    "totaldesGains": 293338.23
   },
   {
-    "num": [
-      3656496.59,
-      3598031.72,
-      403,
-      50
-    ],
+    "genre": "Strategy",
     "jeux": "World of Tanks",
-    "tournois": 50
+    "totaldesGains": 3656496.59
   },
   {
-    "num": [
-      63330,
-      60000,
-      14,
-      6
-    ],
+    "genre": "Strategy",
     "jeux": "World of Tanks Blitz",
-    "tournois": 6
+    "totaldesGains": 63330
   },
   {
-    "num": [
-      40000,
-      40000,
-      1,
-      1
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Aliens versus Predator 2",
-    "tournois": 1
+    "totaldesGains": 40000
   },
   {
-    "num": [
-      185654.67,
-      129863.88,
-      114,
-      21
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Battalion 1944",
-    "tournois": 21
+    "totaldesGains": 185654.67
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Battlefield 1",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      91715.22,
-      91715.22,
-      0,
-      12
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Battlefield 2",
-    "tournois": 12
+    "totaldesGains": 91715.22
   },
   {
-    "num": [
-      18546.14,
-      18546.14,
-      0,
-      4
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Battlefield 2142",
-    "tournois": 4
+    "totaldesGains": 18546.14
   },
   {
-    "num": [
-      25407.46,
-      25407.46,
-      5,
-      7
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Battlefield 3",
-    "tournois": 7
+    "totaldesGains": 25407.46
   },
   {
-    "num": [
-      245766.46,
-      212540.31,
-      204,
-      145
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Battlefield 4",
-    "tournois": 145
+    "totaldesGains": 245766.46
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Battlefield 5",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      13463.28,
-      13463.28,
-      20,
-      1
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Battlefield Hardline",
-    "tournois": 1
+    "totaldesGains": 13463.28
   },
   {
-    "num": [
-      430,
-      0,
-      12,
-      6
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Beat Aim",
-    "tournois": 6
+    "totaldesGains": 430
   },
   {
-    "num": [
-      76200,
-      76200,
-      3,
-      1
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Big Buck Hunter Arcade",
-    "tournois": 1
+    "totaldesGains": 76200
   },
   {
-    "num": [
-      8480.72,
-      0,
-      57,
-      17
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Black Squad",
-    "tournois": 17
+    "totaldesGains": 8480.72
   },
   {
-    "num": [
-      50000,
-      0,
-      16,
-      1
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Borderlands 3",
-    "tournois": 1
+    "totaldesGains": 50000
   },
   {
-    "num": [
-      50629.77,
-      50629.77,
-      51,
-      3
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Call of Duty",
-    "tournois": 3
+    "totaldesGains": 50629.77
   },
   {
-    "num": [
-      66828.51,
-      60874.71,
-      41,
-      17
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Call of Duty 2",
-    "tournois": 17
+    "totaldesGains": 66828.51
   },
   {
-    "num": [
-      420331.47,
-      387929.31,
-      422,
-      86
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Call of Duty 4: Modern Warfare",
-    "tournois": 86
+    "totaldesGains": 420331.47
   },
   {
-    "num": [
-      2608808.93,
-      2264636.14,
-      783,
-      404
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Call of Duty: Advanced Warfare",
-    "tournois": 404
+    "totaldesGains": 2608808.93
   },
   {
-    "num": [
-      375793.48,
-      346969.18,
-      118,
-      23
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Call of Duty: Black Ops",
-    "tournois": 23
+    "totaldesGains": 375793.48
   },
   {
-    "num": [
-      1467139.25,
-      1430071.63,
-      184,
-      53
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Call of Duty: Black Ops 2",
-    "tournois": 53
+    "totaldesGains": 1467139.25
   },
   {
-    "num": [
-      6731938.95,
-      6636161.95,
-      380,
-      68
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Call of Duty: Black Ops 4",
-    "tournois": 68
+    "totaldesGains": 6731938.95
   },
   {
-    "num": [
-      1248000,
-      0,
-      108,
-      12
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Call of Duty: Black Ops Cold War",
-    "tournois": 12
+    "totaldesGains": 1248000
   },
   {
-    "num": [
-      3939783.29,
-      3783077.02,
-      419,
-      78
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Call of Duty: Black Ops III",
-    "tournois": 78
+    "totaldesGains": 3939783.29
   },
   {
-    "num": [
-      611608.35,
-      321008.35,
-      175,
-      18
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Call of Duty: Blackout",
-    "tournois": 18
+    "totaldesGains": 611608.35
   },
   {
-    "num": [
-      1594185.25,
-      1504472.89,
-      199,
-      76
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Call of Duty: Ghosts",
-    "tournois": 76
+    "totaldesGains": 1594185.25
   },
   {
-    "num": [
-      4156205.06,
-      4049855.06,
-      341,
-      80
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Call of Duty: Infinite Warfare",
-    "tournois": 80
+    "totaldesGains": 4156205.06
   },
   {
-    "num": [
-      40000,
-      0,
-      46,
-      1
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Call of Duty: Mobile",
-    "tournois": 1
+    "totaldesGains": 40000
   },
   {
-    "num": [
-      6676784.5,
-      643562.5,
-      259,
-      50
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Call of Duty: Modern Warfare",
-    "tournois": 50
+    "totaldesGains": 6676784.5
   },
   {
-    "num": [
-      112860.64,
-      51010.64,
-      59,
-      18
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Call of Duty: Modern Warfare 2",
-    "tournois": 18
+    "totaldesGains": 112860.64
   },
   {
-    "num": [
-      1160815.66,
-      1144955.66,
-      209,
-      45
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Call of Duty: Modern Warfare 3",
-    "tournois": 45
+    "totaldesGains": 1160815.66
   },
   {
-    "num": [
-      3540999.01,
-      0,
-      747,
-      140
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Call of Duty: Warzone",
-    "tournois": 140
+    "totaldesGains": 3540999.01
   },
   {
-    "num": [
-      4559271,
-      4498605,
-      266,
-      64
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Call of Duty: World War II",
-    "tournois": 64
+    "totaldesGains": 4559271
   },
   {
-    "num": [
-      13529661.03,
-      12816431.29,
-      4141,
-      997
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Counter-Strike",
-    "tournois": 997
+    "totaldesGains": 13529661.03
   },
   {
-    "num": [
-      406989.6,
-      406989.6,
-      70,
-      12
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Counter-Strike Online",
-    "tournois": 12
+    "totaldesGains": 406989.6
   },
   {
-    "num": [
-      162150.6,
-      162150.6,
-      111,
-      3
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Counter-Strike: Condition Zero",
-    "tournois": 3
+    "totaldesGains": 162150.6
   },
   {
-    "num": [
-      112019077.11,
-      75379935.79,
-      13531,
-      5532
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Counter-Strike: Global Offensive",
-    "tournois": 5532
+    "totaldesGains": 112019077.11
   },
   {
-    "num": [
-      3117222.29,
-      2876766.03,
-      1502,
-      333
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Counter-Strike: Source",
-    "tournois": 333
+    "totaldesGains": 3117222.29
   },
   {
-    "num": [
-      12606.41,
-      2500,
-      4,
-      3
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Critical Ops",
-    "tournois": 3
+    "totaldesGains": 12606.41
   },
   {
-    "num": [
-      6609445.02,
-      5876309.23,
-      643,
-      310
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "CrossFire",
-    "tournois": 310
+    "totaldesGains": 6609445.02
   },
   {
-    "num": [
-      11340.95,
-      11340.95,
-      0,
-      2
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Crysis",
-    "tournois": 2
+    "totaldesGains": 11340.95
   },
   {
-    "num": [
-      50300,
-      50300,
-      37,
-      3
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Day of Defeat",
-    "tournois": 3
+    "totaldesGains": 50300
   },
   {
-    "num": [
-      14068.57,
-      10286.47,
-      50,
-      8
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Day of Defeat: Source",
-    "tournois": 8
+    "totaldesGains": 14068.57
   },
   {
-    "num": [
-      50000,
-      50000,
-      1,
-      1
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Descent 3",
-    "tournois": 1
+    "totaldesGains": 50000
   },
   {
-    "num": [
-      165404.1,
-      15711.36,
-      282,
-      119
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Diabotical",
-    "tournois": 119
+    "totaldesGains": 165404.1
   },
   {
-    "num": [
-      7000,
-      7000,
-      6,
-      1
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Doom (2016)",
-    "tournois": 1
+    "totaldesGains": 7000
   },
   {
-    "num": [
-      257748.16,
-      257748.16,
-      14,
-      4
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Doom 3",
-    "tournois": 4
+    "totaldesGains": 257748.16
   },
   {
-    "num": [
-      5108.56,
-      2200,
-      14,
-      8
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Doom II: Hell on Earth",
-    "tournois": 8
+    "totaldesGains": 5108.56
   },
   {
-    "num": [
-      214.28,
-      0,
-      2,
-      1
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "DOOMBRINGER",
-    "tournois": 1
+    "totaldesGains": 214.28
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Echo Arena",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      60923.12,
-      60923.12,
-      27,
-      4
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Enemy Territory: Quake Wars",
-    "tournois": 4
+    "totaldesGains": 60923.12
   },
   {
-    "num": [
-      114600,
-      0,
-      150,
-      4
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Escape from Tarkov",
-    "tournois": 4
+    "totaldesGains": 114600
   },
   {
-    "num": [
-      131509.05,
-      126054.1,
-      110,
-      33
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Evolve",
-    "tournois": 33
+    "totaldesGains": 131509.05
   },
   {
-    "num": [
-      178000,
-      178000,
-      20,
-      5
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "F.E.A.R.",
-    "tournois": 5
+    "totaldesGains": 178000
   },
   {
-    "num": [
-      24000,
-      24000,
-      0,
-      2
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Ghost Recon Advanced Warfighter",
-    "tournois": 2
+    "totaldesGains": 24000
   },
   {
-    "num": [
-      280,
-      280,
-      6,
-      1
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Gundam Versus",
-    "tournois": 1
+    "totaldesGains": 280
   },
   {
-    "num": [
-      198750,
-      190000,
-      8,
-      21
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Guns of Boom",
-    "tournois": 21
+    "totaldesGains": 198750
   },
   {
-    "num": [
-      1489362.47,
-      1489362.47,
-      119,
-      71
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Halo 2",
-    "tournois": 71
+    "totaldesGains": 1489362.47
   },
   {
-    "num": [
-      468705.05,
-      468705.05,
-      97,
-      20
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Halo 2 Anniversary",
-    "tournois": 20
+    "totaldesGains": 468705.05
   },
   {
-    "num": [
-      2158079.4,
-      2151479.4,
-      210,
-      41
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Halo 3",
-    "tournois": 41
+    "totaldesGains": 2158079.4
   },
   {
-    "num": [
-      430748.76,
-      428498.76,
-      66,
-      19
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Halo 4",
-    "tournois": 19
+    "totaldesGains": 430748.76
   },
   {
-    "num": [
-      7071480.97,
-      6782680.97,
-      233,
-      75
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Halo 5: Guardians",
-    "tournois": 75
+    "totaldesGains": 7071480.97
   },
   {
-    "num": [
-      299281,
-      299281,
-      114,
-      39
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Halo: Combat Evolved",
-    "tournois": 39
+    "totaldesGains": 299281
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Halo: Infinite",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      822089.97,
-      762089.97,
-      101,
-      29
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Halo: Reach",
-    "tournois": 29
+    "totaldesGains": 822089.97
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Ironsight",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Islands of Nyne",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      143490,
-      143490,
-      0,
-      1
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "MechWarrior Online",
-    "tournois": 1
+    "totaldesGains": 143490
   },
   {
-    "num": [
-      8000,
-      0,
-      37,
-      8
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Metal Gear Online",
-    "tournois": 8
+    "totaldesGains": 8000
   },
   {
-    "num": [
-      26750317.28,
-      18227464.45,
-      3532,
-      747
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Overwatch",
-    "tournois": 747
+    "totaldesGains": 26750317.28
   },
   {
-    "num": [
-      1015000,
-      1015000,
-      48,
-      13
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Painkiller",
-    "tournois": 13
+    "totaldesGains": 1015000
   },
   {
-    "num": [
-      2354557.6,
-      1659000,
-      589,
-      76
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Paladins",
-    "tournois": 76
+    "totaldesGains": 2354557.6
   },
   {
-    "num": [
-      699167.75,
-      589898.15,
-      297,
-      32
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Point Blank",
-    "tournois": 32
+    "totaldesGains": 699167.75
   },
   {
-    "num": [
-      557039.27,
-      554788.51,
-      103,
-      54
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Quake 4",
-    "tournois": 54
+    "totaldesGains": 557039.27
   },
   {
-    "num": [
-      2409481.21,
-      2120633.6,
-      254,
-      242
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Quake Champions",
-    "tournois": 242
+    "totaldesGains": 2409481.21
   },
   {
-    "num": [
-      140325.98,
-      139800,
-      33,
-      11
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Quake II",
-    "tournois": 11
+    "totaldesGains": 140325.98
   },
   {
-    "num": [
-      1138192.95,
-      1131262.61,
-      247,
-      102
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Quake III Arena",
-    "tournois": 102
+    "totaldesGains": 1138192.95
   },
   {
-    "num": [
-      682294.04,
-      599972.93,
-      213,
-      410
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Quake Live",
-    "tournois": 410
+    "totaldesGains": 682294.04
   },
   {
-    "num": [
-      103398.18,
-      98005.44,
-      47,
-      16
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "QuakeWorld",
-    "tournois": 16
+    "totaldesGains": 103398.18
   },
   {
-    "num": [
-      5000,
-      5000,
-      3,
-      1
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Rage",
-    "tournois": 1
+    "totaldesGains": 5000
   },
   {
-    "num": [
-      13198525.74,
-      9987213.13,
-      1601,
-      242
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Rainbow Six Siege",
-    "tournois": 242
+    "totaldesGains": 13198525.74
   },
   {
-    "num": [
-      176400.77,
-      176400.77,
-      137,
-      7
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Rainbow Six: Vegas",
-    "tournois": 7
+    "totaldesGains": 176400.77
   },
   {
-    "num": [
-      79000,
-      79000,
-      0,
-      8
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Rainbow Six: Vegas 2",
-    "tournois": 8
+    "totaldesGains": 79000
   },
   {
-    "num": [
-      263000,
-      0,
-      47,
-      9
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Realm Royale",
-    "tournois": 9
+    "totaldesGains": 263000
   },
   {
-    "num": [
-      2304.88,
-      163.66,
-      23,
-      8
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Reflex",
-    "tournois": 8
+    "totaldesGains": 2304.88
   },
   {
-    "num": [
-      67424.3,
-      67424.3,
-      30,
-      3
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Return to Castle Wolfenstein",
-    "tournois": 3
+    "totaldesGains": 67424.3
   },
   {
-    "num": [
-      132532.93,
-      116555.81,
-      82,
-      21
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "S.K.I.L.L. - Special Force 2",
-    "tournois": 21
+    "totaldesGains": 132532.93
   },
   {
-    "num": [
-      4901.26,
-      4901.26,
-      0,
-      1
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
-    "tournois": 1
+    "totaldesGains": 4901.26
   },
   {
-    "num": [
-      24000,
-      24000,
-      0,
-      3
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Shadowrun",
-    "tournois": 3
+    "totaldesGains": 24000
   },
   {
-    "num": [
-      262090.69,
-      258286.5,
-      108,
-      43
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "ShootMania Storm",
-    "tournois": 43
+    "totaldesGains": 262090.69
   },
   {
-    "num": [
-      130250,
-      130250,
-      0,
-      3
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Special Force",
-    "tournois": 3
+    "totaldesGains": 130250
   },
   {
-    "num": [
-      1390,
-      0,
-      3,
-      4
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Splatoon",
-    "tournois": 4
+    "totaldesGains": 1390
   },
   {
-    "num": [
-      10055,
-      9755,
-      13,
-      7
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Splatoon 2",
-    "tournois": 7
+    "totaldesGains": 10055
   },
   {
-    "num": [
-      7679.25,
-      7679.25,
-      0,
-      1
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Star Wars Jedi Knight II: Jedi Outcast",
-    "tournois": 1
+    "totaldesGains": 7679.25
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Sudden Attack",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      718078.81,
-      393807.2,
-      1364,
-      197
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Team Fortress 2",
-    "tournois": 197
+    "totaldesGains": 718078.81
   },
   {
-    "num": [
-      46235.07,
-      46235.07,
-      5,
-      1
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Uncharted 4: A Thief's End",
-    "tournois": 1
+    "totaldesGains": 46235.07
   },
   {
-    "num": [
-      89000,
-      89000,
-      14,
-      5
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Unreal Tournament",
-    "tournois": 5
+    "totaldesGains": 89000
   },
   {
-    "num": [
-      5084.97,
-      0,
-      82,
-      8
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Unreal Tournament (2016)",
-    "tournois": 8
+    "totaldesGains": 5084.97
   },
   {
-    "num": [
-      147473.91,
-      147473.91,
-      33,
-      14
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Unreal Tournament 2003",
-    "tournois": 14
+    "totaldesGains": 147473.91
   },
   {
-    "num": [
-      133969.33,
-      133969.33,
-      41,
-      12
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Unreal Tournament 2004",
-    "tournois": 12
+    "totaldesGains": 133969.33
   },
   {
-    "num": [
-      104977.82,
-      104977.82,
-      7,
-      4
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Unreal Tournament 3",
-    "tournois": 4
+    "totaldesGains": 104977.82
   },
   {
-    "num": [
-      2890044.69,
-      211228,
-      2247,
-      317
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "VALORANT",
-    "tournois": 317
+    "totaldesGains": 2890044.69
   },
   {
-    "num": [
-      109555,
-      109555,
-      32,
-      2
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Warface",
-    "tournois": 2
+    "totaldesGains": 109555
   },
   {
-    "num": [
-      183,
-      0,
-      2,
-      1
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Warsow",
-    "tournois": 1
+    "totaldesGains": 183
   },
   {
-    "num": [
-      140963.24,
-      138376.87,
-      152,
-      18
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Wolfenstein: Enemy Territory",
-    "tournois": 18
+    "totaldesGains": 140963.24
   },
   {
-    "num": [
-      5489.65,
-      26.07,
-      133,
-      25
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Xonotic",
-    "tournois": 25
+    "totaldesGains": 5489.65
   },
   {
-    "num": [
-      100000,
-      100000,
-      20,
-      1
-    ],
+    "genre": "First-Person Shooter",
     "jeux": "Zula",
-    "tournois": 1
+    "totaldesGains": 100000
   },
   {
-    "num": [
-      24093832.78,
-      22409531.67,
-      681,
-      62
-    ],
+    "genre": "Multiplayer Online Battle Arena",
     "jeux": "Arena of Valor",
-    "tournois": 62
+    "totaldesGains": 24093832.78
   },
   {
-    "num": [
-      65173.45,
-      28000,
-      86,
-      75
-    ],
+    "genre": "Multiplayer Online Battle Arena",
     "jeux": "Battlerite",
-    "tournois": 75
+    "totaldesGains": 65173.45
   },
   {
-    "num": [
-      41905.32,
-      40850,
-      43,
-      12
-    ],
+    "genre": "Multiplayer Online Battle Arena",
     "jeux": "Bloodline Champions",
-    "tournois": 12
+    "totaldesGains": 41905.32
   },
   {
-    "num": [
-      100000,
-      0,
-      8,
-      1
-    ],
+    "genre": "Multiplayer Online Battle Arena",
     "jeux": "Creative Destruction",
-    "tournois": 1
+    "totaldesGains": 100000
   },
   {
-    "num": [
-      857420.65,
-      829658.68,
-      468,
-      94
-    ],
+    "genre": "Multiplayer Online Battle Arena",
     "jeux": "Defense of the Ancients",
-    "tournois": 94
+    "totaldesGains": 857420.65
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "Multiplayer Online Battle Arena",
     "jeux": "Dofus",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      231860237.22,
-      214390391.34,
-      3999,
-      1496
-    ],
+    "genre": "Multiplayer Online Battle Arena",
     "jeux": "Dota 2",
-    "tournois": 1496
+    "totaldesGains": 231860237.22
   },
   {
-    "num": [
-      12339.33,
-      0,
-      35,
-      1
-    ],
+    "genre": "Multiplayer Online Battle Arena",
     "jeux": "Heavy Metal Machines",
-    "tournois": 1
+    "totaldesGains": 12339.33
   },
   {
-    "num": [
-      2915206.56,
-      1552890.01,
-      813,
-      371
-    ],
+    "genre": "Multiplayer Online Battle Arena",
     "jeux": "Heroes of Newerth",
-    "tournois": 371
+    "totaldesGains": 2915206.56
   },
   {
-    "num": [
-      18188482.65,
-      14196415.95,
-      1253,
-      475
-    ],
+    "genre": "Multiplayer Online Battle Arena",
     "jeux": "Heroes of the Storm",
-    "tournois": 475
+    "totaldesGains": 18188482.65
   },
   {
-    "num": [
-      299000,
-      0,
-      260,
-      4
-    ],
+    "genre": "Multiplayer Online Battle Arena",
     "jeux": "Hyper Scape",
-    "tournois": 4
+    "totaldesGains": 299000
   },
   {
-    "num": [
-      83048606.83,
-      74989487.17,
-      7385,
-      2509
-    ],
+    "genre": "Multiplayer Online Battle Arena",
     "jeux": "League of Legends",
-    "tournois": 2509
+    "totaldesGains": 83048606.83
   },
   {
-    "num": [
-      472.66,
-      0,
-      0,
-      1
-    ],
+    "genre": "Multiplayer Online Battle Arena",
     "jeux": "Legend of Glory",
-    "tournois": 1
+    "totaldesGains": 472.66
   },
   {
-    "num": [
-      429539.15,
-      10000,
-      84,
-      20
-    ],
+    "genre": "Multiplayer Online Battle Arena",
     "jeux": "Minecraft",
-    "tournois": 20
+    "totaldesGains": 429539.15
   },
   {
-    "num": [
-      225,
-      0,
-      3,
-      1
-    ],
+    "genre": "Multiplayer Online Battle Arena",
     "jeux": "MOBA Legends",
-    "tournois": 1
+    "totaldesGains": 225
   },
   {
-    "num": [
-      297000,
-      297000,
-      10,
-      1
-    ],
+    "genre": "Multiplayer Online Battle Arena",
     "jeux": "Mobile Legends: Bang Bang",
-    "tournois": 1
+    "totaldesGains": 297000
   },
   {
-    "num": [
-      1029.21,
-      0,
-      20,
-      1
-    ],
+    "genre": "Multiplayer Online Battle Arena",
     "jeux": "Shards of War",
-    "tournois": 1
+    "totaldesGains": 1029.21
   },
   {
-    "num": [
-      9250112.75,
-      7872832.57,
-      545,
-      97
-    ],
+    "genre": "Multiplayer Online Battle Arena",
     "jeux": "SMITE",
-    "tournois": 97
+    "totaldesGains": 9250112.75
   },
   {
-    "num": [
-      50000,
-      0,
-      64,
-      2
-    ],
+    "genre": "Multiplayer Online Battle Arena",
     "jeux": "Splitgate: Arena Warfare",
-    "tournois": 2
+    "totaldesGains": 50000
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "Multiplayer Online Battle Arena",
     "jeux": "Teeworlds",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      797421.19,
-      696825.87,
-      247,
-      35
-    ],
+    "genre": "Multiplayer Online Battle Arena",
     "jeux": "Vainglory",
-    "tournois": 35
+    "totaldesGains": 797421.19
   },
   {
-    "num": [
-      409355.52,
-      409355.52,
-      51,
-      5
-    ],
+    "genre": "Role-Playing Game",
     "jeux": "Blade & Soul",
-    "tournois": 5
+    "totaldesGains": 409355.52
   },
   {
-    "num": [
-      476005.5,
-      350000,
-      152,
-      57
-    ],
+    "genre": "Role-Playing Game",
     "jeux": "Guild Wars 2",
-    "tournois": 57
+    "totaldesGains": 476005.5
   },
   {
-    "num": [
-      422504.2,
-      28500,
-      66,
-      22
-    ],
+    "genre": "Role-Playing Game",
     "jeux": "Old School Runescape",
-    "tournois": 22
+    "totaldesGains": 422504.2
   },
   {
-    "num": [
-      58000,
-      58000,
-      12,
-      2
-    ],
+    "genre": "Role-Playing Game",
     "jeux": "Red Stone",
-    "tournois": 2
+    "totaldesGains": 58000
   },
   {
-    "num": [
-      54250,
-      0,
-      56,
-      2
-    ],
+    "genre": "Role-Playing Game",
     "jeux": "Stardew Valley",
-    "tournois": 2
+    "totaldesGains": 54250
   },
   {
-    "num": [
-      4957837.61,
-      4615888.91,
-      413,
-      118
-    ],
+    "genre": "Role-Playing Game",
     "jeux": "World of WarCraft",
-    "tournois": 118
+    "totaldesGains": 4957837.61
   },
   {
-    "num": [
-      410,
-      210,
-      8,
-      3
-    ],
+    "genre": "Fighting Game",
     "jeux": "Acceleration of SUGURI 2",
-    "tournois": 3
+    "totaldesGains": 410
   },
   {
-    "num": [
-      20,
-      0,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Akatsuki Blitzkampf",
-    "tournois": 1
+    "totaldesGains": 20
   },
   {
-    "num": [
-      245,
-      245,
-      5,
-      2
-    ],
+    "genre": "Fighting Game",
     "jeux": "Aquapazza: Aquaplus Dream Match",
-    "tournois": 2
+    "totaldesGains": 245
   },
   {
-    "num": [
-      1000,
-      1000,
-      4,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Arcana Heart 3",
-    "tournois": 1
+    "totaldesGains": 1000
   },
   {
-    "num": [
-      570,
-      520,
-      8,
-      4
-    ],
+    "genre": "Fighting Game",
     "jeux": "Arcana Heart 3: Love Max Six Stars!!!!!",
-    "tournois": 4
+    "totaldesGains": 570
   },
   {
-    "num": [
-      410,
-      410,
-      6,
-      2
-    ],
+    "genre": "Fighting Game",
     "jeux": "Arcana Heart 3: LOVE MAX!!!!!",
-    "tournois": 2
+    "totaldesGains": 410
   },
   {
-    "num": [
-      20130.77,
-      13261.93,
-      110,
-      88
-    ],
+    "genre": "Fighting Game",
     "jeux": "ARMS",
-    "tournois": 88
+    "totaldesGains": 20130.77
   },
   {
-    "num": [
-      10,
-      0,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Asuka 120% LimitOver BURNING Fest.",
-    "tournois": 1
+    "totaldesGains": 10
   },
   {
-    "num": [
-      108650,
-      0,
-      21,
-      15
-    ],
+    "genre": "Fighting Game",
     "jeux": "Attack on Titan Tribute Game",
-    "tournois": 15
+    "totaldesGains": 108650
   },
   {
-    "num": [
-      35,
-      35,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "BlazBlue: Calamity Trigger",
-    "tournois": 1
+    "totaldesGains": 35
   },
   {
-    "num": [
-      78879.26,
-      78582.42,
-      86,
-      38
-    ],
+    "genre": "Fighting Game",
     "jeux": "BlazBlue: Central Fiction",
-    "tournois": 38
+    "totaldesGains": 78879.26
   },
   {
-    "num": [
-      37020.58,
-      37020.58,
-      63,
-      15
-    ],
+    "genre": "Fighting Game",
     "jeux": "BlazBlue: Chronophantasma",
-    "tournois": 15
+    "totaldesGains": 37020.58
   },
   {
-    "num": [
-      4918.77,
-      4918.77,
-      28,
-      11
-    ],
+    "genre": "Fighting Game",
     "jeux": "BlazBlue: Chronophantasma Extend",
-    "tournois": 11
+    "totaldesGains": 4918.77
   },
   {
-    "num": [
-      0,
-      0,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "BlazBlue: Continuum Shift Extend",
-    "tournois": 1
+    "totaldesGains": 0
   },
   {
-    "num": [
-      24591.01,
-      24591.01,
-      14,
-      5
-    ],
+    "genre": "Fighting Game",
     "jeux": "BlazBlue: Continuum Shift II",
-    "tournois": 5
+    "totaldesGains": 24591.01
   },
   {
-    "num": [
-      82800.03,
-      82800.03,
-      89,
-      31
-    ],
+    "genre": "Fighting Game",
     "jeux": "BlazBlue: Cross Tag Battle",
-    "tournois": 31
+    "totaldesGains": 82800.03
   },
   {
-    "num": [
-      1743994.09,
-      692000.3,
-      599,
-      475
-    ],
+    "genre": "Fighting Game",
     "jeux": "Brawlhalla",
-    "tournois": 475
+    "totaldesGains": 1743994.09
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "Fighting Game",
     "jeux": "Brawlout",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      16,
-      0,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Breakers Revenge",
-    "tournois": 1
+    "totaldesGains": 16
   },
   {
-    "num": [
-      140,
-      140,
-      6,
-      2
-    ],
+    "genre": "Fighting Game",
     "jeux": "Capcom vs. SNK",
-    "tournois": 2
+    "totaldesGains": 140
   },
   {
-    "num": [
-      24186.79,
-      24186.79,
-      36,
-      19
-    ],
+    "genre": "Fighting Game",
     "jeux": "Capcom vs. SNK 2",
-    "tournois": 19
+    "totaldesGains": 24186.79
   },
   {
-    "num": [
-      140,
-      140,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Chaos Code: New Sign of Catastrophe",
-    "tournois": 1
+    "totaldesGains": 140
   },
   {
-    "num": [
-      497745.31,
-      497745.31,
-      45,
-      13
-    ],
+    "genre": "Fighting Game",
     "jeux": "Dead or Alive 4",
-    "tournois": 13
+    "totaldesGains": 497745.31
   },
   {
-    "num": [
-      0,
-      0,
-      4,
-      2
-    ],
+    "genre": "Fighting Game",
     "jeux": "Dead or Alive 5",
-    "tournois": 2
+    "totaldesGains": 0
   },
   {
-    "num": [
-      0,
-      0,
-      37,
-      7
-    ],
+    "genre": "Fighting Game",
     "jeux": "Dead or Alive 5 Ultimate",
-    "tournois": 7
+    "totaldesGains": 0
   },
   {
-    "num": [
-      8163.82,
-      8163.82,
-      45,
-      19
-    ],
+    "genre": "Fighting Game",
     "jeux": "Dead or Alive 5: Last Round",
-    "tournois": 19
+    "totaldesGains": 8163.82
   },
   {
-    "num": [
-      64332.54,
-      63222.54,
-      64,
-      19
-    ],
+    "genre": "Fighting Game",
     "jeux": "Dead or Alive 6",
-    "tournois": 19
+    "totaldesGains": 64332.54
   },
   {
-    "num": [
-      30000,
-      30000,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Dead or Alive Ultimate",
-    "tournois": 1
+    "totaldesGains": 30000
   },
   {
-    "num": [
-      190,
-      0,
-      4,
-      2
-    ],
+    "genre": "Fighting Game",
     "jeux": "Def Jam: Fight for NY",
-    "tournois": 2
+    "totaldesGains": 190
   },
   {
-    "num": [
-      60,
-      60,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Dengeki Bunko: Fighting Climax",
-    "tournois": 1
+    "totaldesGains": 60
   },
   {
-    "num": [
-      2852.8,
-      2667.3,
-      31,
-      10
-    ],
+    "genre": "Fighting Game",
     "jeux": "Dengeki Bunko: Fighting Climax Ignition",
-    "tournois": 10
+    "totaldesGains": 2852.8
   },
   {
-    "num": [
-      200,
-      0,
-      5,
-      2
-    ],
+    "genre": "Fighting Game",
     "jeux": "Digimon Rumble Arena",
-    "tournois": 2
+    "totaldesGains": 200
   },
   {
-    "num": [
-      5840,
-      5840,
-      27,
-      11
-    ],
+    "genre": "Fighting Game",
     "jeux": "Divekick",
-    "tournois": 11
+    "totaldesGains": 5840
   },
   {
-    "num": [
-      337985.4,
-      337135.4,
-      159,
-      73
-    ],
+    "genre": "Fighting Game",
     "jeux": "Dragon Ball FighterZ",
-    "tournois": 73
+    "totaldesGains": 337985.4
   },
   {
-    "num": [
-      204.06,
-      204.06,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Dragon Ball Z: Budokai 3",
-    "tournois": 1
+    "totaldesGains": 204.06
   },
   {
-    "num": [
-      750,
-      0,
-      5,
-      2
-    ],
+    "genre": "Fighting Game",
     "jeux": "Duck Game",
-    "tournois": 2
+    "totaldesGains": 750
   },
   {
-    "num": [
-      1311.6,
-      0,
-      7,
-      2
-    ],
+    "genre": "Fighting Game",
     "jeux": "Eternal Fighter Zero",
-    "tournois": 2
+    "totaldesGains": 1311.6
   },
   {
-    "num": [
-      4135,
-      2610,
-      18,
-      4
-    ],
+    "genre": "Fighting Game",
     "jeux": "Fantasy Strike",
-    "tournois": 4
+    "totaldesGains": 4135
   },
   {
-    "num": [
-      630.68,
-      0,
-      9,
-      4
-    ],
+    "genre": "Fighting Game",
     "jeux": "Fight of Animals",
-    "tournois": 4
+    "totaldesGains": 630.68
   },
   {
-    "num": [
-      195,
-      195,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Fighter's History Dynamite",
-    "tournois": 1
+    "totaldesGains": 195
   },
   {
-    "num": [
-      1642.96,
-      1632.96,
-      16,
-      7
-    ],
+    "genre": "Fighting Game",
     "jeux": "Fighting EX Layer",
-    "tournois": 7
+    "totaldesGains": 1642.96
   },
   {
-    "num": [
-      658.71,
-      513.71,
-      13,
-      4
-    ],
+    "genre": "Fighting Game",
     "jeux": "Garou: Mark of the Wolves",
-    "tournois": 4
+    "totaldesGains": 658.71
   },
   {
-    "num": [
-      32,
-      32,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Guilty Gear",
-    "tournois": 1
+    "totaldesGains": 32
   },
   {
-    "num": [
-      36437.43,
-      36437.43,
-      61,
-      19
-    ],
+    "genre": "Fighting Game",
     "jeux": "Guilty Gear Xrd -REVELATOR-",
-    "tournois": 19
+    "totaldesGains": 36437.43
   },
   {
-    "num": [
-      37445.66,
-      37445.66,
-      80,
-      38
-    ],
+    "genre": "Fighting Game",
     "jeux": "Guilty Gear Xrd -SIGN-",
-    "tournois": 38
+    "totaldesGains": 37445.66
   },
   {
-    "num": [
-      116749.7,
-      116554.7,
-      104,
-      50
-    ],
+    "genre": "Fighting Game",
     "jeux": "Guilty Gear Xrd REV 2",
-    "tournois": 50
+    "totaldesGains": 116749.7
   },
   {
-    "num": [
-      0,
-      0,
-      5,
-      2
-    ],
+    "genre": "Fighting Game",
     "jeux": "Guilty Gear XX",
-    "tournois": 2
+    "totaldesGains": 0
   },
   {
-    "num": [
-      0,
-      0,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Guilty Gear XX #Reload",
-    "tournois": 1
+    "totaldesGains": 0
   },
   {
-    "num": [
-      10365,
-      10365,
-      33,
-      4
-    ],
+    "genre": "Fighting Game",
     "jeux": "Guilty Gear XX Accent Core",
-    "tournois": 4
+    "totaldesGains": 10365
   },
   {
-    "num": [
-      0,
-      0,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Guilty Gear XX Accent Core Plus",
-    "tournois": 1
+    "totaldesGains": 0
   },
   {
-    "num": [
-      4640,
-      4640,
-      61,
-      19
-    ],
+    "genre": "Fighting Game",
     "jeux": "Guilty Gear XX Accent Core Plus R",
-    "tournois": 19
+    "totaldesGains": 4640
   },
   {
-    "num": [
-      10250,
-      10250,
-      6,
-      2
-    ],
+    "genre": "Fighting Game",
     "jeux": "Guilty Gear XX Slash",
-    "tournois": 2
+    "totaldesGains": 10250
   },
   {
-    "num": [
-      145,
-      145,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Hokuto no Ken",
-    "tournois": 1
+    "totaldesGains": 145
   },
   {
-    "num": [
-      10250,
-      10250,
-      8,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Hyper Street Fighter II",
-    "tournois": 1
+    "totaldesGains": 10250
   },
   {
-    "num": [
-      50,
-      0,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "HYPERFIGHT",
-    "tournois": 1
+    "totaldesGains": 50
   },
   {
-    "num": [
-      835742.83,
-      834310.24,
-      81,
-      37
-    ],
+    "genre": "Fighting Game",
     "jeux": "Injustice 2",
-    "tournois": 37
+    "totaldesGains": 835742.83
   },
   {
-    "num": [
-      35176.89,
-      35176.89,
-      101,
-      117
-    ],
+    "genre": "Fighting Game",
     "jeux": "Injustice: Gods Among Us",
-    "tournois": 117
+    "totaldesGains": 35176.89
   },
   {
-    "num": [
-      284.99,
-      0,
-      5,
-      2
-    ],
+    "genre": "Fighting Game",
     "jeux": "JoJo's Bizarre Adventure: Heritage for the Future",
-    "tournois": 2
+    "totaldesGains": 284.99
   },
   {
-    "num": [
-      920,
-      770,
-      12,
-      4
-    ],
+    "genre": "Fighting Game",
     "jeux": "Kill la Kill the Game: IF",
-    "tournois": 4
+    "totaldesGains": 920
   },
   {
-    "num": [
-      224466.96,
-      224416.96,
-      128,
-      53
-    ],
+    "genre": "Fighting Game",
     "jeux": "Killer Instinct (2013)",
-    "tournois": 53
+    "totaldesGains": 224466.96
   },
   {
-    "num": [
-      760,
-      760,
-      6,
-      2
-    ],
+    "genre": "Fighting Game",
     "jeux": "King of Fighters 2002 Unlimited Match",
-    "tournois": 2
+    "totaldesGains": 760
   },
   {
-    "num": [
-      7945.57,
-      7945.57,
-      7,
-      3
-    ],
+    "genre": "Fighting Game",
     "jeux": "King of Fighters 98",
-    "tournois": 3
+    "totaldesGains": 7945.57
   },
   {
-    "num": [
-      25,
-      25,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "King of Fighters XI",
-    "tournois": 1
+    "totaldesGains": 25
   },
   {
-    "num": [
-      44724.28,
-      44724.28,
-      107,
-      43
-    ],
+    "genre": "Fighting Game",
     "jeux": "King of Fighters XIII",
-    "tournois": 43
+    "totaldesGains": 44724.28
   },
   {
-    "num": [
-      72902.09,
-      72042.09,
-      90,
-      37
-    ],
+    "genre": "Fighting Game",
     "jeux": "King of Fighters XIV",
-    "tournois": 37
+    "totaldesGains": 72902.09
   },
   {
-    "num": [
-      222.86,
-      0,
-      4,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Kirby Fighters 2",
-    "tournois": 1
+    "totaldesGains": 222.86
   },
   {
-    "num": [
-      1665,
-      1615,
-      13,
-      6
-    ],
+    "genre": "Fighting Game",
     "jeux": "Koihime Enbu",
-    "tournois": 6
+    "totaldesGains": 1665
   },
   {
-    "num": [
-      5343.92,
-      1677.75,
-      25,
-      11
-    ],
+    "genre": "Fighting Game",
     "jeux": "Lethal League Blaze",
-    "tournois": 11
+    "totaldesGains": 5343.92
   },
   {
-    "num": [
-      200,
-      0,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Maiden & Spell",
-    "tournois": 1
+    "totaldesGains": 200
   },
   {
-    "num": [
-      39060,
-      39050,
-      60,
-      28
-    ],
+    "genre": "Fighting Game",
     "jeux": "Marvel vs. Capcom 2",
-    "tournois": 28
+    "totaldesGains": 39060
   },
   {
-    "num": [
-      22343.62,
-      22343.62,
-      38,
-      12
-    ],
+    "genre": "Fighting Game",
     "jeux": "Marvel vs. Capcom 3",
-    "tournois": 12
+    "totaldesGains": 22343.62
   },
   {
-    "num": [
-      42482.12,
-      42482.12,
-      49,
-      19
-    ],
+    "genre": "Fighting Game",
     "jeux": "Marvel vs. Capcom: Infinite",
-    "tournois": 19
+    "totaldesGains": 42482.12
   },
   {
-    "num": [
-      0,
-      0,
-      10,
-      2
-    ],
+    "genre": "Fighting Game",
     "jeux": "Melty Blood: Actress Again",
-    "tournois": 2
+    "totaldesGains": 0
   },
   {
-    "num": [
-      8587.76,
-      6135,
-      48,
-      18
-    ],
+    "genre": "Fighting Game",
     "jeux": "Melty Blood: Actress Again Current Code",
-    "tournois": 18
+    "totaldesGains": 8587.76
   },
   {
-    "num": [
-      7430,
-      7420,
-      9,
-      3
-    ],
+    "genre": "Fighting Game",
     "jeux": "Million Arthur: Arcana Blood",
-    "tournois": 3
+    "totaldesGains": 7430
   },
   {
-    "num": [
-      16623,
-      0,
-      40,
-      3
-    ],
+    "genre": "Fighting Game",
     "jeux": "Mordhau",
-    "tournois": 3
+    "totaldesGains": 16623
   },
   {
-    "num": [
-      392602.33,
-      354602.33,
-      158,
-      37
-    ],
+    "genre": "Fighting Game",
     "jeux": "Mortal Kombat 11",
-    "tournois": 37
+    "totaldesGains": 392602.33
   },
   {
-    "num": [
-      136891.67,
-      136891.67,
-      67,
-      26
-    ],
+    "genre": "Fighting Game",
     "jeux": "Mortal Kombat 9",
-    "tournois": 26
+    "totaldesGains": 136891.67
   },
   {
-    "num": [
-      0,
-      0,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Mortal Kombat vs. DC Universe",
-    "tournois": 1
+    "totaldesGains": 0
   },
   {
-    "num": [
-      523532.42,
-      523532.42,
-      100,
-      62
-    ],
+    "genre": "Fighting Game",
     "jeux": "Mortal Kombat X",
-    "tournois": 62
+    "totaldesGains": 523532.42
   },
   {
-    "num": [
-      129203.79,
-      129203.79,
-      50,
-      17
-    ],
+    "genre": "Fighting Game",
     "jeux": "Mortal Kombat XL",
-    "tournois": 17
+    "totaldesGains": 129203.79
   },
   {
-    "num": [
-      10995,
-      10995,
-      56,
-      8
-    ],
+    "genre": "Fighting Game",
     "jeux": "Mystery Game Tournament",
-    "tournois": 8
+    "totaldesGains": 10995
   },
   {
-    "num": [
-      4550,
-      2000,
-      7,
-      5
-    ],
+    "genre": "Fighting Game",
     "jeux": "Naruto Shippuden: Ultimate Ninja Storm 4",
-    "tournois": 5
+    "totaldesGains": 4550
   },
   {
-    "num": [
-      200,
-      0,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Naruto: Gekitou Ninja Taisen! 4",
-    "tournois": 1
+    "totaldesGains": 200
   },
   {
-    "num": [
-      1994,
-      1994,
-      10,
-      4
-    ],
+    "genre": "Fighting Game",
     "jeux": "Nitroplus Blasterz: Heroines Infinite Duel",
-    "tournois": 4
+    "totaldesGains": 1994
   },
   {
-    "num": [
-      6336.63,
-      6336.63,
-      42,
-      11
-    ],
+    "genre": "Fighting Game",
     "jeux": "Persona 4 Arena",
-    "tournois": 11
+    "totaldesGains": 6336.63
   },
   {
-    "num": [
-      18828.16,
-      18828.16,
-      58,
-      19
-    ],
+    "genre": "Fighting Game",
     "jeux": "Persona 4 Arena Ultimax",
-    "tournois": 19
+    "totaldesGains": 18828.16
   },
   {
-    "num": [
-      60,
-      0,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Pocket Rumble",
-    "tournois": 1
+    "totaldesGains": 60
   },
   {
-    "num": [
-      77016.66,
-      76971.66,
-      62,
-      25
-    ],
+    "genre": "Fighting Game",
     "jeux": "Pokk<U+00E9>n Tournament",
-    "tournois": 25
+    "totaldesGains": 77016.66
   },
   {
-    "num": [
-      20275.4,
-      20064,
-      43,
-      26
-    ],
+    "genre": "Fighting Game",
     "jeux": "Pokk<U+00E9>n Tournament DX",
-    "tournois": 26
+    "totaldesGains": 20275.4
   },
   {
-    "num": [
-      50,
-      0,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Power Instinct: Matrimelee",
-    "tournois": 1
+    "totaldesGains": 50
   },
   {
-    "num": [
-      1390,
-      530,
-      11,
-      4
-    ],
+    "genre": "Fighting Game",
     "jeux": "Power Rangers: Battle for the Grid",
-    "tournois": 4
+    "totaldesGains": 1390
   },
   {
-    "num": [
-      4178.55,
-      4178.55,
-      2,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Power Rangers: Legacy Wars",
-    "tournois": 1
+    "totaldesGains": 4178.55
   },
   {
-    "num": [
-      165,
-      165,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Project Justice",
-    "tournois": 1
+    "totaldesGains": 165
   },
   {
-    "num": [
-      205292.09,
-      205292.09,
-      560,
-      335
-    ],
+    "genre": "Fighting Game",
     "jeux": "Project M",
-    "tournois": 335
+    "totaldesGains": 205292.09
   },
   {
-    "num": [
-      20,
-      0,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Project Plus",
-    "tournois": 1
+    "totaldesGains": 20
   },
   {
-    "num": [
-      300,
-      0,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Punch Planet",
-    "tournois": 1
+    "totaldesGains": 300
   },
   {
-    "num": [
-      1000,
-      1000,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Rising Thunder",
-    "tournois": 1
+    "totaldesGains": 1000
   },
   {
-    "num": [
-      38868.62,
-      36737,
-      48,
-      18
-    ],
+    "genre": "Fighting Game",
     "jeux": "Rivals of Aether",
-    "tournois": 18
+    "totaldesGains": 38868.62
   },
   {
-    "num": [
-      50,
-      0,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Roof Rage",
-    "tournois": 1
+    "totaldesGains": 50
   },
   {
-    "num": [
-      3201.19,
-      3191.19,
-      18,
-      11
-    ],
+    "genre": "Fighting Game",
     "jeux": "Sailor Moon S",
-    "tournois": 11
+    "totaldesGains": 3201.19
   },
   {
-    "num": [
-      68009.91,
-      68009.91,
-      58,
-      15
-    ],
+    "genre": "Fighting Game",
     "jeux": "Samurai Shodown (2019)",
-    "tournois": 15
+    "totaldesGains": 68009.91
   },
   {
-    "num": [
-      30,
-      0,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Samurai Shodown III",
-    "tournois": 1
+    "totaldesGains": 30
   },
   {
-    "num": [
-      590.57,
-      490.11,
-      15,
-      5
-    ],
+    "genre": "Fighting Game",
     "jeux": "Samurai Shodown V Special",
-    "tournois": 5
+    "totaldesGains": 590.57
   },
   {
-    "num": [
-      100,
-      0,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Schwarzerblitz",
-    "tournois": 1
+    "totaldesGains": 100
   },
   {
-    "num": [
-      19596,
-      0,
-      20,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Sekiro: Shadows Die Twice",
-    "tournois": 1
+    "totaldesGains": 19596
   },
   {
-    "num": [
-      60,
-      60,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Shovel Knight Showdown",
-    "tournois": 1
+    "totaldesGains": 60
   },
   {
-    "num": [
-      50,
-      0,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Shrek SuperSlam",
-    "tournois": 1
+    "totaldesGains": 50
   },
   {
-    "num": [
-      300,
-      300,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Skullgirls",
-    "tournois": 1
+    "totaldesGains": 300
   },
   {
-    "num": [
-      18321,
-      17871,
-      34,
-      12
-    ],
+    "genre": "Fighting Game",
     "jeux": "Skullgirls 2nd Encore",
-    "tournois": 12
+    "totaldesGains": 18321
   },
   {
-    "num": [
-      9155.4,
-      9155.4,
-      37,
-      13
-    ],
+    "genre": "Fighting Game",
     "jeux": "Skullgirls Encore",
-    "tournois": 13
+    "totaldesGains": 9155.4
   },
   {
-    "num": [
-      300,
-      0,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Slap City",
-    "tournois": 1
+    "totaldesGains": 300
   },
   {
-    "num": [
-      500,
-      0,
-      8,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "SLAYERS FOR HIRE",
-    "tournois": 1
+    "totaldesGains": 500
   },
   {
-    "num": [
-      299.06,
-      0,
-      4,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Smash Remix",
-    "tournois": 1
+    "totaldesGains": 299.06
   },
   {
-    "num": [
-      430,
-      430,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "SNK Heroines: Tag Team Frenzy",
-    "tournois": 1
+    "totaldesGains": 430
   },
   {
-    "num": [
-      4790,
-      4790,
-      15,
-      7
-    ],
+    "genre": "Fighting Game",
     "jeux": "Soul Calibur II",
-    "tournois": 7
+    "totaldesGains": 4790
   },
   {
-    "num": [
-      945.41,
-      945.41,
-      29,
-      5
-    ],
+    "genre": "Fighting Game",
     "jeux": "Soul Calibur II HD Online",
-    "tournois": 5
+    "totaldesGains": 945.41
   },
   {
-    "num": [
-      100260,
-      100260,
-      4,
-      3
-    ],
+    "genre": "Fighting Game",
     "jeux": "Soul Calibur IV",
-    "tournois": 3
+    "totaldesGains": 100260
   },
   {
-    "num": [
-      60008.54,
-      60008.54,
-      78,
-      26
-    ],
+    "genre": "Fighting Game",
     "jeux": "Soul Calibur V",
-    "tournois": 26
+    "totaldesGains": 60008.54
   },
   {
-    "num": [
-      109895.21,
-      94795.21,
-      101,
-      49
-    ],
+    "genre": "Fighting Game",
     "jeux": "Soul Calibur VI",
-    "tournois": 49
+    "totaldesGains": 109895.21
   },
   {
-    "num": [
-      1390,
-      1390,
-      17,
-      8
-    ],
+    "genre": "Fighting Game",
     "jeux": "Street Fighter Alpha 2",
-    "tournois": 8
+    "totaldesGains": 1390
   },
   {
-    "num": [
-      300,
-      300,
-      15,
-      4
-    ],
+    "genre": "Fighting Game",
     "jeux": "Street Fighter Alpha 3",
-    "tournois": 4
+    "totaldesGains": 300
   },
   {
-    "num": [
-      350,
-      350,
-      5,
-      2
-    ],
+    "genre": "Fighting Game",
     "jeux": "Street Fighter EX2 Plus",
-    "tournois": 2
+    "totaldesGains": 350
   },
   {
-    "num": [
-      49378.86,
-      49278.86,
-      83,
-      35
-    ],
+    "genre": "Fighting Game",
     "jeux": "Street Fighter III: 3rd Strike",
-    "tournois": 35
+    "totaldesGains": 49378.86
   },
   {
-    "num": [
-      7938.22,
-      7938.22,
-      41,
-      12
-    ],
+    "genre": "Fighting Game",
     "jeux": "Street Fighter IV",
-    "tournois": 12
+    "totaldesGains": 7938.22
   },
   {
-    "num": [
-      2202726.43,
-      2202726.43,
-      233,
-      120
-    ],
+    "genre": "Fighting Game",
     "jeux": "Street Fighter V",
-    "tournois": 120
+    "totaldesGains": 2202726.43
   },
   {
-    "num": [
-      2017135.95,
-      2016285.95,
-      229,
-      100
-    ],
+    "genre": "Fighting Game",
     "jeux": "Street Fighter V: Arcade Edition",
-    "tournois": 100
+    "totaldesGains": 2017135.95
   },
   {
-    "num": [
-      33628.66,
-      33628.66,
-      10,
-      2
-    ],
+    "genre": "Fighting Game",
     "jeux": "Street Fighter V: Champion Edition",
-    "tournois": 2
+    "totaldesGains": 33628.66
   },
   {
-    "num": [
-      84090.64,
-      83229.34,
-      115,
-      93
-    ],
+    "genre": "Fighting Game",
     "jeux": "Street Fighter X Tekken",
-    "tournois": 93
+    "totaldesGains": 84090.64
   },
   {
-    "num": [
-      68082.81,
-      68042.81,
-      234,
-      123
-    ],
+    "genre": "Fighting Game",
     "jeux": "Super Smash Bros.",
-    "tournois": 123
+    "totaldesGains": 68082.81
   },
   {
-    "num": [
-      246715.83,
-      246715.83,
-      499,
-      344
-    ],
+    "genre": "Fighting Game",
     "jeux": "Super Smash Bros. Brawl",
-    "tournois": 344
+    "totaldesGains": 246715.83
   },
   {
-    "num": [
-      1511976.47,
-      1510076.47,
-      1264,
-      1022
-    ],
+    "genre": "Fighting Game",
     "jeux": "Super Smash Bros. for Wii U",
-    "tournois": 1022
+    "totaldesGains": 1511976.47
   },
   {
-    "num": [
-      3243573.57,
-      3179154.8,
-      1883,
-      2615
-    ],
+    "genre": "Fighting Game",
     "jeux": "Super Smash Bros. Melee",
-    "tournois": 2615
+    "totaldesGains": 3243573.57
   },
   {
-    "num": [
-      1463299.26,
-      1221149.26,
-      2007,
-      1366
-    ],
+    "genre": "Fighting Game",
     "jeux": "Super Smash Bros. Ultimate",
-    "tournois": 1366
+    "totaldesGains": 1463299.26
   },
   {
-    "num": [
-      23678.05,
-      23678.05,
-      104,
-      44
-    ],
+    "genre": "Fighting Game",
     "jeux": "Super Street Fighter II Turbo",
-    "tournois": 44
+    "totaldesGains": 23678.05
   },
   {
-    "num": [
-      16360,
-      16360,
-      29,
-      8
-    ],
+    "genre": "Fighting Game",
     "jeux": "Super Street Fighter II Turbo HD Remix",
-    "tournois": 8
+    "totaldesGains": 16360
   },
   {
-    "num": [
-      20877.3,
-      20877.3,
-      40,
-      16
-    ],
+    "genre": "Fighting Game",
     "jeux": "Super Street Fighter IV",
-    "tournois": 16
+    "totaldesGains": 20877.3
   },
   {
-    "num": [
-      343878.08,
-      343878.08,
-      153,
-      202
-    ],
+    "genre": "Fighting Game",
     "jeux": "Super Street Fighter IV Arcade Edition",
-    "tournois": 202
+    "totaldesGains": 343878.08
   },
   {
-    "num": [
-      1330.81,
-      1330.81,
-      13,
-      8
-    ],
+    "genre": "Fighting Game",
     "jeux": "Tatsunoko vs. Capcom: Ultimate All-Stars",
-    "tournois": 8
+    "totaldesGains": 1330.81
   },
   {
-    "num": [
-      820,
-      820,
-      7,
-      2
-    ],
+    "genre": "Fighting Game",
     "jeux": "Teenage Mutant Ninja Turtles: Tournament Fighters",
-    "tournois": 2
+    "totaldesGains": 820
   },
   {
-    "num": [
-      12500,
-      12500,
-      4,
-      4
-    ],
+    "genre": "Fighting Game",
     "jeux": "Tekken 4",
-    "tournois": 4
+    "totaldesGains": 12500
   },
   {
-    "num": [
-      10250,
-      10250,
-      10,
-      9
-    ],
+    "genre": "Fighting Game",
     "jeux": "Tekken 5",
-    "tournois": 9
+    "totaldesGains": 10250
   },
   {
-    "num": [
-      12180,
-      12180,
-      18,
-      5
-    ],
+    "genre": "Fighting Game",
     "jeux": "Tekken 5: Dark Resurrection",
-    "tournois": 5
+    "totaldesGains": 12180
   },
   {
-    "num": [
-      119874.64,
-      119874.64,
-      59,
-      30
-    ],
+    "genre": "Fighting Game",
     "jeux": "Tekken 6",
-    "tournois": 30
+    "totaldesGains": 119874.64
   },
   {
-    "num": [
-      1732656.45,
-      1714113.85,
-      425,
-      238
-    ],
+    "genre": "Fighting Game",
     "jeux": "Tekken 7",
-    "tournois": 238
+    "totaldesGains": 1732656.45
   },
   {
-    "num": [
-      0,
-      0,
-      7,
-      4
-    ],
+    "genre": "Fighting Game",
     "jeux": "Tekken Tag Tournament",
-    "tournois": 4
+    "totaldesGains": 0
   },
   {
-    "num": [
-      125965.7,
-      125965.7,
-      142,
-      138
-    ],
+    "genre": "Fighting Game",
     "jeux": "Tekken Tag Tournament 2",
-    "tournois": 138
+    "totaldesGains": 125965.7
   },
   {
-    "num": [
-      20,
-      0,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "The Last Blade 2",
-    "tournois": 1
+    "totaldesGains": 20
   },
   {
-    "num": [
-      580,
-      530,
-      10,
-      4
-    ],
+    "genre": "Fighting Game",
     "jeux": "Them's Fightin' Herds",
-    "tournois": 4
+    "totaldesGains": 580
   },
   {
-    "num": [
-      4501.52,
-      220,
-      18,
-      6
-    ],
+    "genre": "Fighting Game",
     "jeux": "Touhou Hisoutensoku ~ Choudokyuu Ginyoru no Nazo o Oe",
-    "tournois": 6
+    "totaldesGains": 4501.52
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "Fighting Game",
     "jeux": "TowerFall: Ascension",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      116733.16,
-      116733.16,
-      190,
-      169
-    ],
+    "genre": "Fighting Game",
     "jeux": "Ultimate Marvel vs. Capcom 3",
-    "tournois": 169
+    "totaldesGains": 116733.16
   },
   {
-    "num": [
-      150,
-      150,
-      6,
-      2
-    ],
+    "genre": "Fighting Game",
     "jeux": "Ultimate Mortal Kombat 3",
-    "tournois": 2
+    "totaldesGains": 150
   },
   {
-    "num": [
-      320,
-      320,
-      3,
-      1
-    ],
+    "genre": "Fighting Game",
     "jeux": "Ultra Fight Da! Kyanta 2",
-    "tournois": 1
+    "totaldesGains": 320
   },
   {
-    "num": [
-      816713.46,
-      816673.46,
-      231,
-      229
-    ],
+    "genre": "Fighting Game",
     "jeux": "Ultra Street Fighter IV",
-    "tournois": 229
+    "totaldesGains": 816713.46
   },
   {
-    "num": [
-      140,
-      90,
-      6,
-      2
-    ],
+    "genre": "Fighting Game",
     "jeux": "Umineko: Golden Fantasia",
-    "tournois": 2
+    "totaldesGains": 140
   },
   {
-    "num": [
-      6025.76,
-      6025.76,
-      52,
-      23
-    ],
+    "genre": "Fighting Game",
     "jeux": "Under Night In-Birth EXE: Late",
-    "tournois": 23
+    "totaldesGains": 6025.76
   },
   {
-    "num": [
-      46553.33,
-      46553.33,
-      98,
-      34
-    ],
+    "genre": "Fighting Game",
     "jeux": "Under Night In-Birth EXE: Late[st]",
-    "tournois": 34
+    "totaldesGains": 46553.33
   },
   {
-    "num": [
-      1050,
-      1000,
-      7,
-      2
-    ],
+    "genre": "Fighting Game",
     "jeux": "Under Night In-Birth Exe:Late[cl-r]",
-    "tournois": 2
+    "totaldesGains": 1050
   },
   {
-    "num": [
-      9185.95,
-      8038.74,
-      32,
-      18
-    ],
+    "genre": "Fighting Game",
     "jeux": "Vampire Savior",
-    "tournois": 18
+    "totaldesGains": 9185.95
   },
   {
-    "num": [
-      0,
-      0,
-      6,
-      3
-    ],
+    "genre": "Fighting Game",
     "jeux": "Virtua Fighter 4: Evolution",
-    "tournois": 3
+    "totaldesGains": 0
   },
   {
-    "num": [
-      39830,
-      39830,
-      14,
-      7
-    ],
+    "genre": "Fighting Game",
     "jeux": "Virtua Fighter 5",
-    "tournois": 7
+    "totaldesGains": 39830
   },
   {
-    "num": [
-      573.77,
-      573.77,
-      28,
-      6
-    ],
+    "genre": "Fighting Game",
     "jeux": "Virtua Fighter 5 Final Showdown",
-    "tournois": 6
+    "totaldesGains": 573.77
   },
   {
-    "num": [
-      50000,
-      0,
-      20,
-      2
-    ],
+    "genre": "Fighting Game",
     "jeux": "WWE 2K20",
-    "tournois": 2
+    "totaldesGains": 50000
   },
   {
-    "num": [
-      29500,
-      29500,
-      5,
-      2
-    ],
+    "genre": "Racing",
     "jeux": "Asphalt 4",
-    "tournois": 2
+    "totaldesGains": 29500
   },
   {
-    "num": [
-      51520,
-      51520,
-      5,
-      2
-    ],
+    "genre": "Racing",
     "jeux": "Asphalt 9: Legends",
-    "tournois": 2
+    "totaldesGains": 51520
   },
   {
-    "num": [
-      361592.16,
-      228047,
-      174,
-      56
-    ],
+    "genre": "Racing",
     "jeux": "Assetto Corsa",
-    "tournois": 56
+    "totaldesGains": 361592.16
   },
   {
-    "num": [
-      5338,
-      0,
-      10,
-      13
-    ],
+    "genre": "Racing",
     "jeux": "Assetto Corsa Competizione",
-    "tournois": 13
+    "totaldesGains": 5338
   },
   {
-    "num": [
-      10000,
-      10000,
-      5,
-      2
-    ],
+    "genre": "Racing",
     "jeux": "Dirt Rally 2.0",
-    "tournois": 2
+    "totaldesGains": 10000
   },
   {
-    "num": [
-      200000,
-      200000,
-      21,
-      1
-    ],
+    "genre": "Racing",
     "jeux": "F1 2018",
-    "tournois": 1
+    "totaldesGains": 200000
   },
   {
-    "num": [
-      538047.38,
-      538047.38,
-      25,
-      2
-    ],
+    "genre": "Racing",
     "jeux": "F1 2019",
-    "tournois": 2
+    "totaldesGains": 538047.38
   },
   {
-    "num": [
-      751947,
-      0,
-      39,
-      2
-    ],
+    "genre": "Racing",
     "jeux": "F1 2020",
-    "tournois": 2
+    "totaldesGains": 751947
   },
   {
-    "num": [
-      222000,
-      222000,
-      17,
-      2
-    ],
+    "genre": "Racing",
     "jeux": "Forza Motorsport 2",
-    "tournois": 2
+    "totaldesGains": 222000
   },
   {
-    "num": [
-      11000,
-      11000,
-      3,
-      2
-    ],
+    "genre": "Racing",
     "jeux": "Forza Motorsport 3",
-    "tournois": 2
+    "totaldesGains": 11000
   },
   {
-    "num": [
-      132.37,
-      132.37,
-      2,
-      1
-    ],
+    "genre": "Racing",
     "jeux": "Forza Motorsport 4",
-    "tournois": 1
+    "totaldesGains": 132.37
   },
   {
-    "num": [
-      172600,
-      170200,
-      43,
-      9
-    ],
+    "genre": "Racing",
     "jeux": "Forza Motorsport 6",
-    "tournois": 9
+    "totaldesGains": 172600
   },
   {
-    "num": [
-      820200,
-      616200,
-      124,
-      12
-    ],
+    "genre": "Racing",
     "jeux": "Forza Motorsport 7",
-    "tournois": 12
+    "totaldesGains": 820200
   },
   {
-    "num": [
-      3250,
-      3250,
-      4,
-      2
-    ],
+    "genre": "Racing",
     "jeux": "Gran Turismo 3: A-Spec",
-    "tournois": 2
+    "totaldesGains": 3250
   },
   {
-    "num": [
-      44000,
-      44000,
-      5,
-      2
-    ],
+    "genre": "Racing",
     "jeux": "Gran Turismo 4",
-    "tournois": 2
+    "totaldesGains": 44000
   },
   {
-    "num": [
-      27511,
-      27511,
-      75,
-      7
-    ],
+    "genre": "Racing",
     "jeux": "Gran Turismo Sport",
-    "tournois": 7
+    "totaldesGains": 27511
   },
   {
-    "num": [
-      218.75,
-      218.75,
-      3,
-      1
-    ],
+    "genre": "Racing",
     "jeux": "GRID (2019)",
-    "tournois": 1
+    "totaldesGains": 218.75
   },
   {
-    "num": [
-      1550579.43,
-      129494.1,
-      883,
-      114
-    ],
+    "genre": "Racing",
     "jeux": "iRacing.com",
-    "tournois": 114
+    "totaldesGains": 1550579.43
   },
   {
-    "num": [
-      567366.35,
-      567366.35,
-      76,
-      20
-    ],
+    "genre": "Racing",
     "jeux": "KartRider",
-    "tournois": 20
+    "totaldesGains": 567366.35
   },
   {
-    "num": [
-      11599.14,
-      9219.14,
-      22,
-      9
-    ],
+    "genre": "Racing",
     "jeux": "Live for Speed",
-    "tournois": 9
+    "totaldesGains": 11599.14
   },
   {
-    "num": [
-      20163,
-      20163,
-      12,
-      1
-    ],
+    "genre": "Racing",
     "jeux": "Mad Skills Motocross 2",
-    "tournois": 1
+    "totaldesGains": 20163
   },
   {
-    "num": [
-      1754.44,
-      1754.44,
-      30,
-      4
-    ],
+    "genre": "Racing",
     "jeux": "Mario Kart 8 Deluxe",
-    "tournois": 4
+    "totaldesGains": 1754.44
   },
   {
-    "num": [
-      200500,
-      0,
-      34,
-      5
-    ],
+    "genre": "Racing",
     "jeux": "NASCAR Heat 4",
-    "tournois": 5
+    "totaldesGains": 200500
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "Racing",
     "jeux": "Nascar Heat 5",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      7679.25,
-      7679.25,
-      0,
-      1
-    ],
+    "genre": "Racing",
     "jeux": "NASCAR Thunder 2002",
-    "tournois": 1
+    "totaldesGains": 7679.25
   },
   {
-    "num": [
-      5933.5,
-      5933.5,
-      0,
-      1
-    ],
+    "genre": "Racing",
     "jeux": "NASCAR Thunder 2003",
-    "tournois": 1
+    "totaldesGains": 5933.5
   },
   {
-    "num": [
-      36322.58,
-      36322.58,
-      12,
-      4
-    ],
+    "genre": "Racing",
     "jeux": "Need for Speed Carbon",
-    "tournois": 4
+    "totaldesGains": 36322.58
   },
   {
-    "num": [
-      35694.54,
-      35694.54,
-      18,
-      7
-    ],
+    "genre": "Racing",
     "jeux": "Need for Speed: Most Wanted",
-    "tournois": 7
+    "totaldesGains": 35694.54
   },
   {
-    "num": [
-      32208.46,
-      32208.46,
-      12,
-      3
-    ],
+    "genre": "Racing",
     "jeux": "Need for Speed: ProStreet",
-    "tournois": 3
+    "totaldesGains": 32208.46
   },
   {
-    "num": [
-      10500,
-      10500,
-      3,
-      1
-    ],
+    "genre": "Racing",
     "jeux": "Need for Speed: Shift",
-    "tournois": 1
+    "totaldesGains": 10500
   },
   {
-    "num": [
-      35000,
-      35000,
-      3,
-      1
-    ],
+    "genre": "Racing",
     "jeux": "Need for Speed: Underground",
-    "tournois": 1
+    "totaldesGains": 35000
   },
   {
-    "num": [
-      35629.48,
-      35629.48,
-      8,
-      3
-    ],
+    "genre": "Racing",
     "jeux": "Need for Speed: Underground 2",
-    "tournois": 3
+    "totaldesGains": 35629.48
   },
   {
-    "num": [
-      67968.71,
-      10602.71,
-      50,
-      114
-    ],
+    "genre": "Racing",
     "jeux": "Project Cars",
-    "tournois": 114
+    "totaldesGains": 67968.71
   },
   {
-    "num": [
-      66150,
-      58150,
-      37,
-      22
-    ],
+    "genre": "Racing",
     "jeux": "Project Cars 2",
-    "tournois": 22
+    "totaldesGains": 66150
   },
   {
-    "num": [
-      35000,
-      35000,
-      4,
-      2
-    ],
+    "genre": "Racing",
     "jeux": "Project Gotham Racing 2",
-    "tournois": 2
+    "totaldesGains": 35000
   },
   {
-    "num": [
-      297286.85,
-      297286.85,
-      33,
-      10
-    ],
+    "genre": "Racing",
     "jeux": "Project Gotham Racing 3",
-    "tournois": 10
+    "totaldesGains": 297286.85
   },
   {
-    "num": [
-      25208.46,
-      25208.46,
-      5,
-      4
-    ],
+    "genre": "Racing",
     "jeux": "Project Gotham Racing 4",
-    "tournois": 4
+    "totaldesGains": 25208.46
   },
   {
-    "num": [
-      156963.7,
-      74108.7,
-      145,
-      21
-    ],
+    "genre": "Racing",
     "jeux": "RaceRoom Racing Experience",
-    "tournois": 21
+    "totaldesGains": 156963.7
   },
   {
-    "num": [
-      15083.56,
-      0,
-      51,
-      4
-    ],
+    "genre": "Racing",
     "jeux": "rFactor",
-    "tournois": 4
+    "totaldesGains": 15083.56
   },
   {
-    "num": [
-      1272702.1,
-      1064611.94,
-      230,
-      50
-    ],
+    "genre": "Racing",
     "jeux": "rFactor 2",
-    "tournois": 50
+    "totaldesGains": 1272702.1
   },
   {
-    "num": [
-      50,
-      0,
-      3,
-      1
-    ],
+    "genre": "Racing",
     "jeux": "Speedrunners",
-    "tournois": 1
+    "totaldesGains": 50
   },
   {
-    "num": [
-      93436.25,
-      0,
-      140,
-      113
-    ],
+    "genre": "Racing",
     "jeux": "Trackmania (2020)",
-    "tournois": 113
+    "totaldesGains": 93436.25
   },
   {
-    "num": [
-      22098.74,
-      16559.04,
-      21,
-      36
-    ],
+    "genre": "Racing",
     "jeux": "TrackMania 2: Canyon",
-    "tournois": 36
+    "totaldesGains": 22098.74
   },
   {
-    "num": [
-      198832.27,
-      107640.31,
-      349,
-      284
-    ],
+    "genre": "Racing",
     "jeux": "TrackMania 2: Stadium",
-    "tournois": 284
+    "totaldesGains": 198832.27
   },
   {
-    "num": [
-      779.34,
-      779.34,
-      6,
-      2
-    ],
+    "genre": "Racing",
     "jeux": "Trackmania 2: Valley",
-    "tournois": 2
+    "totaldesGains": 779.34
   },
   {
-    "num": [
-      93381.66,
-      53381.66,
-      18,
-      8
-    ],
+    "genre": "Racing",
     "jeux": "TrackMania Nations",
-    "tournois": 8
+    "totaldesGains": 93381.66
   },
   {
-    "num": [
-      167386.65,
-      146554.75,
-      109,
-      73
-    ],
+    "genre": "Racing",
     "jeux": "TrackMania Nations Forever",
-    "tournois": 73
+    "totaldesGains": 167386.65
   },
   {
-    "num": [
-      679.41,
-      0,
-      6,
-      2
-    ],
+    "genre": "Racing",
     "jeux": "Trackmania Turbo",
-    "tournois": 2
+    "totaldesGains": 679.41
   },
   {
-    "num": [
-      1027.5,
-      1027.5,
-      3,
-      1
-    ],
+    "genre": "Racing",
     "jeux": "Trackmania United",
-    "tournois": 1
+    "totaldesGains": 1027.5
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "Racing",
     "jeux": "Trackmania United Forever",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "Racing",
     "jeux": "Trials Fusion",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      1000000,
-      500000,
-      16,
-      9
-    ],
+    "genre": "Racing",
     "jeux": "Turbo Racing League",
-    "tournois": 9
+    "totaldesGains": 1000000
   },
   {
-    "num": [
-      60500,
-      60500,
-      11,
-      4
-    ],
+    "genre": "Sports",
     "jeux": "Carom 3D",
-    "tournois": 4
+    "totaldesGains": 60500
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "Sports",
     "jeux": "Dream league Soccer",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      54066.44,
-      54066.44,
-      10,
-      3
-    ],
+    "genre": "Sports",
     "jeux": "FIFA 03",
-    "tournois": 3
+    "totaldesGains": 54066.44
   },
   {
-    "num": [
-      40000,
-      40000,
-      3,
-      3
-    ],
+    "genre": "Sports",
     "jeux": "FIFA 04",
-    "tournois": 3
+    "totaldesGains": 40000
   },
   {
-    "num": [
-      57728.01,
-      57728.01,
-      5,
-      8
-    ],
+    "genre": "Sports",
     "jeux": "FIFA 05",
-    "tournois": 8
+    "totaldesGains": 57728.01
   },
   {
-    "num": [
-      112464.53,
-      112464.53,
-      23,
-      12
-    ],
+    "genre": "Sports",
     "jeux": "FIFA 06",
-    "tournois": 12
+    "totaldesGains": 112464.53
   },
   {
-    "num": [
-      237812.23,
-      237812.23,
-      42,
-      13
-    ],
+    "genre": "Sports",
     "jeux": "FIFA 07",
-    "tournois": 13
+    "totaldesGains": 237812.23
   },
   {
-    "num": [
-      207129.94,
-      207129.94,
-      68,
-      17
-    ],
+    "genre": "Sports",
     "jeux": "FIFA 08",
-    "tournois": 17
+    "totaldesGains": 207129.94
   },
   {
-    "num": [
-      121618.34,
-      115321.42,
-      52,
-      19
-    ],
+    "genre": "Sports",
     "jeux": "FIFA 09",
-    "tournois": 19
+    "totaldesGains": 121618.34
   },
   {
-    "num": [
-      117026.71,
-      90147.21,
-      64,
-      48
-    ],
+    "genre": "Sports",
     "jeux": "FIFA 10",
-    "tournois": 48
+    "totaldesGains": 117026.71
   },
   {
-    "num": [
-      93983.77,
-      85154.02,
-      72,
-      78
-    ],
+    "genre": "Sports",
     "jeux": "FIFA 11",
-    "tournois": 78
+    "totaldesGains": 93983.77
   },
   {
-    "num": [
-      54431.52,
-      47279.42,
-      53,
-      66
-    ],
+    "genre": "Sports",
     "jeux": "FIFA 12",
-    "tournois": 66
+    "totaldesGains": 54431.52
   },
   {
-    "num": [
-      458427.82,
-      448195.59,
-      53,
-      62
-    ],
+    "genre": "Sports",
     "jeux": "FIFA 13",
-    "tournois": 62
+    "totaldesGains": 458427.82
   },
   {
-    "num": [
-      96347.81,
-      87377.48,
-      57,
-      69
-    ],
+    "genre": "Sports",
     "jeux": "FIFA 14",
-    "tournois": 69
+    "totaldesGains": 96347.81
   },
   {
-    "num": [
-      144373.99,
-      116439.15,
-      168,
-      352
-    ],
+    "genre": "Sports",
     "jeux": "FIFA 15",
-    "tournois": 352
+    "totaldesGains": 144373.99
   },
   {
-    "num": [
-      117828.11,
-      116883.94,
-      61,
-      28
-    ],
+    "genre": "Sports",
     "jeux": "FIFA 16",
-    "tournois": 28
+    "totaldesGains": 117828.11
   },
   {
-    "num": [
-      1482612.63,
-      1482612.63,
-      156,
-      48
-    ],
+    "genre": "Sports",
     "jeux": "FIFA 17",
-    "tournois": 48
+    "totaldesGains": 1482612.63
   },
   {
-    "num": [
-      2233697.69,
-      2221267.08,
-      235,
-      48
-    ],
+    "genre": "Sports",
     "jeux": "FIFA 18",
-    "tournois": 48
+    "totaldesGains": 2233697.69
   },
   {
-    "num": [
-      3242642.34,
-      3233027.83,
-      300,
-      48
-    ],
+    "genre": "Sports",
     "jeux": "FIFA 19",
-    "tournois": 48
+    "totaldesGains": 3242642.34
   },
   {
-    "num": [
-      2118402.84,
-      1066026.82,
-      297,
-      61
-    ],
+    "genre": "Sports",
     "jeux": "FIFA 20",
-    "tournois": 61
+    "totaldesGains": 2118402.84
   },
   {
-    "num": [
-      50000,
-      50000,
-      4,
-      1
-    ],
+    "genre": "Sports",
     "jeux": "FIFA 2000",
-    "tournois": 1
+    "totaldesGains": 50000
   },
   {
-    "num": [
-      46000,
-      46000,
-      9,
-      2
-    ],
+    "genre": "Sports",
     "jeux": "FIFA 2001",
-    "tournois": 2
+    "totaldesGains": 46000
   },
   {
-    "num": [
-      43000,
-      43000,
-      8,
-      1
-    ],
+    "genre": "Sports",
     "jeux": "FIFA 2002 World Cup",
-    "tournois": 1
+    "totaldesGains": 43000
   },
   {
-    "num": [
-      60000,
-      0,
-      34,
-      3
-    ],
+    "genre": "Sports",
     "jeux": "FIFA 21",
-    "tournois": 3
+    "totaldesGains": 60000
   },
   {
-    "num": [
-      1434341.9,
-      1434341.9,
-      88,
-      9
-    ],
+    "genre": "Sports",
     "jeux": "FIFA Online 3",
-    "tournois": 9
+    "totaldesGains": 1434341.9
   },
   {
-    "num": [
-      1081120,
-      691120,
-      114,
-      8
-    ],
+    "genre": "Sports",
     "jeux": "FIFA Online 4",
-    "tournois": 8
+    "totaldesGains": 1081120
   },
   {
-    "num": [
-      10500,
-      10500,
-      3,
-      1
-    ],
+    "genre": "Sports",
     "jeux": "Guitar Hero 5",
-    "tournois": 1
+    "totaldesGains": 10500
   },
   {
-    "num": [
-      19000,
-      19000,
-      8,
-      2
-    ],
+    "genre": "Sports",
     "jeux": "Guitar Hero III: Legends of Rock",
-    "tournois": 2
+    "totaldesGains": 19000
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "Sports",
     "jeux": "Guitar Hero: World Tour",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      0,
-      0,
-      3,
-      1
-    ],
+    "genre": "Sports",
     "jeux": "Just Dance 2014",
-    "tournois": 1
+    "totaldesGains": 0
   },
   {
-    "num": [
-      125000,
-      125000,
-      5,
-      3
-    ],
+    "genre": "Sports",
     "jeux": "Madden NFL 19",
-    "tournois": 3
+    "totaldesGains": 125000
   },
   {
-    "num": [
-      1500,
-      1500,
-      3,
-      1
-    ],
+    "genre": "Sports",
     "jeux": "Madden NFL 2004",
-    "tournois": 1
+    "totaldesGains": 1500
   },
   {
-    "num": [
-      100000,
-      100000,
-      1,
-      1
-    ],
+    "genre": "Sports",
     "jeux": "Madden NFL 2006",
-    "tournois": 1
+    "totaldesGains": 100000
   },
   {
-    "num": [
-      100000,
-      100000,
-      1,
-      1
-    ],
+    "genre": "Sports",
     "jeux": "Madden NFL 2007",
-    "tournois": 1
+    "totaldesGains": 100000
   },
   {
-    "num": [
-      100000,
-      100000,
-      1,
-      1
-    ],
+    "genre": "Sports",
     "jeux": "Madden NFL 2008",
-    "tournois": 1
+    "totaldesGains": 100000
   },
   {
-    "num": [
-      100000,
-      100000,
-      1,
-      1
-    ],
+    "genre": "Sports",
     "jeux": "Madden NFL 2009",
-    "tournois": 1
+    "totaldesGains": 100000
   },
   {
-    "num": [
-      400000,
-      400000,
-      8,
-      1
-    ],
+    "genre": "Sports",
     "jeux": "Madden NFL 2013",
-    "tournois": 1
+    "totaldesGains": 400000
   },
   {
-    "num": [
-      50000,
-      50000,
-      8,
-      1
-    ],
+    "genre": "Sports",
     "jeux": "Madden NFL 2016",
-    "tournois": 1
+    "totaldesGains": 50000
   },
   {
-    "num": [
-      1004000,
-      1004000,
-      42,
-      5
-    ],
+    "genre": "Sports",
     "jeux": "Madden NFL 2017",
-    "tournois": 5
+    "totaldesGains": 1004000
   },
   {
-    "num": [
-      279676.62,
-      20676.62,
-      40,
-      3
-    ],
+    "genre": "Sports",
     "jeux": "Madden NFL 2018",
-    "tournois": 3
+    "totaldesGains": 279676.62
   },
   {
-    "num": [
-      61.3,
-      0,
-      6,
-      2
-    ],
+    "genre": "Sports",
     "jeux": "Mario Tennis Aces",
-    "tournois": 2
+    "totaldesGains": 61.3
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "Sports",
     "jeux": "NBA 2K Online",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      1000000,
-      1000000,
-      91,
-      4
-    ],
+    "genre": "Sports",
     "jeux": "NBA 2K18",
-    "tournois": 4
+    "totaldesGains": 1000000
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "Sports",
     "jeux": "NBA 2K19",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      3818.56,
-      3818.56,
-      25,
-      8
-    ],
+    "genre": "Sports",
     "jeux": "NHL '94",
-    "tournois": 8
+    "totaldesGains": 3818.56
   },
   {
-    "num": [
-      702.93,
-      702.93,
-      6,
-      2
-    ],
+    "genre": "Sports",
     "jeux": "NHL 12",
-    "tournois": 2
+    "totaldesGains": 702.93
   },
   {
-    "num": [
-      70000,
-      70000,
-      1,
-      1
-    ],
+    "genre": "Sports",
     "jeux": "NHL 13",
-    "tournois": 1
+    "totaldesGains": 70000
   },
   {
-    "num": [
-      3023.96,
-      3023.96,
-      6,
-      3
-    ],
+    "genre": "Sports",
     "jeux": "NHL 14",
-    "tournois": 3
+    "totaldesGains": 3023.96
   },
   {
-    "num": [
-      3157.16,
-      3157.16,
-      3,
-      3
-    ],
+    "genre": "Sports",
     "jeux": "NHL 15",
-    "tournois": 3
+    "totaldesGains": 3157.16
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "Sports",
     "jeux": "NHL 17",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      102700,
-      90000,
-      20,
-      6
-    ],
+    "genre": "Sports",
     "jeux": "NHL 18",
-    "tournois": 6
+    "totaldesGains": 102700
   },
   {
-    "num": [
-      22566.67,
-      19566.67,
-      10,
-      8
-    ],
+    "genre": "Sports",
     "jeux": "NHL 19",
-    "tournois": 8
+    "totaldesGains": 22566.67
   },
   {
-    "num": [
-      2084.15,
-      2084.15,
-      6,
-      3
-    ],
+    "genre": "Sports",
     "jeux": "Pro Evolution Soccer 2008",
-    "tournois": 3
+    "totaldesGains": 2084.15
   },
   {
-    "num": [
-      1395.97,
-      0,
-      5,
-      2
-    ],
+    "genre": "Sports",
     "jeux": "Pro Evolution Soccer 2009",
-    "tournois": 2
+    "totaldesGains": 1395.97
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "Sports",
     "jeux": "Pro Evolution Soccer 2013",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      29410.25,
-      29410.25,
-      4,
-      1
-    ],
+    "genre": "Sports",
     "jeux": "Pro Evolution Soccer 2014",
-    "tournois": 1
+    "totaldesGains": 29410.25
   },
   {
-    "num": [
-      26544.76,
-      26544.76,
-      3,
-      1
-    ],
+    "genre": "Sports",
     "jeux": "Pro Evolution Soccer 2015",
-    "tournois": 1
+    "totaldesGains": 26544.76
   },
   {
-    "num": [
-      27243.84,
-      27243.84,
-      17,
-      6
-    ],
+    "genre": "Sports",
     "jeux": "Pro Evolution Soccer 2016",
-    "tournois": 6
+    "totaldesGains": 27243.84
   },
   {
-    "num": [
-      514697.71,
-      514697.71,
-      39,
-      16
-    ],
+    "genre": "Sports",
     "jeux": "Pro Evolution Soccer 2017",
-    "tournois": 16
+    "totaldesGains": 514697.71
   },
   {
-    "num": [
-      250000,
-      250000,
-      20,
-      3
-    ],
+    "genre": "Sports",
     "jeux": "Pro Evolution Soccer 2018",
-    "tournois": 3
+    "totaldesGains": 250000
   },
   {
-    "num": [
-      216000,
-      216000,
-      25,
-      2
-    ],
+    "genre": "Sports",
     "jeux": "Pro Evolution Soccer 2019",
-    "tournois": 2
+    "totaldesGains": 216000
   },
   {
-    "num": [
-      25000,
-      25000,
-      8,
-      2
-    ],
+    "genre": "Sports",
     "jeux": "Pro Evolution Soccer 3",
-    "tournois": 2
+    "totaldesGains": 25000
   },
   {
-    "num": [
-      40550.64,
-      40550.64,
-      11,
-      2
-    ],
+    "genre": "Sports",
     "jeux": "Pro Evolution Soccer 4",
-    "tournois": 2
+    "totaldesGains": 40550.64
   },
   {
-    "num": [
-      32000,
-      32000,
-      4,
-      1
-    ],
+    "genre": "Sports",
     "jeux": "Pro Evolution Soccer 5",
-    "tournois": 1
+    "totaldesGains": 32000
   },
   {
-    "num": [
-      20216.82,
-      20216.82,
-      5,
-      2
-    ],
+    "genre": "Sports",
     "jeux": "Pro Evolution Soccer 6",
-    "tournois": 2
+    "totaldesGains": 20216.82
   },
   {
-    "num": [
-      12272872.11,
-      4112934.19,
-      1435,
-      1393
-    ],
+    "genre": "Sports",
     "jeux": "Rocket League",
-    "tournois": 1393
+    "totaldesGains": 12272872.11
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "Sports",
     "jeux": "Soccer Stars",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      33827.08,
-      0,
-      6,
-      2
-    ],
+    "genre": "Sports",
     "jeux": "Zwift",
-    "tournois": 2
+    "totaldesGains": 33827.08
   },
   {
-    "num": [
-      119178.54,
-      11635.81,
-      276,
-      167
-    ],
+    "genre": "Collectible Card Game",
     "jeux": "Artifact Classic",
-    "tournois": 167
+    "totaldesGains": 119178.54
   },
   {
-    "num": [
-      852,
-      0,
-      21,
-      8
-    ],
+    "genre": "Collectible Card Game",
     "jeux": "Artifact Foundry",
-    "tournois": 8
+    "totaldesGains": 852
   },
   {
-    "num": [
-      4100,
-      0,
-      12,
-      5
-    ],
+    "genre": "Collectible Card Game",
     "jeux": "Faeria",
-    "tournois": 5
+    "totaldesGains": 4100
   },
   {
-    "num": [
-      956277.17,
-      755391.17,
-      324,
-      112
-    ],
+    "genre": "Collectible Card Game",
     "jeux": "Gwent",
-    "tournois": 112
+    "totaldesGains": 956277.17
   },
   {
-    "num": [
-      94434.2,
-      72500,
-      48,
-      36
-    ],
+    "genre": "Collectible Card Game",
     "jeux": "Hand of the Gods",
-    "tournois": 36
+    "totaldesGains": 94434.2
   },
   {
-    "num": [
-      24564783.47,
-      18482179.57,
-      2460,
-      914
-    ],
+    "genre": "Collectible Card Game",
     "jeux": "Hearthstone",
-    "tournois": 914
+    "totaldesGains": 24564783.47
   },
   {
-    "num": [
-      74000,
-      0,
-      30,
-      3
-    ],
+    "genre": "Collectible Card Game",
     "jeux": "Hearthstone Battlegrounds",
-    "tournois": 3
+    "totaldesGains": 74000
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "Collectible Card Game",
     "jeux": "KARDS, The World War II Card Game",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      118481.03,
-      0,
-      30,
-      5
-    ],
+    "genre": "Collectible Card Game",
     "jeux": "Legends of Runeterra",
-    "tournois": 5
+    "totaldesGains": 118481.03
   },
   {
-    "num": [
-      6012000,
-      5354000,
-      241,
-      38
-    ],
+    "genre": "Collectible Card Game",
     "jeux": "Magic: The Gathering Arena",
-    "tournois": 38
+    "totaldesGains": 6012000
   },
   {
-    "num": [
-      1218000,
-      1218000,
-      130,
-      10
-    ],
+    "genre": "Collectible Card Game",
     "jeux": "Magic: The Gathering Online",
-    "tournois": 10
+    "totaldesGains": 1218000
   },
   {
-    "num": [
-      1000,
-      0,
-      4,
-      1
-    ],
+    "genre": "Collectible Card Game",
     "jeux": "Mythgard",
-    "tournois": 1
+    "totaldesGains": 1000
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "Collectible Card Game",
     "jeux": "Pok<U+00E9>mon TCG",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      3211177.09,
-      3080377.09,
-      239,
-      42
-    ],
+    "genre": "Collectible Card Game",
     "jeux": "Shadowverse",
-    "tournois": 42
+    "totaldesGains": 3211177.09
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "Collectible Card Game",
     "jeux": "Shardbound",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      5000,
-      5000,
-      3,
-      1
-    ],
+    "genre": "Collectible Card Game",
     "jeux": "The Elder Scrolls: Legends",
-    "tournois": 1
+    "totaldesGains": 5000
   },
   {
-    "num": [
-      48746.72,
-      0,
-      328,
-      219
-    ],
+    "genre": "Collectible Card Game",
     "jeux": "Yu-Gi-Oh! Duel Links",
-    "tournois": 219
+    "totaldesGains": 48746.72
   },
   {
-    "num": [
-      1545,
-      1470,
-      11,
-      7
-    ],
+    "genre": "Puzzle Game",
     "jeux": "Catherine",
-    "tournois": 7
+    "totaldesGains": 1545
   },
   {
-    "num": [
-      185,
-      185,
-      3,
-      1
-    ],
+    "genre": "Puzzle Game",
     "jeux": "Catherine: Full Body",
-    "tournois": 1
+    "totaldesGains": 185
   },
   {
-    "num": [
-      190.95,
-      0,
-      3,
-      1
-    ],
+    "genre": "Puzzle Game",
     "jeux": "Cultris II",
-    "tournois": 1
+    "totaldesGains": 190.95
   },
   {
-    "num": [
-      275,
-      0,
-      12,
-      2
-    ],
+    "genre": "Puzzle Game",
     "jeux": "Jstris",
-    "tournois": 2
+    "totaldesGains": 275
   },
   {
-    "num": [
-      130,
-      130,
-      3,
-      1
-    ],
+    "genre": "Puzzle Game",
     "jeux": "Magical Drop III",
-    "tournois": 1
+    "totaldesGains": 130
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "Puzzle Game",
     "jeux": "Pac-man",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      40,
-      0,
-      3,
-      1
-    ],
+    "genre": "Puzzle Game",
     "jeux": "Panel Attack",
-    "tournois": 1
+    "totaldesGains": 40
   },
   {
-    "num": [
-      2482.3,
-      2071.8,
-      14,
-      5
-    ],
+    "genre": "Puzzle Game",
     "jeux": "Puyo Puyo Champions",
-    "tournois": 5
+    "totaldesGains": 2482.3
   },
   {
-    "num": [
-      3422.84,
-      1617.75,
-      31,
-      16
-    ],
+    "genre": "Puzzle Game",
     "jeux": "Puyo Puyo Tetris",
-    "tournois": 16
+    "totaldesGains": 3422.84
   },
   {
-    "num": [
-      2992.61,
-      0,
-      19,
-      11
-    ],
+    "genre": "Puzzle Game",
     "jeux": "Tetr.io",
-    "tournois": 11
+    "totaldesGains": 2992.61
   },
   {
-    "num": [
-      26742.96,
-      15500,
-      43,
-      12
-    ],
+    "genre": "Puzzle Game",
     "jeux": "Tetris",
-    "tournois": 12
+    "totaldesGains": 26742.96
   },
   {
-    "num": [
-      221,
-      221,
-      3,
-      1
-    ],
+    "genre": "Puzzle Game",
     "jeux": "Tetris Ultimate",
-    "tournois": 1
+    "totaldesGains": 221
   },
   {
-    "num": [
-      100,
-      0,
-      3,
-      1
-    ],
+    "genre": "Puzzle Game",
     "jeux": "Twinkle Star Sprites",
-    "tournois": 1
+    "totaldesGains": 100
   },
   {
-    "num": [
-      12000,
-      12000,
-      3,
-      1
-    ],
+    "genre": "Puzzle Game",
     "jeux": "Wise Star 2",
-    "tournois": 1
+    "totaldesGains": 12000
   },
   {
-    "num": [
-      5356151.69,
-      2014420.75,
-      1269,
-      297
-    ],
+    "genre": "Battle Royale",
     "jeux": "Apex Legends",
-    "tournois": 297
+    "totaldesGains": 5356151.69
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "Battle Royale",
     "jeux": "Ark: Survival Of The Fittest",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      284273.83,
-      0,
-      240,
-      5
-    ],
+    "genre": "Battle Royale",
     "jeux": "Fall Guys",
-    "tournois": 5
+    "totaldesGains": 284273.83
   },
   {
-    "num": [
-      102261009.13,
-      42159597.59,
-      4554,
-      685
-    ],
+    "genre": "Battle Royale",
     "jeux": "Fortnite",
-    "tournois": 685
+    "totaldesGains": 102261009.13
   },
   {
-    "num": [
-      1306392.23,
-      926242.23,
-      321,
-      15
-    ],
+    "genre": "Battle Royale",
     "jeux": "Free Fire",
-    "tournois": 15
+    "totaldesGains": 1306392.23
   },
   {
-    "num": [
-      2067122,
-      2067122,
-      119,
-      13
-    ],
+    "genre": "Battle Royale",
     "jeux": "H1Z1",
-    "tournois": 13
+    "totaldesGains": 2067122
   },
   {
-    "num": [
-      11193572.02,
-      9207728.67,
-      1267,
-      49
-    ],
+    "genre": "Battle Royale",
     "jeux": "PLAYERUNKNOWN'S BATTLEGROUNDS Mobile",
-    "tournois": 49
+    "totaldesGains": 11193572.02
   },
   {
-    "num": [
-      32853449.92,
-      27081978.4,
-      2967,
-      327
-    ],
+    "genre": "Battle Royale",
     "jeux": "PLAYERUNKNOWN�S BATTLEGROUNDS",
-    "tournois": 327
+    "totaldesGains": 32853449.92
   },
   {
-    "num": [
-      120000,
-      0,
-      12,
-      2
-    ],
+    "genre": "Battle Royale",
     "jeux": "Radical Heights",
-    "tournois": 2
+    "totaldesGains": 120000
   },
   {
-    "num": [
-      70000,
-      0,
-      9,
-      4
-    ],
+    "genre": "Battle Royale",
     "jeux": "Ring of Elysium",
-    "tournois": 4
+    "totaldesGains": 70000
   },
   {
-    "num": [
-      100000,
-      0,
-      24,
-      3
-    ],
+    "genre": "Battle Royale",
     "jeux": "Rocket Arena",
-    "tournois": 3
+    "totaldesGains": 100000
   },
   {
-    "num": [
-      0,
-      0,
-      0,
-      0
-    ],
+    "genre": "Battle Royale",
     "jeux": "Rules Of Survival",
-    "tournois": 0
+    "totaldesGains": 0
   },
   {
-    "num": [
-      50000,
-      0,
-      42,
-      1
-    ],
+    "genre": "Battle Royale",
     "jeux": "Spellbreak",
-    "tournois": 1
+    "totaldesGains": 50000
   },
   {
-    "num": [
-      1783000,
-      680000,
-      160,
-      22
-    ],
+    "genre": "Third-Person Shooter",
     "jeux": "Gears 5",
-    "tournois": 22
+    "totaldesGains": 1783000
   },
   {
-    "num": [
-      252195.57,
-      252195.57,
-      33,
-      18
-    ],
+    "genre": "Third-Person Shooter",
     "jeux": "Gears of War",
-    "tournois": 18
+    "totaldesGains": 252195.57
   },
   {
-    "num": [
-      135000,
-      135000,
-      0,
-      5
-    ],
+    "genre": "Third-Person Shooter",
     "jeux": "Gears of War 2",
-    "tournois": 5
+    "totaldesGains": 135000
   },
   {
-    "num": [
-      7255.81,
-      4555.81,
-      13,
-      4
-    ],
+    "genre": "Third-Person Shooter",
     "jeux": "Gears of War 3",
-    "tournois": 4
+    "totaldesGains": 7255.81
   },
   {
-    "num": [
-      3087285,
-      3055000,
-      135,
-      41
-    ],
+    "genre": "Third-Person Shooter",
     "jeux": "Gears of War 4",
-    "tournois": 41
+    "totaldesGains": 3087285
   },
   {
-    "num": [
-      170000,
-      170000,
-      39,
-      3
-    ],
+    "genre": "Third-Person Shooter",
     "jeux": "Gears of War: Ultimate Edition",
-    "tournois": 3
+    "totaldesGains": 170000
   },
   {
-    "num": [
-      50000,
-      0,
-      48,
-      2
-    ],
+    "genre": "Third-Person Shooter",
     "jeux": "Rogue Company",
-    "tournois": 2
+    "totaldesGains": 50000
   },
   {
-    "num": [
-      27250,
-      0,
-      40,
-      2
-    ],
+    "genre": "Third-Person Shooter",
     "jeux": "The Division 2",
-    "tournois": 2
+    "totaldesGains": 27250
   }
 ]

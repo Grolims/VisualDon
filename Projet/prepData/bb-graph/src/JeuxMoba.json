@@ -1,0 +1,26 @@
+[
+  {
+    "nom": "Dota 2",
+    "totGain": 231860237.22
+  },
+  {
+    "nom": "League of Legends",
+    "totGain": 83048606.83
+  },
+  {
+    "nom": "Arena of Valor",
+    "totGain": 24093832.78
+  },
+  {
+    "nom": "Heroes of the Storm",
+    "totGain": 18188482.65
+  },
+  {
+    "nom": "SMITE",
+    "totGain": 9250112.75
+  },
+  {
+    "nom": "Heroes of Newerth",
+    "totGain": 2915206.56
+  }
+]

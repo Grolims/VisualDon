@@ -1,0 +1,597 @@
+[
+   {
+      "Name": "Counter-Strike: Global Offensive",
+      "Earnings": 3614617,
+      "Annee": "2021"
+   },
+   {
+      "Name": "Counter-Strike: Global Offensive",
+      "Earnings": 15858061,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Counter-Strike: Global Offensive",
+      "Earnings": 21988683,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Counter-Strike: Global Offensive",
+      "Earnings": 23306924,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Counter-Strike: Global Offensive",
+      "Earnings": 19270075,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Counter-Strike: Global Offensive",
+      "Earnings": 17266126,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Counter-Strike: Global Offensive",
+      "Earnings": 6284964,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Counter-Strike: Global Offensive",
+      "Earnings": 1962508,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Counter-Strike: Global Offensive",
+      "Earnings": 1211864,
+      "Annee": "2013"
+   },
+   {
+      "Name": "PLAYERUNKNOWN'S BATTLEGROUNDS Mobile",
+      "Earnings": 1207137,
+      "Annee": "2021"
+   },
+   {
+      "Name": "PLAYERUNKNOWN'S BATTLEGROUNDS Mobile",
+      "Earnings": 6187727,
+      "Annee": "2020"
+   },
+   {
+      "Name": "PLAYERUNKNOWN'S BATTLEGROUNDS Mobile",
+      "Earnings": 3181636,
+      "Annee": "2019"
+   },
+   {
+      "Name": "SMITE",
+      "Earnings": 1183500,
+      "Annee": "2018"
+   },
+   {
+      "Name": "SMITE",
+      "Earnings": 1367902,
+      "Annee": "2017"
+   },
+   {
+      "Name": "SMITE",
+      "Earnings": 1338244,
+      "Annee": "2016"
+   },
+   {
+      "Name": "SMITE",
+      "Earnings": 3709086,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Arena of Valor",
+      "Earnings": 9500995,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Arena of Valor",
+      "Earnings": 7321270,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Arena of Valor",
+      "Earnings": 4190956,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Call of Duty: Warzone",
+      "Earnings": 2825406,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Rocket League",
+      "Earnings": 3895277,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Rocket League",
+      "Earnings": 3084581,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Rocket League",
+      "Earnings": 2375804,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Rocket League",
+      "Earnings": 1511295,
+      "Annee": "2017"
+   },
+   {
+      "Name": "League of Legends",
+      "Earnings": 8163203,
+      "Annee": "2020"
+   },
+   {
+      "Name": "League of Legends",
+      "Earnings": 9542077,
+      "Annee": "2019"
+   },
+   {
+      "Name": "League of Legends",
+      "Earnings": 14573292,
+      "Annee": "2018"
+   },
+   {
+      "Name": "League of Legends",
+      "Earnings": 12232814,
+      "Annee": "2017"
+   },
+   {
+      "Name": "League of Legends",
+      "Earnings": 10529055,
+      "Annee": "2016"
+   },
+   {
+      "Name": "League of Legends",
+      "Earnings": 7717800,
+      "Annee": "2015"
+   },
+   {
+      "Name": "League of Legends",
+      "Earnings": 8057284,
+      "Annee": "2014"
+   },
+   {
+      "Name": "League of Legends",
+      "Earnings": 6226154,
+      "Annee": "2013"
+   },
+   {
+      "Name": "League of Legends",
+      "Earnings": 4287202,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Fortnite",
+      "Earnings": 2556366,
+      "Annee": "2021"
+   },
+   {
+      "Name": "Fortnite",
+      "Earnings": 8208642,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Fortnite",
+      "Earnings": 71598122,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Fortnite",
+      "Earnings": 19880331,
+      "Annee": "2018"
+   },
+   {
+      "Name": "StarCraft II",
+      "Earnings": 2100571,
+      "Annee": "2020"
+   },
+   {
+      "Name": "StarCraft II",
+      "Earnings": 3126996,
+      "Annee": "2019"
+   },
+   {
+      "Name": "StarCraft II",
+      "Earnings": 4025573,
+      "Annee": "2018"
+   },
+   {
+      "Name": "StarCraft II",
+      "Earnings": 3413349,
+      "Annee": "2017"
+   },
+   {
+      "Name": "StarCraft II",
+      "Earnings": 3182914,
+      "Annee": "2016"
+   },
+   {
+      "Name": "StarCraft II",
+      "Earnings": 3017753,
+      "Annee": "2015"
+   },
+   {
+      "Name": "StarCraft II",
+      "Earnings": 3473751,
+      "Annee": "2014"
+   },
+   {
+      "Name": "StarCraft II",
+      "Earnings": 3847459,
+      "Annee": "2013"
+   },
+   {
+      "Name": "StarCraft II",
+      "Earnings": 4200051,
+      "Annee": "2012"
+   },
+   {
+      "Name": "StarCraft II",
+      "Earnings": 3179858,
+      "Annee": "2011"
+   },
+   {
+      "Name": "Dota 2",
+      "Earnings": 2010152,
+      "Annee": "2021"
+   },
+   {
+      "Name": "Dota 2",
+      "Earnings": 9323850,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Dota 2",
+      "Earnings": 47043515,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Dota 2",
+      "Earnings": 41457363,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Dota 2",
+      "Earnings": 38074593,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Dota 2",
+      "Earnings": 37464413,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Dota 2",
+      "Earnings": 31050782,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Dota 2",
+      "Earnings": 16608025,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Dota 2",
+      "Earnings": 4543136,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Dota 2",
+      "Earnings": 2087090,
+      "Annee": "2012"
+   },
+   {
+      "Name": "Dota 2",
+      "Earnings": 1672268,
+      "Annee": "2011"
+   },
+   {
+      "Name": "Apex Legends",
+      "Earnings": 2217389,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Apex Legends",
+      "Earnings": 2861380,
+      "Annee": "2019"
+   },
+   {
+      "Name": "StarCraft: Brood War",
+      "Earnings": 1618052,
+      "Annee": "2006"
+   },
+   {
+      "Name": "VALORANT",
+      "Earnings": 2310373,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Lichess",
+      "Earnings": 1140686,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Hearthstone",
+      "Earnings": 4392025,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Hearthstone",
+      "Earnings": 3972560,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Hearthstone",
+      "Earnings": 4717846,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Hearthstone",
+      "Earnings": 3476619,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Hearthstone",
+      "Earnings": 3455120,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Hearthstone",
+      "Earnings": 2372579,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Hearthstone",
+      "Earnings": 1123239,
+      "Annee": "2014"
+   },
+   {
+      "Name": "PLAYERUNKNOWN�S BATTLEGROUNDS",
+      "Earnings": 7128071,
+      "Annee": "2021"
+   },
+   {
+      "Name": "PLAYERUNKNOWN�S BATTLEGROUNDS",
+      "Earnings": 5071124,
+      "Annee": "2020"
+   },
+   {
+      "Name": "PLAYERUNKNOWN�S BATTLEGROUNDS",
+      "Earnings": 11327216,
+      "Annee": "2019"
+   },
+   {
+      "Name": "PLAYERUNKNOWN�S BATTLEGROUNDS",
+      "Earnings": 8319220,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Call of Duty: Modern Warfare",
+      "Earnings": 6228173,
+      "Annee": "2020"
+   },
+   {
+      "Name": "FIFA 20",
+      "Earnings": 1642028,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Rainbow Six Siege",
+      "Earnings": 5015761,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Rainbow Six Siege",
+      "Earnings": 5018245,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Rainbow Six Siege",
+      "Earnings": 2005269,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Street Fighter V: Arcade Edition",
+      "Earnings": 1155682,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Overwatch",
+      "Earnings": 4259004,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Overwatch",
+      "Earnings": 9587033,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Overwatch",
+      "Earnings": 6615788,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Overwatch",
+      "Earnings": 3488224,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Overwatch",
+      "Earnings": 1996936,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Shadowverse",
+      "Earnings": 1761474,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Shadowverse",
+      "Earnings": 1310000,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Magic: The Gathering Arena",
+      "Earnings": 1600000,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Magic: The Gathering Arena",
+      "Earnings": 2902006,
+      "Annee": "2019"
+   },
+   {
+      "Name": "CrossFire",
+      "Earnings": 1519051,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Gears 5",
+      "Earnings": 1223000,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Clash of Clans",
+      "Earnings": 1208961,
+      "Annee": "2020"
+   },
+   {
+      "Name": "Clash of Clans",
+      "Earnings": 1420525,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Heroes of the Storm",
+      "Earnings": 4277279,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Heroes of the Storm",
+      "Earnings": 5144450,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Heroes of the Storm",
+      "Earnings": 4363151,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Heroes of the Storm",
+      "Earnings": 2470682,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Quake Champions",
+      "Earnings": 1482850,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Call of Duty: Black Ops 4",
+      "Earnings": 5983193,
+      "Annee": "2019"
+   },
+   {
+      "Name": "FIFA 19",
+      "Earnings": 2190914,
+      "Annee": "2019"
+   },
+   {
+      "Name": "Street Fighter V",
+      "Earnings": 1317765,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Call of Duty: World War II",
+      "Earnings": 4287915,
+      "Annee": "2018"
+   },
+   {
+      "Name": "FIFA 18",
+      "Earnings": 1989151,
+      "Annee": "2018"
+   },
+   {
+      "Name": "Halo 5: Guardians",
+      "Earnings": 1348004,
+      "Annee": "2017"
+   },
+   {
+      "Name": "Halo 5: Guardians",
+      "Earnings": 3411238,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Call of Duty: Infinite Warfare",
+      "Earnings": 4031181,
+      "Annee": "2017"
+   },
+   {
+      "Name": "FIFA 17",
+      "Earnings": 1452303,
+      "Annee": "2017"
+   },
+   {
+      "Name": "World of Tanks",
+      "Earnings": 1103052,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Call of Duty: Black Ops III",
+      "Earnings": 3862182,
+      "Annee": "2016"
+   },
+   {
+      "Name": "Call of Duty: Advanced Warfare",
+      "Earnings": 2481855,
+      "Annee": "2015"
+   },
+   {
+      "Name": "Call of Duty: Black Ops 2",
+      "Earnings": 1432136,
+      "Annee": "2013"
+   },
+   {
+      "Name": "Call of Duty: Ghosts",
+      "Earnings": 1525432,
+      "Annee": "2014"
+   },
+   {
+      "Name": "Counter-Strike",
+      "Earnings": 1449651,
+      "Annee": "2010"
+   },
+   {
+      "Name": "Counter-Strike",
+      "Earnings": 1353396,
+      "Annee": "2009"
+   },
+   {
+      "Name": "Counter-Strike",
+      "Earnings": 1681702,
+      "Annee": "2008"
+   },
+   {
+      "Name": "Counter-Strike",
+      "Earnings": 1630998,
+      "Annee": "2007"
+   },
+   {
+      "Name": "Counter-Strike",
+      "Earnings": 4263188,
+      "Annee": "2006"
+   },
+   {
+      "Name": "Counter-Strike",
+      "Earnings": 1353437,
+      "Annee": "2005"
+   },
+   {
+      "Name": "Halo 2",
+      "Earnings": 1236100,
+      "Annee": "2006"
+   }
+]

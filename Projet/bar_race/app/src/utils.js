@@ -1,5 +1,5 @@
 import { max, scaleLinear } from 'd3'
-import _data from './data.json'
+import _data from './barrace.json'
 
 export const WIDTH = 1000
 export const HEIGHT = 500
