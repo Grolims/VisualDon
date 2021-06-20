@@ -3,748 +3,888 @@
         {
             "Name": "Quake II",
             "Earnings": 66200,
-            "Annee": "1998"
+            "Annee": "1998",
+            "Color": "#3BC1F0"
         },
         {
             "Name": "QuakeWorld",
             "Earnings": 43500,
-            "Annee": "1998"
+            "Annee": "1998",
+            "Color": "#D44602"
         },
         {
             "Name": "StarCraft: Brood War",
             "Earnings": 20000,
-            "Annee": "1998"
+            "Annee": "1998",
+            "Color": "#217864"
         },
         {
             "Name": "Age of Empires",
             "Earnings": 2000,
-            "Annee": "1998"
+            "Annee": "1998",
+            "Color": "#AD24E9"
         }
     ],
     "1999": [
         {
             "Name": "StarCraft: Brood War",
             "Earnings": 139552,
-            "Annee": "1999"
+            "Annee": "1999",
+            "Color": "#01A9DB"
         },
         {
             "Name": "Descent 3",
             "Earnings": 50000,
-            "Annee": "1999"
+            "Annee": "1999",
+            "Color": "#D880B6"
         },
         {
             "Name": "Quake III Arena",
             "Earnings": 43200,
-            "Annee": "1999"
+            "Annee": "1999",
+            "Color": "#540532"
         },
         {
             "Name": "Quake II",
             "Earnings": 42400,
-            "Annee": "1999"
+            "Annee": "1999",
+            "Color": "#415688"
         }
     ],
     "2000": [
         {
             "Name": "Quake III Arena",
             "Earnings": 415236,
-            "Annee": "2000"
+            "Annee": "2000",
+            "Color": "#25553D"
         },
         {
             "Name": "StarCraft: Brood War",
             "Earnings": 133036,
-            "Annee": "2000"
+            "Annee": "2000",
+            "Color": "#E477AB"
         },
         {
             "Name": "Age of Empires II",
             "Earnings": 113766,
-            "Annee": "2000"
+            "Annee": "2000",
+            "Color": "#969F5C"
         },
         {
             "Name": "FIFA 2000",
             "Earnings": 50000,
-            "Annee": "2000"
+            "Annee": "2000",
+            "Color": "#97C4A6"
         },
         {
             "Name": "Counter-Strike",
             "Earnings": 23763,
-            "Annee": "2000"
+            "Annee": "2000",
+            "Color": "#8E850A"
         },
         {
             "Name": "Age of Empires",
             "Earnings": 9500,
-            "Annee": "2000"
+            "Annee": "2000",
+            "Color": "#C68C09"
         }
     ],
     "2001": [
         {
             "Name": "Counter-Strike",
             "Earnings": 346590,
-            "Annee": "2001"
+            "Annee": "2001",
+            "Color": "#7574D7"
         },
         {
             "Name": "Age of Empires II",
             "Earnings": 160541,
-            "Annee": "2001"
+            "Annee": "2001",
+            "Color": "#B23EFB"
         },
         {
             "Name": "Quake III Arena",
             "Earnings": 147734,
-            "Annee": "2001"
+            "Annee": "2001",
+            "Color": "#B25E36"
         },
         {
             "Name": "StarCraft: Brood War",
             "Earnings": 91892,
-            "Annee": "2001"
+            "Annee": "2001",
+            "Color": "#A4B9D1"
         },
         {
             "Name": "Unreal Tournament",
             "Earnings": 46000,
-            "Annee": "2001"
+            "Annee": "2001",
+            "Color": "#2516D4"
         },
         {
             "Name": "FIFA 2001",
             "Earnings": 46000,
-            "Annee": "2001"
+            "Annee": "2001",
+            "Color": "#AD39D1"
         }
     ],
     "2002": [
         {
             "Name": "Counter-Strike",
             "Earnings": 400993,
-            "Annee": "2002"
+            "Annee": "2002",
+            "Color": "#900E11"
         },
         {
             "Name": "StarCraft: Brood War",
             "Earnings": 132943,
-            "Annee": "2002"
+            "Annee": "2002",
+            "Color": "#E08F31"
         },
         {
             "Name": "Quake III Arena",
             "Earnings": 102206,
-            "Annee": "2002"
+            "Annee": "2002",
+            "Color": "#807992"
         },
         {
             "Name": "Age of Empires II",
             "Earnings": 92866,
-            "Annee": "2002"
+            "Annee": "2002",
+            "Color": "#55D5C7"
         },
         {
             "Name": "Return to Castle Wolfenstein",
             "Earnings": 67424,
-            "Annee": "2002"
+            "Annee": "2002",
+            "Color": "#2F18E6"
         },
         {
             "Name": "FIFA 2002 World Cup",
             "Earnings": 43000,
-            "Annee": "2002"
+            "Annee": "2002",
+            "Color": "#0E2E9B"
         }
     ],
     "2003": [
         {
             "Name": "Counter-Strike",
             "Earnings": 819373,
-            "Annee": "2003"
+            "Annee": "2003",
+            "Color": "#263F89"
         },
         {
             "Name": "StarCraft: Brood War",
             "Earnings": 276836,
-            "Annee": "2003"
+            "Annee": "2003",
+            "Color": "#9316D8"
         },
         {
             "Name": "WarCraft III",
             "Earnings": 191629,
-            "Annee": "2003"
+            "Annee": "2003",
+            "Color": "#BB377D"
         },
         {
             "Name": "Unreal Tournament 2003",
             "Earnings": 111773,
-            "Annee": "2003"
+            "Annee": "2003",
+            "Color": "#6C597B"
         },
         {
             "Name": "Halo: Combat Evolved",
             "Earnings": 107150,
-            "Annee": "2003"
+            "Annee": "2003",
+            "Color": "#628792"
         },
         {
             "Name": "Quake III Arena",
             "Earnings": 95463,
-            "Annee": "2003"
+            "Annee": "2003",
+            "Color": "#816493"
         }
     ],
     "2004": [
         {
             "Name": "Counter-Strike",
             "Earnings": 899644,
-            "Annee": "2004"
+            "Annee": "2004",
+            "Color": "#DE7082"
         },
         {
             "Name": "StarCraft: Brood War",
             "Earnings": 498429,
-            "Annee": "2004"
+            "Annee": "2004",
+            "Color": "#16CF5C"
         },
         {
             "Name": "WarCraft III",
             "Earnings": 353385,
-            "Annee": "2004"
+            "Annee": "2004",
+            "Color": "#03EF89"
         },
         {
             "Name": "Doom 3",
             "Earnings": 207748,
-            "Annee": "2004"
+            "Annee": "2004",
+            "Color": "#53310B"
         },
         {
             "Name": "Halo: Combat Evolved",
             "Earnings": 183456,
-            "Annee": "2004"
+            "Annee": "2004",
+            "Color": "#C9BD76"
         },
         {
             "Name": "Counter-Strike: Condition Zero",
             "Earnings": 162150,
-            "Annee": "2004"
+            "Annee": "2004",
+            "Color": "#2601D1"
         }
     ],
     "2005": [
         {
             "Name": "Counter-Strike",
             "Earnings": 1353437,
-            "Annee": "2005"
+            "Annee": "2005",
+            "Color": "#3711F7"
         },
         {
             "Name": "Painkiller",
             "Earnings": 860001,
-            "Annee": "2005"
+            "Annee": "2005",
+            "Color": "#B2B067"
         },
         {
             "Name": "StarCraft: Brood War",
             "Earnings": 592754,
-            "Annee": "2005"
+            "Annee": "2005",
+            "Color": "#375987"
         },
         {
             "Name": "WarCraft III",
             "Earnings": 438645,
-            "Annee": "2005"
+            "Annee": "2005",
+            "Color": "#A380A3"
         },
         {
             "Name": "Halo 2",
             "Earnings": 197850,
-            "Annee": "2005"
+            "Annee": "2005",
+            "Color": "#552103"
         },
         {
             "Name": "Counter-Strike: Source",
             "Earnings": 150544,
-            "Annee": "2005"
+            "Annee": "2005",
+            "Color": "#7864F6"
         }
     ],
     "2006": [
         {
             "Name": "Counter-Strike",
             "Earnings": 4263188,
-            "Annee": "2006"
+            "Annee": "2006",
+            "Color": "#7742E2"
         },
         {
             "Name": "StarCraft: Brood War",
             "Earnings": 1618052,
-            "Annee": "2006"
+            "Annee": "2006",
+            "Color": "#5A03DE"
         },
         {
             "Name": "Halo 2",
             "Earnings": 1236100,
-            "Annee": "2006"
+            "Annee": "2006",
+            "Color": "#BB1208"
         },
         {
             "Name": "WarCraft III",
             "Earnings": 1035148,
-            "Annee": "2006"
+            "Annee": "2006",
+            "Color": "#F2371B"
         },
         {
             "Name": "Quake 4",
             "Earnings": 716672,
-            "Annee": "2006"
+            "Annee": "2006",
+            "Color": "#9DE287"
         },
         {
             "Name": "Counter-Strike: Source",
             "Earnings": 355410,
-            "Annee": "2006"
+            "Annee": "2006",
+            "Color": "#E155CE"
         }
     ],
     "2007": [
         {
             "Name": "Counter-Strike",
             "Earnings": 1630998,
-            "Annee": "2007"
+            "Annee": "2007",
+            "Color": "#2E74B8"
         },
         {
             "Name": "StarCraft: Brood War",
             "Earnings": 1049959,
-            "Annee": "2007"
+            "Annee": "2007",
+            "Color": "#34374C"
         },
         {
             "Name": "Counter-Strike: Source",
             "Earnings": 840892,
-            "Annee": "2007"
+            "Annee": "2007",
+            "Color": "#CC3537"
         },
         {
             "Name": "WarCraft III",
             "Earnings": 810502,
-            "Annee": "2007"
+            "Annee": "2007",
+            "Color": "#7A776C"
         },
         {
             "Name": "Halo 2",
             "Earnings": 673462,
-            "Annee": "2007"
+            "Annee": "2007",
+            "Color": "#53541D"
         },
         {
             "Name": "Dead or Alive 4",
             "Earnings": 254986,
-            "Annee": "2007"
+            "Annee": "2007",
+            "Color": "#DCC904"
         }
     ],
     "2008": [
         {
             "Name": "Counter-Strike",
             "Earnings": 1681702,
-            "Annee": "2008"
+            "Annee": "2008",
+            "Color": "#C75CB8"
         },
         {
             "Name": "StarCraft: Brood War",
             "Earnings": 1050522,
-            "Annee": "2008"
+            "Annee": "2008",
+            "Color": "#70E3BC"
         },
         {
             "Name": "Counter-Strike: Source",
             "Earnings": 871996,
-            "Annee": "2008"
+            "Annee": "2008",
+            "Color": "#9C4E44"
         },
         {
             "Name": "Halo 3",
             "Earnings": 688924,
-            "Annee": "2008"
+            "Annee": "2008",
+            "Color": "#D8770C"
         },
         {
             "Name": "WarCraft III",
             "Earnings": 681491,
-            "Annee": "2008"
+            "Annee": "2008",
+            "Color": "#7A2A2B"
         },
         {
             "Name": "World of WarCraft",
             "Earnings": 450500,
-            "Annee": "2008"
+            "Annee": "2008",
+            "Color": "#2F965B"
         }
     ],
     "2009": [
         {
             "Name": "Counter-Strike",
             "Earnings": 1353396,
-            "Annee": "2009"
+            "Annee": "2009",
+            "Color": "#C1743E"
         },
         {
             "Name": "StarCraft: Brood War",
             "Earnings": 708770,
-            "Annee": "2009"
+            "Annee": "2009",
+            "Color": "#8ACB30"
         },
         {
             "Name": "WarCraft III",
             "Earnings": 387344,
-            "Annee": "2009"
+            "Annee": "2009",
+            "Color": "#B169FE"
         },
         {
             "Name": "World of WarCraft",
             "Earnings": 350138,
-            "Annee": "2009"
+            "Annee": "2009",
+            "Color": "#AECE27"
         },
         {
             "Name": "Counter-Strike: Source",
             "Earnings": 247035,
-            "Annee": "2009"
+            "Annee": "2009",
+            "Color": "#2ABF50"
         },
         {
             "Name": "Halo 3",
             "Earnings": 234899,
-            "Annee": "2009"
+            "Annee": "2009",
+            "Color": "#6EE43A"
         }
     ],
     "2010": [
         {
             "Name": "Counter-Strike",
             "Earnings": 1449651,
-            "Annee": "2010"
+            "Annee": "2010",
+            "Color": "#84ACAC"
         },
         {
             "Name": "StarCraft II",
             "Earnings": 820835,
-            "Annee": "2010"
+            "Annee": "2010",
+            "Color": "#010674"
         },
         {
             "Name": "Halo 3",
             "Earnings": 798113,
-            "Annee": "2010"
+            "Annee": "2010",
+            "Color": "#A87035"
         },
         {
             "Name": "StarCraft: Brood War",
             "Earnings": 628498,
-            "Annee": "2010"
+            "Annee": "2010",
+            "Color": "#E86002"
         },
         {
             "Name": "WarCraft III",
             "Earnings": 362762,
-            "Annee": "2010"
+            "Annee": "2010",
+            "Color": "#245DBB"
         },
         {
             "Name": "Counter-Strike: Source",
             "Earnings": 351444,
-            "Annee": "2010"
+            "Annee": "2010",
+            "Color": "#46F2A7"
         }
     ],
     "2011": [
         {
             "Name": "StarCraft II",
             "Earnings": 3179858,
-            "Annee": "2011"
+            "Annee": "2011",
+            "Color": "#B8104D"
         },
         {
             "Name": "Dota 2",
             "Earnings": 1672268,
-            "Annee": "2011"
+            "Annee": "2011",
+            "Color": "#E0FC5F"
         },
         {
             "Name": "Counter-Strike",
             "Earnings": 879909,
-            "Annee": "2011"
+            "Annee": "2011",
+            "Color": "#0C7505"
         },
         {
             "Name": "Halo: Reach",
             "Earnings": 593520,
-            "Annee": "2011"
+            "Annee": "2011",
+            "Color": "#53827A"
         },
         {
             "Name": "League of Legends",
             "Earnings": 526568,
-            "Annee": "2011"
+            "Annee": "2011",
+            "Color": "#C84FF5"
         },
         {
             "Name": "StarCraft: Brood War",
             "Earnings": 423061,
-            "Annee": "2011"
+            "Annee": "2011",
+            "Color": "#DADAF7"
         }
     ],
     "2012": [
         {
             "Name": "League of Legends",
             "Earnings": 4287202,
-            "Annee": "2012"
+            "Annee": "2012",
+            "Color": "#F5AAD2"
         },
         {
             "Name": "StarCraft II",
             "Earnings": 4200051,
-            "Annee": "2012"
+            "Annee": "2012",
+            "Color": "#B999A0"
         },
         {
             "Name": "Dota 2",
             "Earnings": 2087090,
-            "Annee": "2012"
+            "Annee": "2012",
+            "Color": "#C8F436"
         },
         {
             "Name": "Counter-Strike",
             "Earnings": 547579,
-            "Annee": "2012"
+            "Annee": "2012",
+            "Color": "#15587F"
         },
         {
             "Name": "Heroes of Newerth",
             "Earnings": 341958,
-            "Annee": "2012"
+            "Annee": "2012",
+            "Color": "#C1CEE1"
         },
         {
             "Name": "Counter-Strike: Global Offensive",
             "Earnings": 222535,
-            "Annee": "2012"
+            "Annee": "2012",
+            "Color": "#78D0D5"
         }
     ],
     "2013": [
         {
             "Name": "League of Legends",
             "Earnings": 6226154,
-            "Annee": "2013"
+            "Annee": "2013",
+            "Color": "#5BB7F0"
         },
         {
             "Name": "Dota 2",
             "Earnings": 4543136,
-            "Annee": "2013"
+            "Annee": "2013",
+            "Color": "#77FD03"
         },
         {
             "Name": "StarCraft II",
             "Earnings": 3847459,
-            "Annee": "2013"
+            "Annee": "2013",
+            "Color": "#628CD6"
         },
         {
             "Name": "Call of Duty: Black Ops 2",
             "Earnings": 1432136,
-            "Annee": "2013"
+            "Annee": "2013",
+            "Color": "#D1C6CE"
         },
         {
             "Name": "Counter-Strike: Global Offensive",
             "Earnings": 1211864,
-            "Annee": "2013"
+            "Annee": "2013",
+            "Color": "#62E744"
         },
         {
             "Name": "Turbo Racing League",
             "Earnings": 1000000,
-            "Annee": "2013"
+            "Annee": "2013",
+            "Color": "#1344F3"
         }
     ],
     "2014": [
         {
             "Name": "Dota 2",
             "Earnings": 16608025,
-            "Annee": "2014"
+            "Annee": "2014",
+            "Color": "#5A81E3"
         },
         {
             "Name": "League of Legends",
             "Earnings": 8057284,
-            "Annee": "2014"
+            "Annee": "2014",
+            "Color": "#09468A"
         },
         {
             "Name": "StarCraft II",
             "Earnings": 3473751,
-            "Annee": "2014"
+            "Annee": "2014",
+            "Color": "#F5B16E"
         },
         {
             "Name": "Counter-Strike: Global Offensive",
             "Earnings": 1962508,
-            "Annee": "2014"
+            "Annee": "2014",
+            "Color": "#A284B2"
         },
         {
             "Name": "Call of Duty: Ghosts",
             "Earnings": 1525432,
-            "Annee": "2014"
+            "Annee": "2014",
+            "Color": "#95EC00"
         },
         {
             "Name": "Hearthstone",
             "Earnings": 1123239,
-            "Annee": "2014"
+            "Annee": "2014",
+            "Color": "#8FB0AA"
         }
     ],
     "2015": [
         {
             "Name": "Dota 2",
             "Earnings": 31050782,
-            "Annee": "2015"
+            "Annee": "2015",
+            "Color": "#14B3B0"
         },
         {
             "Name": "League of Legends",
             "Earnings": 7717800,
-            "Annee": "2015"
+            "Annee": "2015",
+            "Color": "#8D878F"
         },
         {
             "Name": "Counter-Strike: Global Offensive",
             "Earnings": 6284964,
-            "Annee": "2015"
+            "Annee": "2015",
+            "Color": "#C3C906"
         },
         {
             "Name": "SMITE",
             "Earnings": 3709086,
-            "Annee": "2015"
+            "Annee": "2015",
+            "Color": "#6C9ABB"
         },
         {
             "Name": "StarCraft II",
             "Earnings": 3017753,
-            "Annee": "2015"
+            "Annee": "2015",
+            "Color": "#C9C956"
         },
         {
             "Name": "Call of Duty: Advanced Warfare",
             "Earnings": 2481855,
-            "Annee": "2015"
+            "Annee": "2015",
+            "Color": "#D89999"
         }
     ],
     "2016": [
         {
             "Name": "Dota 2",
             "Earnings": 37464413,
-            "Annee": "2016"
+            "Annee": "2016",
+            "Color": "#BCC1C1"
         },
         {
             "Name": "Counter-Strike: Global Offensive",
             "Earnings": 17266126,
-            "Annee": "2016"
+            "Annee": "2016",
+            "Color": "#A33077"
         },
         {
             "Name": "League of Legends",
             "Earnings": 10529055,
-            "Annee": "2016"
+            "Annee": "2016",
+            "Color": "#FEB45B"
         },
         {
             "Name": "Heroes of the Storm",
             "Earnings": 4363151,
-            "Annee": "2016"
+            "Annee": "2016",
+            "Color": "#312278"
         },
         {
             "Name": "Call of Duty: Black Ops III",
             "Earnings": 3862182,
-            "Annee": "2016"
+            "Annee": "2016",
+            "Color": "#82574B"
         },
         {
             "Name": "Hearthstone",
             "Earnings": 3455120,
-            "Annee": "2016"
+            "Annee": "2016",
+            "Color": "#11F541"
         }
     ],
     "2017": [
         {
             "Name": "Dota 2",
             "Earnings": 38074593,
-            "Annee": "2017"
+            "Annee": "2017",
+            "Color": "#90ACED"
         },
         {
             "Name": "Counter-Strike: Global Offensive",
             "Earnings": 19270075,
-            "Annee": "2017"
+            "Annee": "2017",
+            "Color": "#5D804B"
         },
         {
             "Name": "League of Legends",
             "Earnings": 12232814,
-            "Annee": "2017"
+            "Annee": "2017",
+            "Color": "#B776E3"
         },
         {
             "Name": "Heroes of the Storm",
             "Earnings": 5144450,
-            "Annee": "2017"
+            "Annee": "2017",
+            "Color": "#405995"
         },
         {
             "Name": "Call of Duty: Infinite Warfare",
             "Earnings": 4031181,
-            "Annee": "2017"
+            "Annee": "2017",
+            "Color": "#29B953"
         },
         {
             "Name": "Overwatch",
             "Earnings": 3488224,
-            "Annee": "2017"
+            "Annee": "2017",
+            "Color": "#6C0ED3"
         }
     ],
     "2018": [
         {
             "Name": "Dota 2",
             "Earnings": 41457363,
-            "Annee": "2018"
+            "Annee": "2018",
+            "Color": "#682BE7"
         },
         {
             "Name": "Counter-Strike: Global Offensive",
             "Earnings": 23306924,
-            "Annee": "2018"
+            "Annee": "2018",
+            "Color": "#5477D5"
         },
         {
             "Name": "Fortnite",
             "Earnings": 19880331,
-            "Annee": "2018"
+            "Annee": "2018",
+            "Color": "#A3500D"
         },
         {
             "Name": "League of Legends",
             "Earnings": 14573292,
-            "Annee": "2018"
+            "Annee": "2018",
+            "Color": "#927692"
         },
         {
             "Name": "PLAYERUNKNOWN�S BATTLEGROUNDS",
             "Earnings": 8319220,
-            "Annee": "2018"
+            "Annee": "2018",
+            "Color": "#EEB18D"
         },
         {
             "Name": "Overwatch",
             "Earnings": 6615788,
-            "Annee": "2018"
+            "Annee": "2018",
+            "Color": "#23C689"
         }
     ],
     "2019": [
         {
             "Name": "Fortnite",
             "Earnings": 71598122,
-            "Annee": "2019"
+            "Annee": "2019",
+            "Color": "#E79FF0"
         },
         {
             "Name": "Dota 2",
             "Earnings": 47043515,
-            "Annee": "2019"
+            "Annee": "2019",
+            "Color": "#DE5870"
         },
         {
             "Name": "Counter-Strike: Global Offensive",
             "Earnings": 21988683,
-            "Annee": "2019"
+            "Annee": "2019",
+            "Color": "#1D9171"
         },
         {
             "Name": "PLAYERUNKNOWN�S BATTLEGROUNDS",
             "Earnings": 11327216,
-            "Annee": "2019"
+            "Annee": "2019",
+            "Color": "#D96B6D"
         },
         {
             "Name": "Overwatch",
             "Earnings": 9587033,
-            "Annee": "2019"
+            "Annee": "2019",
+            "Color": "#2F32B4"
         },
         {
             "Name": "League of Legends",
             "Earnings": 9542077,
-            "Annee": "2019"
+            "Annee": "2019",
+            "Color": "#9348AB"
         }
     ],
     "2020": [
         {
             "Name": "Counter-Strike: Global Offensive",
             "Earnings": 15858061,
-            "Annee": "2020"
+            "Annee": "2020",
+            "Color": "#D7A8AD"
         },
         {
             "Name": "Arena of Valor",
             "Earnings": 9500995,
-            "Annee": "2020"
+            "Annee": "2020",
+            "Color": "#463932"
         },
         {
             "Name": "Dota 2",
             "Earnings": 9323850,
-            "Annee": "2020"
+            "Annee": "2020",
+            "Color": "#258D66"
         },
         {
             "Name": "Fortnite",
             "Earnings": 8208642,
-            "Annee": "2020"
+            "Annee": "2020",
+            "Color": "#5901D4"
         },
         {
             "Name": "League of Legends",
             "Earnings": 8163203,
-            "Annee": "2020"
+            "Annee": "2020",
+            "Color": "#62A9C8"
         },
         {
             "Name": "Call of Duty: Modern Warfare",
             "Earnings": 6228173,
-            "Annee": "2020"
+            "Annee": "2020",
+            "Color": "#0E77B6"
         }
     ],
     "2021": [
         {
             "Name": "PLAYERUNKNOWN�S BATTLEGROUNDS",
             "Earnings": 7128071,
-            "Annee": "2021"
+            "Annee": "2021",
+            "Color": "#1C7CCC"
         },
         {
             "Name": "Counter-Strike: Global Offensive",
             "Earnings": 3614617,
-            "Annee": "2021"
+            "Annee": "2021",
+            "Color": "#3E24EC"
         },
         {
             "Name": "Fortnite",
             "Earnings": 2556366,
-            "Annee": "2021"
+            "Annee": "2021",
+            "Color": "#55E8C3"
         },
         {
             "Name": "Dota 2",
             "Earnings": 2010152,
-            "Annee": "2021"
+            "Annee": "2021",
+            "Color": "#07BB1D"
         },
         {
             "Name": "PLAYERUNKNOWN'S BATTLEGROUNDS Mobile",
             "Earnings": 1207137,
-            "Annee": "2021"
+            "Annee": "2021",
+            "Color": "#DD1547"
         },
         {
             "Name": "Rocket League",
             "Earnings": 935509,
-            "Annee": "2021"
+            "Annee": "2021",
+            "Color": "#8625BB"
         }
     ]
 }

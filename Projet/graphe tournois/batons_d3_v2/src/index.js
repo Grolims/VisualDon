@@ -8,6 +8,7 @@ import {
   scaleSequential,
   axisRight,
   axisBottom,
+  colo
 } from 'd3'
 
 import d3color, { schemePastel1, schemeSet1,interpolateViridis } from 'd3-scale-chromatic';
@@ -17,12 +18,11 @@ import DATA from "./JeuxParAnne.json"
 import DATA2 from "./TotParAnne.json"
 
 
-
 //donne de depart à 1998
 const donneStart = DATA["1998"];
 const colors = schemePastel1
 // mise en place graphe
-
+console.log(DATA);
 const WIDTH = 1000
 const HEIGHT = 500
 const MARGIN = 5
@@ -30,8 +30,25 @@ const MARGIN_LEFT = 50
 const MARGIN_BOTTOM = 50
 const BAR_WIDTH = (WIDTH - MARGIN_LEFT) / 5
 
+let nom =[];
+let uniquenom = [];
+let elem = [];
 
-  const svg = select("#chart")
+for (let index = 1998; index < 2012; index++) {
+  elem = DATA[index];
+  elem.forEach(e => {
+    nom.push(e.Name);
+  });
+  
+}
+uniquenom = getUnique(nom);
+console.log(uniquenom);
+
+var myColor = scaleOrdinal().domain(uniquenom)
+.range(schemePastel1)
+  
+
+const svg = select("#chart")
   .append('svg')
   .attr('viewBox', `0 0 ${WIDTH} ${HEIGHT}`)
 
@@ -56,7 +73,8 @@ const g = svg.append('g')
   .attr('width', BAR_WIDTH - MARGIN)
   .attr('y', d => yScale(d.Earnings))
   .attr('height', d => HEIGHT - MARGIN_BOTTOM - yScale(d.Earnings))
-  .attr('fill', function(d,i){return colors[i]})
+  //.attr('fill', function(d,i){return colors[i]})
+
 
 
 const text = g.selectAll('text')
@@ -81,7 +99,17 @@ const axis = svg.append('g')
   .attr('transform', `translate(${MARGIN_LEFT - 3})`)
   .call(axisY)
 
-
+  function getUnique(array){
+    var uniqueArray = [];
+    
+    // Loop through array values
+    for(let i=0; i < array.length; i++){
+        if(uniqueArray.indexOf(array[i]) === -1) {
+            uniqueArray.push(array[i]);
+        }
+    }
+    return uniqueArray;
+}
 
 // gestion slider
 var slider = document.getElementById("myRange");
@@ -95,13 +123,17 @@ slider.oninput = function() {
   
 }
 
+
 // event slider gestion move
 slider.addEventListener("input", e => {
   
+ 
   const a = e.target.value;
   const donnee = DATA[a];
-  console.log(a);
 
+
+
+  uniquenom = getUnique(nom);
   // texte eplicatif pour anne X
   if (a ===  "1998")
   {
@@ -118,7 +150,7 @@ slider.addEventListener("input", e => {
     textEplicatif.textContent = "Domination des FPS mais surtout de Cunter-Strike dans les différents tournois. Sortie ";
   }else if (a === "2005") 
   {
-    textEplicatif.textContent = "Apparition du jeux Painkiller un FPS avec un gameplay similaire à son grand frère Quake et il fera son unique apparition dans ce classement du au choix de ce dernier par la CPL avec un tournois international dont le cahsprizes était de 510,000.00$";
+    textEplicatif.textContent = "Apparition du jeux Painkiller un FPS avec un gameplay similaire à son grand frère Quake et il fera son unique apparition dans ce classement du au choix de ce dernier par la CPL avec un tournois international dont le cahsprizes était de 510,000.00à$";
   }else{
     textEplicatif.textContent = "";
   }
@@ -130,9 +162,11 @@ slider.addEventListener("input", e => {
   .transition()
   .attr('y', d => yScale(d.Earnings))
   .attr('height', d => HEIGHT - MARGIN_BOTTOM - yScale(d.Earnings))
+  .attr("fill", function(d){return myColor(d.Name) })
 
   text.data(donnee)
   .text(d => d.Name)
+
 
   axis
     .transition()

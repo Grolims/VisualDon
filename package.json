@@ -13,6 +13,7 @@
     "billboard.js": "^3.0.3",
     "chart-race-react": "^1.0.2",
     "cheerio": "^1.0.0-rc.6",
+    "color-interpolate": "^1.0.5",
     "d3": "^6.7.0",
     "xlsx": "^0.16.9"
   }
