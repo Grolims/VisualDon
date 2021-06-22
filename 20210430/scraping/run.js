@@ -1,14 +1,14 @@
-var cl = (el, className) => Array.from(el.getElementsByClassName(className))
+var cl = (el, selct) => Array.from(el.querySelectorAll(selct))
 
-cl(temp1, 'col-sm-4')
-  .map(div => {
-    var title = cl(div, 'title')
-    var price = cl(div, 'price')
-    var ratings = cl(div, 'ratings')
+cl(temp1, 'div.thumbnail')
+  .map(el => {
+    let product = el.querySelector("a.title").textContent
+    let price = el.querySelector("h4.price").textContent
+    let rating = el.querySelector("div.ratings > p:not(.pull-right)").dataset.rating
 
     return {
-      produit: title[0].textContent.trim(),
-      prix: price[0].textContent.trim(),
-      etoiles: ratings[0].getElementsByTagName('p')[0].dataset.rating,
+      produit: product,
+      prix: price,
+      etoiles: rating,
     }
 })
