@@ -1,23 +1,14 @@
-const cheerio = require('cheerio');
-const fs = require('fs')
-const XMLHttRequest = require('xmlhttprequest').XMLHttpRequest
-const req = new XMLHttRequest();
+var cl = (el, className) => Array.from(el.getElementsByClassName(className))
 
-const URL = "https://www.webscraper.io/test-sites/e-commerce/allinone/computers/laptops";
+cl(temp1, 'col-sm-4')
+  .map(div => {
+    var title = cl(div, 'title')
+    var price = cl(div, 'price')
+    var ratings = cl(div, 'ratings')
 
-req.open('GET', URL, false);
-req.send(null);
-
-const $ = cheerio.load(req.responseText);
-
-
-$.html;
-
-console.log($('.caption h4').text());
-
-
-
-
-
-//console.log($('a[title="Asus VivoBook X441NA-GA190"]'));
-
+    return {
+      produit: title[0].textContent.trim(),
+      prix: price[0].textContent.trim(),
+      etoiles: ratings[0].getElementsByTagName('p')[0].dataset.rating,
+    }
+})
