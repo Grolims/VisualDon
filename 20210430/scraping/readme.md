@@ -1,0 +1,4 @@
+-chargement des différentes classes
+-séléctionner les catégories voulues
+-recupéréer chaque elem par classe
+-return sous forme d'objet
