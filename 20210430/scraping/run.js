@@ -1,4 +1,4 @@
-var cl = (el, selct) => Array.from(el.querySelectorAll(selct))
+var cl = (el, className) => Array.from(el.querySelectorAll(className)
 
 cl(temp1, 'div.thumbnail')
   .map(el => {
