@@ -1,1 +1,44 @@
-sd
+<html>
+  <head>
+    <style>
+body {
+  text-align: center;
+}
+    </style>
+    <script src="https://unpkg.com/zdog@1/dist/zdog.dist.min.js"></script>
+  </head>
+  <body>
+    <canvas class="zdog-canvas" width="240" height="240"></canvas>
+
+
+    <script>
+const TAU = Zdog.TAU; // easier to read constant
+
+// create illo
+let illo = new Zdog.Illustration({
+  element: '.zdog-canvas',
+  zoom: 2,
+  dragRotate: true,
+});
+
+new Zdog.Hemisphere({
+  addTo: illo,
+  diameter: 80,
+  stroke: 30,
+  color: '#39A2DB',
+  backface: '#EA0',
+});
+
+function animate() {
+  // rotate illo each frame
+  illo.rotate.y += 0.06;
+  illo.updateRenderGraph();
+  // animate next frame
+  requestAnimationFrame( animate );
+}
+// start animation
+animate();
+illo.updateRenderGraph();
+    </script>
+  </body>
+</html>
